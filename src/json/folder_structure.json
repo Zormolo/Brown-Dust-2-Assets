@@ -1,0 +1,1505 @@
+[
+  {
+    "name": "spine",
+    "folder_list": [
+      {
+        "name": "character",
+        "folder_list": [
+          {
+            "name": "Alec",
+            "folder_list": [
+              {
+                "name": "The_Destruction"
+              },
+              {
+                "name": "Sword_Breaker"
+              }
+            ]
+          },
+          {
+            "name": "Anastasia",
+            "folder_list": [
+              {
+                "name": "Gentle_Maid"
+              },
+              {
+                "name": "Fire_Graffiti"
+              }
+            ]
+          },
+          {
+            "name": "Andrew",
+            "folder_list": [
+              {
+                "name": "Loyal_Butler"
+              },
+              {
+                "name": "Specialist"
+              }
+            ]
+          },
+          {
+            "name": "Angelica",
+            "folder_list": [
+              {
+                "name": "The_Fallen"
+              },
+              {
+                "name": "Pool_Party"
+              },
+              {
+                "name": "Neon_Saviour"
+              }
+            ]
+          },
+          {
+            "name": "Arines"
+          },
+          {
+            "name": "Beatrice"
+          },
+          {
+            "name": "Bernie"
+          },
+          {
+            "name": "Blade",
+            "folder_list": [
+              {
+                "name": "Apostle"
+              },
+              {
+                "name": "Onsen_Swordfighter"
+              },
+              {
+                "name": "Young_Lady"
+              }
+            ]
+          },
+          {
+            "name": "Carlson"
+          },
+          {
+            "name": "Celia",
+            "folder_list": [
+              {
+                "name": "The_Curse"
+              },
+              {
+                "name": "Descendant_of_the_Great_Witch"
+              },
+              {
+                "name": "Masquerade_Bunny"
+              }
+            ]
+          },
+          {
+            "name": "Cynthia"
+          },
+          {
+            "name": "Dalvi",
+            "folder_list": [
+              {
+                "name": "Bright_Moon"
+              },
+              {
+                "name": "Summer_Vacation"
+              }
+            ]
+          },
+          {
+            "name": "Darian",
+            "folder_list": [
+              {
+                "name": "Prophetic_Dream"
+              },
+              {
+                "name": "Bittersweet_Bunny"
+              }
+            ]
+          },
+          {
+            "name": "Diana",
+            "folder_list": [
+              {
+                "name": "Adventurer_of_the_Unknown"
+              },
+              {
+                "name": "Anti-Dystopia"
+              }
+            ]
+          },
+          {
+            "name": "Eclipse",
+            "folder_list": [
+              {
+                "name": "The_Dimension_Witch"
+              },
+              {
+                "name": "Nightmare_Bunny"
+              },
+              {
+                "name": "Beach_Vacation"
+              },
+              {
+                "name": "Dream_Bride"
+              }
+            ]
+          },
+          {
+            "name": "Eleaneer",
+            "folder_list": [
+              {
+                "name": "Magic_Piercing_Bow"
+              },
+              {
+                "name": "B-Rank_Idol"
+              },
+              {
+                "name": "Shadow_Bunny"
+              }
+            ]
+          },
+          {
+            "name": "Elise",
+            "folder_list": [
+              {
+                "name": "Lovely_Lady"
+              },
+              {
+                "name": "Code_Name_O"
+              }
+            ]
+          },
+          {
+            "name": "Elpis"
+          },
+          {
+            "name": "Emma",
+            "folder_list": [
+              {
+                "name": "Haggard_Delinquent"
+              },
+              {
+                "name": "School_Queen"
+              }
+            ]
+          },
+          {
+            "name": "Eris",
+            "folder_list": [
+              {
+                "name": "Esteemed_Adventurer"
+              },
+              {
+                "name": "Your_Very_Own_Cat"
+              }
+            ]
+          },
+          {
+            "name": "Fred"
+          },
+          {
+            "name": "Glacia",
+            "folder_list": [
+              {
+                "name": "Alice"
+              },
+              {
+                "name": "Disciplinary_Committee"
+              }
+            ]
+          },
+          {
+            "name": "Goblin_Slayer"
+          },
+          {
+            "name": "Granadair",
+            "folder_list": [
+              {
+                "name": "Shrine_Maiden_of_Purification"
+              },
+              {
+                "name": "Queen_of_Gluttis"
+              }
+            ]
+          },
+          {
+            "name": "Granhildr",
+            "folder_list": [
+              {
+                "name": "The_Void"
+              },
+              {
+                "name": "Comeback_Idol"
+              },
+              {
+                "name": "Boo_Ghost"
+              }
+            ]
+          },
+          {
+            "name": "Gray",
+            "folder_list": [
+              {
+                "name": "The_Sharpshooter_of_the_Mist"
+              },
+              {
+                "name": "B-Rank_Manager"
+              },
+              {
+                "name": "Vanguard"
+              },
+              {
+                "name": "Pool_Party"
+              }
+            ]
+          },
+          {
+            "name": "Gynt"
+          },
+          {
+            "name": "Helena",
+            "folder_list": [
+              {
+                "name": "Top_Idol"
+              },
+              {
+                "name": "B-Rank_Idol"
+              }
+            ]
+          },
+          {
+            "name": "High_Elf_Archer"
+          },
+          {
+            "name": "Hikage"
+          },
+          {
+            "name": "Ingrid"
+          },
+          {
+            "name": "Jayden",
+            "folder_list": [
+              {
+                "name": "Beautful_Girl_Devotee"
+              },
+              {
+                "name": "Manga_Research_Club"
+              }
+            ]
+          },
+          {
+            "name": "Julie"
+          },
+          {
+            "name": "Justia",
+            "folder_list": [
+              {
+                "name": "Knight_of_Blood"
+              },
+              {
+                "name": "White_Reaper"
+              },
+              {
+                "name": "Blood_Glutton"
+              },
+              {
+                "name": "Kendo_Club"
+              },
+              {
+                "name": "Pool_Party"
+              },
+              {
+                "name": "Hot_Summer_Dream_Prestige"
+              }
+            ]
+          },
+          {
+            "name": "Kry",
+            "folder_list": [
+              {
+                "name": "Liberated_Marauder"
+              },
+              {
+                "name": "Violent_Student"
+              }
+            ]
+          },
+          {
+            "name": "Lathel",
+            "folder_list": [
+              {
+                "name": "Medicinal_Herb_Gatherer"
+              },
+              {
+                "name": "Lonely_Survivor"
+              },
+              {
+                "name": "Homunculus"
+              },
+              {
+                "name": "Dark_Knight"
+              },
+              {
+                "name": "Promise_of_Vengeance"
+              },
+              {
+                "name": "Pool_Party"
+              }
+            ]
+          },
+          {
+            "name": "Layla"
+          },
+          {
+            "name": "Lecliss",
+            "folder_list": [
+              {
+                "name": "Killer_Doll"
+              },
+              {
+                "name": "Android_Queen"
+              }
+            ]
+          },
+          {
+            "name": "Levia",
+            "folder_list": [
+              {
+                "name": "Track_and_Field_Team_Captain"
+              },
+              {
+                "name": "Night_of_Jealousy"
+              },
+              {
+                "name": "Overheat"
+              }
+            ]
+          },
+          {
+            "name": "Liatris",
+            "folder_list": [
+              {
+                "name": "Rodev's_Star"
+              },
+              {
+                "name": "Neon_Stalker"
+              },
+              {
+                "name": "Maid_Name_R"
+              }
+            ]
+          },
+          {
+            "name": "Liberta",
+            "folder_list": [
+              {
+                "name": "Dark_Saintess"
+              },
+              {
+                "name": "Onsen_Manager"
+              },
+              {
+                "name": "Hedonist_Prestige"
+              }
+            ]
+          },
+          {
+            "name": "Lisianne"
+          },
+          {
+            "name": "Loen",
+            "folder_list": [
+              {
+                "name": "Last_Hope"
+              },
+              {
+                "name": "Track_and_Field_Team_Member"
+              },
+              {
+                "name": "Celebrity_Bunny"
+              }
+            ]
+          },
+          {
+            "name": "Lucrezia"
+          },
+          {
+            "name": "Luvencia",
+            "folder_list": [
+              {
+                "name": "Deal_Snatcher"
+              },
+              {
+                "name": "Wild_Dog"
+              }
+            ]
+          },
+          {
+            "name": "Lydia"
+          },
+          {
+            "name": "Maria"
+          },
+          {
+            "name": "Michaela",
+            "folder_list": [
+              {
+                "name": "Beachside_Justice"
+              },
+              {
+                "name": "Queen_of_Signatures"
+              },
+              {
+                "name": "Acting_Archbishop"
+              }
+            ]
+          },
+          {
+            "name": "Morphea",
+            "folder_list": [
+              {
+                "name": "Summer_Vacation"
+              },
+              {
+                "name": "Daydream_Bunny"
+              },
+              {
+                "name": "Apostle"
+              }
+            ]
+          },
+          {
+            "name": "Nartas"
+          },
+          {
+            "name": "Nebris",
+            "folder_list": [
+              {
+                "name": "Labyrinth_Gatekeeper"
+              },
+              {
+                "name": "Laid-back_Lifeguard"
+              },
+              {
+                "name": "New_Hire"
+              }
+            ]
+          },
+          {
+            "name": "Olivier",
+            "folder_list": [
+              {
+                "name": "Wings_of_Faithfulness"
+              },
+              {
+                "name": "Apostle"
+              },
+              {
+                "name": "Fallen_Wings"
+              }
+            ]
+          },
+          {
+            "name": "Olstein",
+            "folder_list": [
+              {
+                "name": "The_Fiend_Scholar"
+              },
+              {
+                "name": "Sage_of_Blue_Clouds"
+              }
+            ]
+          },
+          {
+            "name": "Priestess"
+          },
+          {
+            "name": "Rafina",
+            "folder_list": [
+              {
+                "name": "Steel_Engine"
+              },
+              {
+                "name": "Code_Name_A"
+              },
+              {
+                "name": "Game_Club"
+              }
+            ]
+          },
+          {
+            "name": "Refithea",
+            "folder_list": [
+              {
+                "name": "The_Gluttonous"
+              },
+              {
+                "name": "Pure_White_Blessing"
+              },
+              {
+                "name": "Poolside_Fairy"
+              }
+            ]
+          },
+          {
+            "name": "Remnunt"
+          },
+          {
+            "name": "Rigenette"
+          },
+          {
+            "name": "Rou",
+            "folder_list": [
+              {
+                "name": "White_Cat"
+              },
+              {
+                "name": "Red_Riding_Hood"
+              },
+              {
+                "name": "Nature's_Claw"
+              },
+              {
+                "name": "Stray_Cat"
+              }
+            ]
+          },
+          {
+            "name": "Roxy",
+            "folder_list": [
+              {
+                "name": "Respected_Master"
+              },
+              {
+                "name": "Emerging_Desire"
+              }
+            ]
+          },
+          {
+            "name": "Rubia",
+            "folder_list": [
+              {
+                "name": "Thorn_of_the_Desert"
+              },
+              {
+                "name": "Empress_of_the_Ocean"
+              },
+              {
+                "name": "Maid_Name_C"
+              },
+              {
+                "name": "Maid_Bikini"
+              }
+            ]
+          },
+          {
+            "name": "Sacred_Justia"
+          },
+          {
+            "name": "Samay",
+            "folder_list": [
+              {
+                "name": "Kind_Liberator"
+              },
+              {
+                "name": "Kind_Student"
+              }
+            ]
+          },
+          {
+            "name": "Scheherazade",
+            "folder_list": [
+              {
+                "name": "The_Lapis_Witch"
+              },
+              {
+                "name": "The_Magic_School_Professor"
+              },
+              {
+                "name": "Code_Name_S"
+              },
+              {
+                "name": "Pool_Party"
+              }
+            ]
+          },
+          {
+            "name": "Seir",
+            "folder_list": [
+              {
+                "name": "Demon's_Daughter"
+              },
+              {
+                "name": "B-Rank_Idol"
+              },
+              {
+                "name": "New_Hire"
+              }
+            ]
+          },
+          {
+            "name": "Sonya",
+            "folder_list": [
+              {
+                "name": "Shadowed_Dream"
+              },
+              {
+                "name": "Little_Pumpkin_Girl"
+              }
+            ]
+          },
+          {
+            "name": "Sword_Maiden"
+          },
+          {
+            "name": "Sylvia",
+            "folder_list": [
+              {
+                "name": "Desert_Flower"
+              },
+              {
+                "name": "The_Sword_Queen"
+              },
+              {
+                "name": "Admiral"
+              },
+              {
+                "name": "Bikini_Agent"
+              }
+            ]
+          },
+          {
+            "name": "Teresse",
+            "folder_list": [
+              {
+                "name": "Angel_of_Destruction"
+              },
+              {
+                "name": "Medical_Club"
+              },
+              {
+                "name": "Beachside_Angel"
+              },
+              {
+                "name": "Milky_Bikini_Prestige"
+              }
+            ]
+          },
+          {
+            "name": "Tyr",
+            "folder_list": [
+              {
+                "name": "Starlight_Guardian"
+              },
+              {
+                "name": "Innocent_Bunny"
+              }
+            ]
+          },
+          {
+            "name": "Venaka",
+            "folder_list": [
+              {
+                "name": "DJ"
+              },
+              {
+                "name": "Wind_Dancer"
+              }
+            ]
+          },
+          {
+            "name": "Ventana",
+            "folder_list": [
+              {
+                "name": "Snow_White"
+              },
+              {
+                "name": "Comeback_Idol"
+              },
+              {
+                "name": "Onsen_Practitioner"
+              }
+            ]
+          },
+          {
+            "name": "Wiggle",
+            "folder_list": [
+              {
+                "name": "Bomb_Fanatic"
+              },
+              {
+                "name": "Bomb_in_the_Hoodie"
+              }
+            ]
+          },
+          {
+            "name": "Wilhelmina",
+            "folder_list": [
+              {
+                "name": "Iron_Monarch"
+              },
+              {
+                "name": "Water_Park_Queen"
+              },
+              {
+                "name": "Frozen_Queen"
+              }
+            ]
+          },
+          {
+            "name": "Yomi"
+          },
+          {
+            "name": "Yozakura"
+          },
+          {
+            "name": "Yumi"
+          },
+          {
+            "name": "Yuri",
+            "folder_list": [
+              {
+                "name": "Whitebolt"
+              },
+              {
+                "name": "Comeback_Idol"
+              }
+            ]
+          },
+          {
+            "name": "Zenith",
+            "folder_list": [
+              {
+                "name": "Robin_Hood"
+              },
+              {
+                "name": "Poolside_Guardian"
+              },
+              {
+                "name": "Stranger_Bunny_Prestige"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "skill_cutscene",
+        "folder_list": [
+          {
+            "name": "Anastasia",
+            "folder_list": [
+              {
+                "name": "Gentle_Maid"
+              },
+              {
+                "name": "Fire_Graffiti"
+              }
+            ]
+          },
+          {
+            "name": "Angelica",
+            "folder_list": [
+              {
+                "name": "The_Fallen"
+              },
+              {
+                "name": "Pool_Party"
+              },
+              {
+                "name": "Neon_Saviour"
+              }
+            ]
+          },
+          {
+            "name": "Beatrice"
+          },
+          {
+            "name": "Blade",
+            "folder_list": [
+              {
+                "name": "Apostle"
+              },
+              {
+                "name": "Onsen_Swordfighter"
+              },
+              {
+                "name": "Young_Lady"
+              }
+            ]
+          },
+          {
+            "name": "Carlson"
+          },
+          {
+            "name": "Celia",
+            "folder_list": [
+              {
+                "name": "The_Curse"
+              },
+              {
+                "name": "Descendant_of_the_Great_Witch"
+              },
+              {
+                "name": "Masquerade_Bunny"
+              }
+            ]
+          },
+          {
+            "name": "Dalvi",
+            "folder_list": [
+              {
+                "name": "Bright_Moon"
+              },
+              {
+                "name": "Summer_Vacation"
+              }
+            ]
+          },
+          {
+            "name": "Darian",
+            "folder_list": [
+              {
+                "name": "Prophetic_Dream"
+              },
+              {
+                "name": "Bittersweet_Bunny"
+              }
+            ]
+          },
+          {
+            "name": "Diana",
+            "folder_list": [
+              {
+                "name": "Adventurer_of_the_Unknown"
+              },
+              {
+                "name": "Anti-Dystopia"
+              }
+            ]
+          },
+          {
+            "name": "Eclipse",
+            "folder_list": [
+              {
+                "name": "The_Dimension_Witch"
+              },
+              {
+                "name": "Nightmare_Bunny"
+              },
+              {
+                "name": "Beach_Vacation"
+              },
+              {
+                "name": "Dream_Bride"
+              }
+            ]
+          },
+          {
+            "name": "Eleaneer",
+            "folder_list": [
+              {
+                "name": "Magic_Piercing_Bow"
+              },
+              {
+                "name": "B-Rank_Idol"
+              },
+              {
+                "name": "Shadow_Bunny"
+              }
+            ]
+          },
+          {
+            "name": "Elise",
+            "folder_list": [
+              {
+                "name": "Lovely_Lady"
+              },
+              {
+                "name": "Code_Name_O"
+              }
+            ]
+          },
+          {
+            "name": "Eris",
+            "folder_list": [
+              {
+                "name": "Esteemed_Adventurer"
+              },
+              {
+                "name": "Your_Very_Own_Cat"
+              }
+            ]
+          },
+          {
+            "name": "Glacia",
+            "folder_list": [
+              {
+                "name": "Alice"
+              },
+              {
+                "name": "Disciplinary_Committee"
+              }
+            ]
+          },
+          {
+            "name": "Goblin_Slayer"
+          },
+          {
+            "name": "Granadair",
+            "folder_list": [
+              {
+                "name": "Shrine_Maiden_of_Purification"
+              },
+              {
+                "name": "Queen_of_Gluttis"
+              }
+            ]
+          },
+          {
+            "name": "Granhildr",
+            "folder_list": [
+              {
+                "name": "The_Void"
+              },
+              {
+                "name": "Comeback_Idol"
+              },
+              {
+                "name": "Boo_Ghost"
+              }
+            ]
+          },
+          {
+            "name": "Gray"
+          },
+          {
+            "name": "Helena",
+            "folder_list": [
+              {
+                "name": "Top_Idol"
+              },
+              {
+                "name": "B-Rank_Idol"
+              }
+            ]
+          },
+          {
+            "name": "High_Elf_Archer"
+          },
+          {
+            "name": "Hikage"
+          },
+          {
+            "name": "Justia",
+            "folder_list": [
+              {
+                "name": "Knight_of_Blood"
+              },
+              {
+                "name": "White_Reaper"
+              },
+              {
+                "name": "Blood_Glutton"
+              },
+              {
+                "name": "Kendo_Club"
+              },
+              {
+                "name": "Pool_Party"
+              },
+              {
+                "name": "Hot_Summer_Dream_Prestige"
+              }
+            ]
+          },
+          {
+            "name": "Lathel",
+            "folder_list": [
+              {
+                "name": "Medicinal_Herb_Gatherer"
+              },
+              {
+                "name": "Homunculus"
+              }
+            ]
+          },
+          {
+            "name": "Lecliss",
+            "folder_list": [
+              {
+                "name": "Killer_Doll"
+              },
+              {
+                "name": "Android_Queen"
+              }
+            ]
+          },
+          {
+            "name": "Levia",
+            "folder_list": [
+              {
+                "name": "Track_and_Field_Team_Captain"
+              },
+              {
+                "name": "Night_of_Jealousy"
+              },
+              {
+                "name": "Overheat"
+              }
+            ]
+          },
+          {
+            "name": "Liatris",
+            "folder_list": [
+              {
+                "name": "Rodev's_Star"
+              },
+              {
+                "name": "Neon_Stalker"
+              },
+              {
+                "name": "Maid_Name_R"
+              }
+            ]
+          },
+          {
+            "name": "Liberta",
+            "folder_list": [
+              {
+                "name": "Dark_Saintess"
+              },
+              {
+                "name": "Onsen_Manager"
+              },
+              {
+                "name": "Hedonist_Prestige"
+              }
+            ]
+          },
+          {
+            "name": "Loen",
+            "folder_list": [
+              {
+                "name": "Last_Hope"
+              },
+              {
+                "name": "Track_and_Field_Team_Member"
+              },
+              {
+                "name": "Celebrity_Bunny"
+              }
+            ]
+          },
+          {
+            "name": "Luvencia",
+            "folder_list": [
+              {
+                "name": "Deal_Snatcher"
+              },
+              {
+                "name": "Wild_Dog"
+              }
+            ]
+          },
+          {
+            "name": "Lydia"
+          },
+          {
+            "name": "Michaela",
+            "folder_list": [
+              {
+                "name": "Beachside_Justice"
+              },
+              {
+                "name": "Queen_of_Signatures"
+              },
+              {
+                "name": "Acting_Archbishop"
+              }
+            ]
+          },
+          {
+            "name": "Morphea",
+            "folder_list": [
+              {
+                "name": "Summer_Vacation"
+              },
+              {
+                "name": "Daydream_Bunny"
+              },
+              {
+                "name": "Apostle"
+              }
+            ]
+          },
+          {
+            "name": "Nartas"
+          },
+          {
+            "name": "Nebris",
+            "folder_list": [
+              {
+                "name": "Labyrinth_Gatekeeper"
+              },
+              {
+                "name": "Laid-back_Lifeguard"
+              },
+              {
+                "name": "New_Hire"
+              }
+            ]
+          },
+          {
+            "name": "Olivier",
+            "folder_list": [
+              {
+                "name": "Wings_of_Faithfulness"
+              },
+              {
+                "name": "Apostle"
+              },
+              {
+                "name": "Fallen_Wings"
+              }
+            ]
+          },
+          {
+            "name": "Olstein"
+          },
+          {
+            "name": "Priestess"
+          },
+          {
+            "name": "Rafina",
+            "folder_list": [
+              {
+                "name": "Steel_Engine"
+              },
+              {
+                "name": "Code_Name_A"
+              },
+              {
+                "name": "Game_Club"
+              }
+            ]
+          },
+          {
+            "name": "Refithea",
+            "folder_list": [
+              {
+                "name": "The_Gluttonous"
+              },
+              {
+                "name": "Pure_White_Blessing"
+              },
+              {
+                "name": "Poolside_Fairy"
+              }
+            ]
+          },
+          {
+            "name": "Rigenette"
+          },
+          {
+            "name": "Rou",
+            "folder_list": [
+              {
+                "name": "White_Cat"
+              },
+              {
+                "name": "Red_Riding_Hood"
+              },
+              {
+                "name": "Nature's_Claw"
+              },
+              {
+                "name": "Stray_Cat"
+              }
+            ]
+          },
+          {
+            "name": "Roxy",
+            "folder_list": [
+              {
+                "name": "Respected_Master"
+              },
+              {
+                "name": "Emerging_Desire"
+              }
+            ]
+          },
+          {
+            "name": "Rubia",
+            "folder_list": [
+              {
+                "name": "Thorn_of_the_Desert"
+              },
+              {
+                "name": "Empress_of_the_Ocean"
+              },
+              {
+                "name": "Maid_Name_C"
+              },
+              {
+                "name": "Maid_Bikini"
+              }
+            ]
+          },
+          {
+            "name": "Sacred_Justia"
+          },
+          {
+            "name": "Scheherazade",
+            "folder_list": [
+              {
+                "name": "The_Lapis_Witch"
+              },
+              {
+                "name": "The_Magic_School_Professor"
+              },
+              {
+                "name": "Code_Name_S"
+              },
+              {
+                "name": "Pool_Party"
+              }
+            ]
+          },
+          {
+            "name": "Seir",
+            "folder_list": [
+              {
+                "name": "Demon's_Daughter"
+              },
+              {
+                "name": "B-Rank_Idol"
+              },
+              {
+                "name": "New_Hire"
+              }
+            ]
+          },
+          {
+            "name": "Sonya",
+            "folder_list": [
+              {
+                "name": "Shadowed_Dream"
+              },
+              {
+                "name": "Little_Pumpkin_Girl"
+              }
+            ]
+          },
+          {
+            "name": "Sword_Maiden"
+          },
+          {
+            "name": "Sylvia",
+            "folder_list": [
+              {
+                "name": "Desert_Flower"
+              },
+              {
+                "name": "The_Sword_Queen"
+              },
+              {
+                "name": "Admiral"
+              },
+              {
+                "name": "Bikini_Agent"
+              }
+            ]
+          },
+          {
+            "name": "Teresse",
+            "folder_list": [
+              {
+                "name": "Angel_of_Destruction"
+              },
+              {
+                "name": "Medical_Club"
+              },
+              {
+                "name": "Beachside_Angel"
+              },
+              {
+                "name": "Milky_Bikini_Prestige"
+              }
+            ]
+          },
+          {
+            "name": "Tyr",
+            "folder_list": [
+              {
+                "name": "Starlight_Guardian"
+              },
+              {
+                "name": "Innocent_Bunny"
+              }
+            ]
+          },
+          {
+            "name": "Venaka",
+            "folder_list": [
+              {
+                "name": "DJ"
+              },
+              {
+                "name": "Wind_Dancer"
+              }
+            ]
+          },
+          {
+            "name": "Ventana",
+            "folder_list": [
+              {
+                "name": "Snow_White"
+              },
+              {
+                "name": "Comeback_Idol"
+              },
+              {
+                "name": "Onsen_Practitioner"
+              }
+            ]
+          },
+          {
+            "name": "Wiggle"
+          },
+          {
+            "name": "Wilhelmina",
+            "folder_list": [
+              {
+                "name": "Iron_Monarch"
+              },
+              {
+                "name": "Water_Park_Queen"
+              },
+              {
+                "name": "Frozen_Queen"
+              }
+            ]
+          },
+          {
+            "name": "Yomi"
+          },
+          {
+            "name": "Yozakura"
+          },
+          {
+            "name": "Yumi"
+          },
+          {
+            "name": "Yuri",
+            "folder_list": [
+              {
+                "name": "Whitebolt"
+              },
+              {
+                "name": "Comeback_Idol"
+              }
+            ]
+          },
+          {
+            "name": "Zenith",
+            "folder_list": [
+              {
+                "name": "Robin_Hood"
+              },
+              {
+                "name": "Poolside_Guardian"
+              },
+              {
+                "name": "Stranger_Bunny_Prestige"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "interaction",
+        "folder_list": [
+          {
+            "name": "Nebris"
+          },
+          {
+            "name": "Loen"
+          },
+          {
+            "name": "Morphea"
+          },
+          {
+            "name": "Teresse",
+            "folder_list": [
+              {
+                "name": "Medical_Club"
+              },
+              {
+                "name": "Milky_Bikini_Prestige"
+              }
+            ]
+          },
+          {
+            "name": "Elise"
+          },
+          {
+            "name": "Wilhelmina"
+          },
+          {
+            "name": "Justia"
+          },
+          {
+            "name": "Sylvia"
+          },
+          {
+            "name": "Angelica"
+          },
+          {
+            "name": "Eclipse"
+          },
+          {
+            "name": "Zenith"
+          },
+          {
+            "name": "Tyr"
+          },
+          {
+            "name": "Liberta"
+          },
+          {
+            "name": "Ventana"
+          }
+        ]
+      },
+      {
+        "name": "story_animation"
+      },
+      {
+        "name": "novel_character_talk"
+      },
+      {
+        "name": "npc"
+      },
+      {
+        "name": "minigame",
+        "folder_list": [
+          {
+            "name": "slap_slap_pop"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ui",
+    "folder_list": [
+      {
+        "name": "costume_face"
+      },
+      {
+        "name": "costume_icon"
+      }
+    ]
+  }
+]

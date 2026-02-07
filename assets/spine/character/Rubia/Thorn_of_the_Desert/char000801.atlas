@@ -1,0 +1,361 @@
+char000801.png
+size:2048,1024
+filter:Linear,Linear
+Eyebrow skill_1
+bounds:1021,1008,37,9
+offsets:0,0,37,10
+Eyebrow skill_2
+bounds:914,730,23,21
+offsets:0,2,23,25
+Eyebrow_1
+bounds:645,554,25,21
+Eyebrow_2
+bounds:160,48,37,8
+Face_Hair_tie
+bounds:503,849,31,32
+Hand_L_1
+bounds:102,699,58,45
+Mouth_nomal
+bounds:876,834,24,15
+arm(L)_1
+bounds:1121,693,125,155
+offsets:0,0,125,169
+arm(L)_2
+bounds:1205,37,193,90
+arm(L)_3
+bounds:502,724,42,40
+arm(L)_sleeve_back_touch_1
+bounds:104,6,45,49
+offsets:0,0,46,49
+arm(L)_sleeve_touch_1
+bounds:848,773,40,45
+offsets:0,0,41,45
+arm(L)_touch_1
+bounds:709,232,120,127
+arm(L)_touch_2
+bounds:1534,612,141,176
+arm(R) touch_2
+bounds:503,767,248,250
+offsets:2,0,256,250
+arm(R) touch_3
+bounds:989,974,38,43
+arm(R)_1
+bounds:959,542,149,92
+arm(R)_2
+bounds:494,8,147,106
+arm(R)_3
+bounds:709,361,38,43
+offsets:0,0,39,43
+bangs skill_1
+bounds:394,10,49,45
+offsets:1,0,50,45
+bangs skill_10
+bounds:894,864,68,153
+offsets:21,1,90,155
+bangs skill_11
+bounds:834,981,54,36
+bangs skill_12
+bounds:503,883,51,134
+offsets:2,1,54,137
+bangs skill_13
+bounds:1331,916,62,101
+offsets:1,1,64,105
+bangs skill_2
+bounds:453,646,30,47
+offsets:0,0,30,48
+bangs skill_3
+bounds:1134,636,56,92
+offsets:0,0,56,93
+bangs skill_4
+bounds:861,7,50,81
+bangs skill_5
+bounds:1155,795,66,92
+offsets:0,0,67,92
+bangs skill_6
+bounds:104,189,93,97
+rotate:90
+bangs skill_7
+bounds:750,982,95,35
+offsets:0,0,95,36
+bangs skill_8
+bounds:336,22,58,33
+offsets:0,0,59,34
+bangs skill_9
+bounds:1837,873,64,144
+bangs_1
+bounds:376,8,51,47
+bangs_10
+bounds:959,431,40,112
+bangs_11
+bounds:1456,82,52,131
+bangs_12
+bounds:709,162,28,81
+bangs_13
+bounds:674,553,61,105
+offsets:0,0,61,106
+bangs_2
+bounds:1129,610,23,75
+bangs_3
+bounds:1022,106,41,97
+bangs_4
+bounds:846,321,19,60
+offsets:1,0,20,60
+bangs_5
+bounds:1331,801,94,113
+offsets:0,0,96,115
+bangs_6
+bounds:869,11,82,85
+offsets:1,0,83,85
+bangs_7
+bounds:1717,763,55,147
+offsets:0,0,55,148
+bangs_8
+bounds:1151,341,64,161
+offsets:0,0,65,161
+bangs_9
+bounds:901,823,46,39
+offsets:1,0,47,39
+body
+bounds:709,361,252,382
+body_2
+bounds:939,635,253,382
+body_light_1
+bounds:65,698,35,46
+dress_L_2
+bounds:2,366,378,478
+rotate:90
+dress_R_1
+bounds:1264,421,278,591
+dress_R_2
+bounds:591,2,547,533
+rotate:270
+dress_R_3
+bounds:121,57,425,383
+rotate:90
+ear
+bounds:90,239,36,39
+eye line skill_1
+bounds:467,439,26,23
+eye line skill_2
+bounds:761,698,37,19
+eye line_1
+bounds:152,227,25,21
+eye line_2
+bounds:938,848,37,18
+eye skill_1
+bounds:712,574,15,19
+eye skill_2
+bounds:482,420,12,18
+eye skill_3
+bounds:260,339,26,25
+eye skill_4
+bounds:476,516,17,23
+eye_1
+bounds:556,998,15,19
+eye_2
+bounds:49,726,11,18
+eye_3
+bounds:630,845,26,25
+face_close
+bounds:909,56,135,159
+offsets:0,3,135,164
+face_nomal
+bounds:79,273,135,159
+offsets:0,3,135,164
+face_skill
+bounds:1194,854,135,163
+offsets:0,0,135,164
+finger(L)1_re
+bounds:709,405,22,38
+finger(L)2_re
+bounds:233,8,28,41
+finger(L)3_re
+bounds:258,13,29,42
+finger(L)4_re
+bounds:2,475,29,32
+finger(L)5_re
+bounds:432,687,88,57
+finger_L_1
+bounds:125,33,33,20
+offsets:0,0,34,20
+finger_L_2
+bounds:90,68,29,43
+finger_L_3
+bounds:964,972,35,45
+finger_L_4
+bounds:206,10,33,45
+finger_L_5
+bounds:289,8,33,41
+hair_1
+bounds:928,761,20,52
+hair_2
+bounds:2,658,61,86
+hair_3
+bounds:646,871,37,56
+rotate:90
+hair_4
+bounds:1088,563,54,102
+hair_5
+bounds:1023,991,25,16
+hair_6
+bounds:858,955,30,24
+hair_back_tail_1
+bounds:1195,794,45,58
+offsets:0,1,45,59
+hair_back_tail_10
+bounds:332,409,144,134
+offsets:5,3,149,141
+hair_back_tail_11
+bounds:1674,459,135,238
+hair_back_tail_12
+bounds:1830,470,141,282
+offsets:0,1,141,283
+hair_back_tail_13
+bounds:709,306,42,60
+hair_back_tail_14
+bounds:1542,450,320,567
+hair_back_tail_15
+bounds:1610,223,81,211
+offsets:0,1,81,212
+hair_back_tail_16
+bounds:1600,71,337,379
+hair_back_tail_2
+bounds:1864,774,65,243
+offsets:5,0,70,254
+hair_back_tail_3
+bounds:1877,787,75,230
+offsets:0,1,75,231
+hair_back_tail_4
+bounds:2,33,107,143
+hair_back_tail_5
+bounds:583,791,60,52
+offsets:0,1,70,53
+hair_back_tail_7
+bounds:1199,78,433,755
+rotate:180
+hair_back_tail_8
+bounds:1100,80,486,719
+rotate:180
+hair_back_tail_9
+bounds:1214,10,396,551
+rotate:90
+hand(L) touch_11
+bounds:2,2,34,36
+hand(L)_touch_1
+bounds:541,750,31,23
+offsets:1,0,32,23
+hand(L)_touch_10
+bounds:2,35,42,52
+offsets:1,0,44,53
+hand(L)_touch_11
+bounds:45,3,40,42
+offsets:2,0,42,42
+hand(L)_touch_2
+bounds:161,718,33,25
+hand(L)_touch_3
+bounds:60,74,20,19
+hand(L)_touch_4
+bounds:568,772,19,18
+hand(L)_touch_5
+bounds:51,659,35,29
+hand(L)_touch_6
+bounds:197,277,18,19
+hand(L)_touch_7
+bounds:102,726,21,18
+hand(L)_touch_8
+bounds:86,3,27,15
+offsets:0,0,27,16
+hand(L)_touch_9
+bounds:2,638,20,27
+offsets:0,1,20,28
+hand(R) touch_1
+bounds:556,946,79,71
+hand(R) touch_6
+bounds:556,901,39,45
+hand(R) touch_7
+bounds:1644,26,228,180
+hand(R) touch_8
+bounds:1657,53,224,236
+rotate:180
+hand(R) touch_9
+bounds:1313,408,154,134
+offsets:1,1,156,136
+hand(R) touch_ACC_1
+bounds:1570,803,145,150
+hand(R) touch_ACC_2
+bounds:984,195,65,90
+hand(R) touch_ACC_3
+bounds:702,554,40,76
+hand(R) touch_ACC_4
+bounds:814,281,40,75
+offsets:0,1,41,76
+hand(R) touch_ACC_5
+bounds:939,584,33,55
+hand(R) touch_eff
+bounds:477,554,415,390
+rotate:180
+hand(R)_eff
+bounds:496,119,433,211
+rotate:90
+hand_L_back_1
+bounds:754,971,50,25
+lag(L)_acc_1
+bounds:100,131,21,45
+lag(R)_acc_1
+bounds:321,9,24,46
+mouth_skill
+bounds:76,419,25,32
+nose
+bounds:88,681,9,15
+offsets:1,0,10,15
+shin_L_1
+bounds:2,95,100,380
+shin_R_1
+bounds:1714,586,226,431
+rotate:180
+sword_1
+bounds:2,622,310,122
+sword_1_back
+bounds:309,723,59,21
+sword_1_eff
+bounds:2,746,499,271
+sword_2
+bounds:1588,559,203,98
+offsets:1,0,204,98
+sword_3
+bounds:257,718,53,26
+sword_acc_back_1
+bounds:211,291,47,87
+sword_acc_back_2
+bounds:793,726,136,111
+offsets:1,0,138,111
+sword_acc_back_3
+bounds:450,448,39,66
+offsets:0,5,39,71
+sword_acc_back_4
+bounds:165,3,18,53
+rotate:90
+sword_acc_back_5
+bounds:866,795,30,39
+offsets:1,0,31,39
+sword_acc_back_6
+bounds:2,362,13,33
+sword_acc_back_7
+bounds:505,70,26,47
+offsets:1,0,27,47
+sword_acc_back_8
+bounds:347,5,41,35
+rotate:90
+sword_acc_back_9
+bounds:745,945,113,51
+offsets:1,14,125,65
+sword_acc_back_head_1
+bounds:151,13,53,31
+thigh_L_1
+bounds:1466,345,136,379
+thigh_L_light_1
+bounds:2,190,18,164
+thigh_R_1
+bounds:1032,6,177,348
+thigh_R_light_1
+bounds:904,380,53,196
