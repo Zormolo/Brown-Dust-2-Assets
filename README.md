@@ -8,7 +8,7 @@ Link to Repo --> https://github.com/aelurum/AssetStudio
 
 ## Known Stuff i need to Fix!
 Last Hope Loen is missing the spine -> character folder because her character model is only as npc spine in the game\
-I will copy the files and make all the needed changes to file names and the atlas file that she has a proper spine model like all other costume have...
+I will copy the files and make all the needed changes to file names and the atlas file that she has a proper spine model like all other costumes have...
 
 Bright Moon Dalvi, Sword Queen Slyvia, Gamer Club Rafina, Kind Liberator Samay are cursed if you open then now -> Reason extracted PNG has diff Size then in the atlas file expected, if you want to open then just resize them to the size writen in the atlas file\
 I will do a check later that fixed those sizing issues
