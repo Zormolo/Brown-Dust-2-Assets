@@ -1491,10 +1491,142 @@
         "name": "story_animation"
       },
       {
-        "name": "novel_character_talk"
+        "name": "light_novel_talk",
+        "folder_list": [
+          {
+            "name": "Lathel",
+            "folder_list": [
+              {
+                "name": "Medicinal_Herb_Gatherer"
+              },
+              {
+                "name": "Promise_of_Vengeance"
+              },
+              {
+                "name": "Homunculus"
+              }
+            ]
+          },
+          {
+            "name": "Justia"
+          },
+          {
+            "name": "Scheherazade"
+          },
+          {
+            "name": "Gray"
+          },
+          {
+            "name": "Rou"
+          },
+          {
+            "name": "Olstein"
+          },
+          {
+            "name": "Eclipse"
+          },
+          {
+            "name": "Rubia"
+          },
+          {
+            "name": "Sylvia"
+          },
+          {
+            "name": "Diana"
+          },
+          {
+            "name": "Teresse"
+          },
+          {
+            "name": "Liatris"
+          },
+          {
+            "name": "Celia"
+          },
+          {
+            "name": "Marianne_Dumain"
+          },
+          {
+            "name": "Liberta"
+          },
+          {
+            "name": "Eda"
+          }
+        ]
       },
       {
-        "name": "npc"
+        "name": "npc",
+        "folder_list": [
+          {
+            "name": "Ailee"
+          },
+          {
+            "name": "Asmode"
+          },
+          {
+            "name": "Child_Hansen"
+          },
+          {
+            "name": "Child_Liberta"
+          },
+          {
+            "name": "Darian"
+          },
+          {
+            "name": "Determined_Researcher"
+          },
+          {
+            "name": "Eleanor"
+          },
+          {
+            "name": "Ellin"
+          },
+          {
+            "name": "Elpis"
+          },
+          {
+            "name": "Garinoth"
+          },
+          {
+            "name": "Granadair"
+          },
+          {
+            "name": "Greta"
+          },
+          {
+            "name": "Guild_Recepionist_Liza"
+          },
+          {
+            "name": "Hansen"
+          },
+          {
+            "name": "King_of_Rotein_Gray"
+          },
+          {
+            "name": "Loen"
+          },
+          {
+            "name": "Nebris"
+          },
+          {
+            "name": "Night_World_Lathel"
+          },
+          {
+            "name": "Storage_Keeper_Roche"
+          },
+          {
+            "name": "Sonya"
+          },
+          {
+            "name": "Spatti"
+          },
+          {
+            "name": "Valze"
+          },
+          {
+            "name": "Veila"
+          }
+        ]
       },
       {
         "name": "minigame",

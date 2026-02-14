@@ -21,8 +21,13 @@ struct Folder {
 struct Mapping {
     charactere: HashMap< String, String >,
     skill_cutscene: HashMap< String, String >,
-    interaction: HashMap< String, String >
+    interaction: HashMap< String, String >,
+    npc: HashMap< String, String >,
+    light_novel_talk: HashMap< String, String >
 }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn extract_assets() {
     let path = Path::new( "F:/Neowiz/Browndust2/Browndust2_10000001/BrownDust II_Data/Addressable" );
@@ -52,6 +57,9 @@ fn extract_assets() {
     } );
 }
 
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 fn extract_folder( file_path: &PathBuf ) {
     let output = Command::new( "asset_extractor//3rd_party//ArknightsStudioCLI//ArknightsStudioCLI.exe" )
         .arg( &file_path )
@@ -68,6 +76,10 @@ fn extract_folder( file_path: &PathBuf ) {
         }
     }
 }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 fn clear_output_folder() {
     let path = Path::new( "output" );
     if fs::exists( path ).unwrap() {
@@ -75,6 +87,9 @@ fn clear_output_folder() {
         fs::create_dir( path ).expect( "folder couldnt be created" );
     }
 }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn make_folder( base_path: &str, subfolder: Vec<Folder> ) {
     for folder in subfolder {
@@ -88,6 +103,9 @@ fn make_folder( base_path: &str, subfolder: Vec<Folder> ) {
         }
     }
 }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn remove_asset_files() {
     let folders = vec![
@@ -104,6 +122,9 @@ fn remove_asset_files() {
     };
 }
 
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 fn make_repo_structur() {
     remove_asset_files();
     let file = File::open( Path::new( "asset_extractor/json/folder_structure.json" ) ).expect("test");
@@ -113,16 +134,26 @@ fn make_repo_structur() {
     make_folder( "assets", folders );
 }
 
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 fn sort_char_spine( file_path: PathBuf, character_map: HashMap< String, String >, file_name: String ) {
     let char_id = &file_name[..10];
     let mut copy_path= "assets\\spine\\character\\".to_string();
     if character_map.contains_key( char_id ) {
        copy_path.push_str( character_map.get( char_id ).unwrap() );
        copy_path.push_str( "\\" );
+       if !fs::exists( &copy_path ).unwrap() {
+            println!( "Could not find: {}", copy_path );
+            copy_path = "assets\\spine\\character\\".to_string();
+       }
     }
     fs::rename( file_path, format!("{}{}", copy_path, &file_name ) ).expect("Spine Charactere Error");
     return;
 }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn sort_skill_cutscene_spine( file_path: PathBuf, skill_cutscene_map: HashMap< String, String >, file_name: String ) {
     let skill_cutscene_id = &file_name[..19];
@@ -134,9 +165,16 @@ fn sort_skill_cutscene_spine( file_path: PathBuf, skill_cutscene_map: HashMap< S
     if skill_cutscene_map.contains_key( skill_cutscene_id ) {
        copy_path.push_str( skill_cutscene_map.get( skill_cutscene_id ).unwrap() );
        copy_path.push_str( "\\" );
+       if !fs::exists( &copy_path ).unwrap() {
+            println!( "Could not find: {}", copy_path );
+            copy_path = "assets\\spine\\skill_cutscene\\".to_string();
+       }
     }
     fs::rename( file_path, format!("{}{}", copy_path, &file_name ) ).expect("Skill Cutscene Error");
 }
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn sort_interaction_spine( file_path: PathBuf, interaction_map: HashMap< String, String >, file_name: String ) {
     let file_name_vec: Vec< &str > = file_name.split( "." ).collect();
@@ -147,11 +185,58 @@ fn sort_interaction_spine( file_path: PathBuf, interaction_map: HashMap< String,
     if interaction_map.contains_key( interaction_id.as_str() ) {
        copy_path.push_str( interaction_map.get( interaction_id.as_str() ).unwrap() );
        copy_path.push_str( "\\" );
+       if !fs::exists( &copy_path ).unwrap() {
+            println!( "Could not find: {}", copy_path );
+            copy_path = "assets\\spine\\interaction\\".to_string();
+       }
     }
     fs::rename( file_path, format!("{}{}", copy_path, &file_name ) ).expect("Interaction Error");
     return;
 }
 
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+fn sort_npc_spine( file_path: PathBuf, npc_map: HashMap< String, String >, file_name: String ) {
+    let file_name_vec: Vec< &str > = file_name.split( "." ).collect();
+    let npc_id = file_name_vec[ 0 ].to_string();
+    let mut copy_path = "assets\\spine\\npc\\".to_string();
+    if npc_map.contains_key( npc_id.as_str() ) {
+       copy_path.push_str( npc_map.get( npc_id.as_str() ).unwrap() );
+       copy_path.push_str( "\\" );
+       if !fs::exists( &copy_path ).unwrap() {
+            println!( "Could not find: {}", copy_path );
+            copy_path = "assets\\spine\\npc\\".to_string();
+       }
+    }
+    fs::rename( file_path, format!("{}{}", &copy_path, &file_name ) ).expect( "NPC Spine Error" );
+    return;
+}
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+fn sort_light_novel_talk_spine( file_path: PathBuf, light_novel_talk_map: HashMap< String, String >, file_name: String ) {
+    let file_name_vec: Vec< &str > = file_name.split( "." ).collect();
+    let file_name_stem = file_name_vec[ 0 ].to_string();
+    let file_name_stem_vec: Vec< &str > = file_name_stem.split( "_" ).collect();
+    let light_novel_talk_id = format!( "{}_{}", file_name_stem_vec[ 0 ], file_name_stem_vec[ 1 ] );
+    let mut copy_path = "assets\\spine\\light_novel_talk\\".to_string();
+    if light_novel_talk_map.contains_key( light_novel_talk_id.as_str() ) {
+       copy_path.push_str( light_novel_talk_map.get( light_novel_talk_id.as_str() ).unwrap() );
+       copy_path.push_str( "\\" );
+       if !fs::exists( &copy_path ).unwrap() {
+            println!( "Could not find: {}", copy_path );
+            copy_path = "assets\\spine\\light_novel_talk\\".to_string();
+       }
+    }
+    fs::rename( file_path, format!("{}{}", &copy_path, &file_name ) ).expect( "Light Novel Talk Spine Error" );
+    return;
+}
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn sort_assets_into_repo() {
     let file = File::open( Path::new( "asset_extractor/json/mapping.json" ) ).expect("test");
@@ -161,9 +246,12 @@ fn sort_assets_into_repo() {
     let char_spine = Regex::new( r"(?im)^char[0-6][\d_]*\.(?:png|atlas|skel)" ).unwrap();
     let skill_cutscene_spine = Regex::new( r"(?im)^cutscene_char[\d_]*\.(?:png|atlas|skel)" ).unwrap();
     let interaction_spine = Regex::new( r"(?im)^illust_dating[\d_]*\.(?:png|atlas|skel)" ).unwrap();
+    let npc_spine = Regex::new( r"^npc[_ellin|\d]*\.(?:png|atlas|skel)" ).unwrap();
+    let light_novel_talk_spine = Regex::new( r"^illust_talk[_\d]*\.(?:png|atlas|skel)" ).unwrap();
+
     let costume_face = Regex::new( r"(?im)^illust_inven_char[\d_]*\.png" ).unwrap();
     let costume_icon = Regex::new( r"(?im)^icon_costume[\d_]*\.png" ).unwrap();
-    let buff_icon_atlas = Regex::new( r"(?im)^sactx\S+-BuffIcon\S+\.png$" ).unwrap();
+    let buff_icon_atlas = Regex::new( r"(?im)^sactx\S+-BuffIcon\S+\.png" ).unwrap();
 
     for entry in fs::read_dir( "output" ).expect( "failed to find asset folder" ) {
         let entry = entry.expect( "failed to find folder entry!" );
@@ -173,42 +261,54 @@ fn sort_assets_into_repo() {
             continue;
         }
 
-        if char_spine.is_match( file_name.as_str() ) {
+        if char_spine.is_match( &file_name ) {
             sort_char_spine( entry.path(), mapping.charactere.clone(), file_name );
             continue;
         }
 
-        if skill_cutscene_spine.is_match( file_name.as_str() ) {
+        if skill_cutscene_spine.is_match( &file_name ) {
             sort_skill_cutscene_spine( entry.path(), mapping.skill_cutscene.clone(), file_name );
             continue;
         }
 
-        if interaction_spine.is_match( &entry.file_name().to_string_lossy() ) {
+        if interaction_spine.is_match( &file_name ) {
             sort_interaction_spine( entry.path(), mapping.interaction.clone(), file_name );
+            continue;
+        }
+
+        if npc_spine.is_match( &file_name ) {
+            sort_npc_spine( entry.path(), mapping.npc.clone(), file_name );
+            continue;
+        }
+
+        if light_novel_talk_spine.is_match( &file_name ) {
+            sort_light_novel_talk_spine( entry.path(), mapping.light_novel_talk.clone(), file_name );
             continue;
         }
 
         if costume_face.is_match( &file_name ) {
             let file_name_stem_vec: Vec< &str > = file_name.split( "_" ).collect();
             let new_file_name = format!( "{}_{}_{}", file_name_stem_vec[ 0 ], file_name_stem_vec[ 1 ], file_name_stem_vec[ 2 ] );
-            fs::rename( entry.path(), format!("{}{}.png", "assets\\ui\\costume_face\\", new_file_name ) ).expect("");
+            fs::rename( entry.path(), format!( "{}{}.png", "assets\\ui\\costume_face\\", new_file_name ) ).expect("");
             continue;
         }
 
         if costume_icon.is_match( &file_name ) {
             let file_name_stem_vec: Vec< &str > = file_name.split( "_" ).collect();
             let new_file_name = format!( "{}_{}", file_name_stem_vec[ 0 ], file_name_stem_vec[ 1 ] );
-            fs::rename( entry.path(), format!("{}{}.png", "assets\\ui\\costume_icon\\", new_file_name ) ).expect("");
+            fs::rename( entry.path(), format!( "{}{}.png", "assets\\ui\\costume_icon\\", new_file_name ) ).expect("");
             continue;
         }
 
         if buff_icon_atlas.is_match( &file_name ) {
-            fs::copy( entry.path(), format!("{}{}", "assets\\ui\\skill_icons\\", file_name ) ).expect("");
+            fs::copy( entry.path(), format!( "{}{}", "assets\\ui\\skill_icons\\", file_name ) ).expect("");
             continue;
         }
     }
 }
 
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn main() {
     // clear_output_folder();
