@@ -94,6 +94,19 @@ In the example with Eclipse the pose of those models are less dynamic and most o
 All faces of the costumes used in the Companion Menu.  
 Those faces are only from playable costumes, skins, temporary companions or summons.
 
+[Go to Costume Faces](assets/ui/costume_face/)
+
+### Costume Skill Faces
+
+<img src="readmeImages/ui_costume_skill_faces_example.png" style="display: block; margin-left: auto; margin-right: auto">  
+
+<br>
+
+All faces of the costumes used in the battle after a skill has been activated.  
+Those faces are only from playable costumes, skins, temporary companions or summons.
+
+[Go to Costume Skill Faces](assets/ui/costume_skill_face/)
+
 ### Costume Icons
 
 <img src="readmeImages/ui_costume_icons_example.png" style="display: block; margin-left: auto; margin-right: auto">  
@@ -103,21 +116,16 @@ Those faces are only from playable costumes, skins, temporary companions or summ
 All icons of the costumes used in the Bag Menu under Costume or in the Collection under Costumes.  
 Those icons are only from playable costumes, skins or temporary companions.
 
-## Known Issues
+[Go to Costume Icons](assets/ui/costume_icon/)
 
-Last Hope Loen is missing the spine -> character folder because her character model is only as npc spine in the game  
-I will copy the files and make all the needed changes to file names and the atlas file that she has a proper spine model like all other costumes have...
+## Known Issues
 
 Bright Moon Dalvi, Sword Queen Sylvia, Gamer Club Rafina, Kind Liberator Samay are cursed if you open then now -> Reason extracted PNG has diff Size then in the atlas file expected, if you want to open then just resize them to the size writen in the atlas file  
 I will do a check later that fixed those sizing issues
 
 Cursed Celia has a weird ID in the charater spine folder -> her offical id is based of the "new" cutscene 060401 i will fix that later too  
-B-Rank Manager Gray has in every file a .skel. i will remove tht later too  
 B-Rank Helene Skill Cutscene used cutscene\_Char instead of cutscene\_char  
 Those error need a fix in name of the file and changing the .atlas file for that costume if you want to make on your own in the meantime
-
-UI -> costume\_icon  
-There are few files that dont follow the default naming pattern like icon\_costumeXXXXXX its just icon\_costumeXXX i will append the missing numbers later too
 
 ## Report Issues
 

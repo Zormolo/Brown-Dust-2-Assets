@@ -138,39 +138,22 @@ fn make_repo_structur() {
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn sort_char_spine( file_path: PathBuf, character_map: HashMap< String, String >, file_name: String ) {
-    let char_id = &file_name[..10];
-    let mut copy_path= "assets\\spine\\character\\".to_string();
-    if character_map.contains_key( char_id ) {
-       copy_path.push_str( character_map.get( char_id ).unwrap() );
-       copy_path.push_str( "\\" );
-       if !fs::exists( &copy_path ).unwrap() {
-            println!( "Could not find: {}", copy_path );
-            copy_path = "assets\\spine\\character\\".to_string();
-       }
-    }
-    fs::rename( file_path, format!("{}{}", copy_path, &file_name ) ).expect("Spine Charactere Error");
-    return;
+    let char_id = file_name[..10].to_string();
+    let err_msg = "Spine Charactere Error";
+    move_file( &file_path, file_name, "assets\\spine\\character\\", character_map, char_id, err_msg );
 }
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn sort_skill_cutscene_spine( file_path: PathBuf, skill_cutscene_map: HashMap< String, String >, file_name: String ) {
-    let skill_cutscene_id = &file_name[..19];
+    let skill_cutscene_id = file_name[..19].to_string();
     if skill_cutscene_id == "cutscene_char061303" {
         fs::remove_file( &file_path ).expect( "Could not delete duplicate spine skill_cutscene" );
         return;
     }
-    let mut copy_path= "assets\\spine\\skill_cutscene\\".to_string();
-    if skill_cutscene_map.contains_key( skill_cutscene_id ) {
-       copy_path.push_str( skill_cutscene_map.get( skill_cutscene_id ).unwrap() );
-       copy_path.push_str( "\\" );
-       if !fs::exists( &copy_path ).unwrap() {
-            println!( "Could not find: {}", copy_path );
-            copy_path = "assets\\spine\\skill_cutscene\\".to_string();
-       }
-    }
-    fs::rename( file_path, format!("{}{}", copy_path, &file_name ) ).expect("Skill Cutscene Error");
+    let err_msg = "Skill Cutscene Error";
+    move_file( &file_path, file_name, "assets\\spine\\skill_cutscene\\", skill_cutscene_map, skill_cutscene_id, err_msg ); 
 }
 
 
@@ -181,17 +164,8 @@ fn sort_interaction_spine( file_path: PathBuf, interaction_map: HashMap< String,
     let file_name_stem = file_name_vec[ 0 ].to_string();
     let file_name_stem_vec: Vec< &str > = file_name_stem.split( "_" ).collect();
     let interaction_id = format!( "{}_{}", file_name_stem_vec[ 0 ], file_name_stem_vec[ 1 ] );
-    let mut copy_path= "assets\\spine\\interaction\\".to_string();
-    if interaction_map.contains_key( interaction_id.as_str() ) {
-       copy_path.push_str( interaction_map.get( interaction_id.as_str() ).unwrap() );
-       copy_path.push_str( "\\" );
-       if !fs::exists( &copy_path ).unwrap() {
-            println!( "Could not find: {}", copy_path );
-            copy_path = "assets\\spine\\interaction\\".to_string();
-       }
-    }
-    fs::rename( file_path, format!("{}{}", copy_path, &file_name ) ).expect("Interaction Error");
-    return;
+    let err_msg = "Interaction Error";
+    move_file( &file_path, file_name, "assets\\spine\\interaction\\", interaction_map, interaction_id, err_msg );
 }
 
 
@@ -200,17 +174,8 @@ fn sort_interaction_spine( file_path: PathBuf, interaction_map: HashMap< String,
 fn sort_npc_spine( file_path: PathBuf, npc_map: HashMap< String, String >, file_name: String ) {
     let file_name_vec: Vec< &str > = file_name.split( "." ).collect();
     let npc_id = file_name_vec[ 0 ].to_string();
-    let mut copy_path = "assets\\spine\\npc\\".to_string();
-    if npc_map.contains_key( npc_id.as_str() ) {
-       copy_path.push_str( npc_map.get( npc_id.as_str() ).unwrap() );
-       copy_path.push_str( "\\" );
-       if !fs::exists( &copy_path ).unwrap() {
-            println!( "Could not find: {}", copy_path );
-            copy_path = "assets\\spine\\npc\\".to_string();
-       }
-    }
-    fs::rename( file_path, format!("{}{}", &copy_path, &file_name ) ).expect( "NPC Spine Error" );
-    return;
+    let err_msg = "NPC Spine Error";
+    move_file( &file_path, file_name, "assets\\spine\\npc\\", npc_map, npc_id, err_msg );
 }
 
 
@@ -221,19 +186,25 @@ fn sort_light_novel_talk_spine( file_path: PathBuf, light_novel_talk_map: HashMa
     let file_name_stem = file_name_vec[ 0 ].to_string();
     let file_name_stem_vec: Vec< &str > = file_name_stem.split( "_" ).collect();
     let light_novel_talk_id = format!( "{}_{}", file_name_stem_vec[ 0 ], file_name_stem_vec[ 1 ] );
-    let mut copy_path = "assets\\spine\\light_novel_talk\\".to_string();
-    if light_novel_talk_map.contains_key( light_novel_talk_id.as_str() ) {
-       copy_path.push_str( light_novel_talk_map.get( light_novel_talk_id.as_str() ).unwrap() );
+    let err_msg = "Light Novel Talk Spine Error";
+    move_file( &file_path, file_name, "assets\\spine\\light_novel_talk\\", light_novel_talk_map, light_novel_talk_id, err_msg );
+}
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+fn move_file( file_path: &PathBuf, file_name: String, base_path: &str, map: HashMap< String, String >, map_key: String, err_msg: &str ) {
+    let mut copy_path = base_path.to_string();
+    if map.contains_key( map_key.as_str() ) {
+       copy_path.push_str( map.get( map_key.as_str() ).unwrap() );
        copy_path.push_str( "\\" );
        if !fs::exists( &copy_path ).unwrap() {
             println!( "Could not find: {}", copy_path );
-            copy_path = "assets\\spine\\light_novel_talk\\".to_string();
+            copy_path = base_path.to_string();
        }
     }
-    fs::rename( file_path, format!("{}{}", &copy_path, &file_name ) ).expect( "Light Novel Talk Spine Error" );
-    return;
+    fs::rename( file_path, format!("{}{}", &copy_path, &file_name ) ).expect( err_msg );
 }
-
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -250,6 +221,7 @@ fn sort_assets_into_repo() {
     let light_novel_talk_spine = Regex::new( r"^illust_talk[_\d]*\.(?:png|atlas|skel)" ).unwrap();
 
     let costume_face = Regex::new( r"(?im)^illust_inven_char[\d_]*\.png" ).unwrap();
+    let costume_skill_face = Regex::new( r"(?im)^illust_skill_char[\d_]*\.png" ).unwrap();
     let costume_icon = Regex::new( r"(?im)^icon_costume[\d_]*\.png" ).unwrap();
     let buff_icon_atlas = Regex::new( r"(?im)^sactx\S+-BuffIcon\S+\.png" ).unwrap();
 
@@ -293,6 +265,13 @@ fn sort_assets_into_repo() {
             continue;
         }
 
+        if costume_skill_face.is_match( &file_name ) {
+            let file_name_stem_vec: Vec< &str > = file_name.split( "_" ).collect();
+            let new_file_name = format!( "{}_{}_{}", file_name_stem_vec[ 0 ], file_name_stem_vec[ 1 ], file_name_stem_vec[ 2 ] );
+            fs::rename( entry.path(), format!( "{}{}.png", "assets\\ui\\costume_skill_face\\", new_file_name ) ).expect("");
+            continue;
+        }
+
         if costume_icon.is_match( &file_name ) {
             let file_name_stem_vec: Vec< &str > = file_name.split( "_" ).collect();
             let new_file_name = format!( "{}_{}", file_name_stem_vec[ 0 ], file_name_stem_vec[ 1 ] );
@@ -317,16 +296,72 @@ fn main() {
     // println!( "\nExtraction completed!!!" );
 
     // make_repo_structur();
-    sort_assets_into_repo();
+    // sort_assets_into_repo();
 
     fixing_shit();
 }
 
 fn fixing_shit() {
+    // fix_last_hope_loen();
+    fix_manager_gray();
+    // fix_costume_icon_ids();
     extract_skill_icons();
+}
+
+fn fix_last_hope_loen() {
+    let source = "assets\\spine\\npc\\Loen\\";
+    let spine_files: Vec<PathBuf> = fs::read_dir( source ).unwrap().map(|res| res.unwrap().path() ).collect();
+    for file in spine_files {
+        let mut target = "assets\\spine\\character\\Loen\\Last_Hope\\".to_string();
+        target.push_str( "char003201." );
+        let file_name = file.file_name().unwrap().to_string_lossy();
+        let file_name_vec: Vec< &str > = file_name.split( "." ).collect();
+        target.push_str( file_name_vec[ 1 ] );
+
+        if file_name_vec[ 1 ] == "atlas" {
+            let mut atlas_content = fs::read_to_string( &file ).expect( "" );
+            atlas_content = atlas_content.replace( "npc300501" , "char003201" );
+            fs::write( target, atlas_content ).expect( "" );
+            continue;
+        }
+        fs::copy( &file, &target ).expect( "" );
+    }
+}
+
+fn fix_manager_gray() {
+    let source = "assets\\spine\\character\\Gray\\B-Rank_Manager\\";
+    let spine_files: Vec<PathBuf> = fs::read_dir( source ).unwrap().map(|res| res.unwrap().path() ).collect();
+    for file in spine_files {
+        let file_name = file.file_name().unwrap().to_string_lossy();
+        let file_name_vec: Vec< &str > = file_name.split( "." ).collect();
+
+        let target = file.to_str().unwrap().replace( ".skel.", "." );
+
+        if file_name_vec[ 2 ] == "atlas" {
+            let mut atlas_content = fs::read_to_string( &file ).expect( "" );
+            atlas_content = atlas_content.replace( "char000402.skel" , "char000402" );
+            fs::write( target, atlas_content ).expect( "" );
+            fs::remove_file( &file ).expect( "" );
+            continue;
+        }
+        fs::rename( &file, &target ).expect( "" );
+    }
+}
+
+fn fix_costume_icon_ids() {
+    let ids = vec![ 101, 201, 202, 204, 301, 401, 501, 601 ];
+    let base_path = "assets\\ui\\costume_icon\\icon_costume";
+    for id in ids {
+        let new_id = format!( "{:06}", id );
+        let from = format!( "{}{}.png", base_path, id );
+        let to = format!( "{}{}.png", base_path, new_id );
+        fs::rename( from, to ).expect( "Costume Icon Id Fix Error" );
+    }
 }
 
 use skill_icon_extractor::add;
 fn extract_skill_icons() {
     println!( "{}", add(2, 2) )
 }
+
+
