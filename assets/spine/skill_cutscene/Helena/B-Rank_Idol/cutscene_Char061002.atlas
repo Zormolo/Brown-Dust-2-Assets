@@ -1,4 +1,4 @@
-cutscene_Char061002.png
+cutscene_char061002.png
 size:2048,2048
 filter:Linear,Linear
 A_Waist_2
@@ -228,7 +228,7 @@ C_skirt5
 bounds:690,88,219,179
 rotate:180
 
-cutscene_Char061002_2.png
+cutscene_char061002_2.png
 size:2048,2048
 filter:Linear,Linear
 A_Waist_1
@@ -519,7 +519,7 @@ C_skirt3
 bounds:758,979,397,290
 rotate:90
 
-cutscene_Char061002_3.png
+cutscene_char061002_3.png
 size:2048,2048
 filter:Linear,Linear
 A_hair17

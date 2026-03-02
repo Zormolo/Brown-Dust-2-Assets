@@ -290,22 +290,24 @@ fn sort_assets_into_repo() {
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn main() {
-    // clear_output_folder();
+    clear_output_folder();
 
-    // extract_assets();
-    // println!( "\nExtraction completed!!!" );
+    extract_assets();
+    println!( "\nExtraction completed!!!" );
 
-    // make_repo_structur();
-    // sort_assets_into_repo();
+    make_repo_structur();
+    sort_assets_into_repo();
 
     fixing_shit();
 }
 
 fn fixing_shit() {
-    // fix_last_hope_loen();
+    fix_last_hope_loen();
     fix_manager_gray();
-    // fix_costume_icon_ids();
-    extract_skill_icons();
+    fix_cursed_celia();
+    fix_b_rank_idol_helena();
+    fix_costume_icon_ids();
+    // extract_skill_icons();
 }
 
 fn fix_last_hope_loen() {
@@ -342,6 +344,49 @@ fn fix_manager_gray() {
             atlas_content = atlas_content.replace( "char000402.skel" , "char000402" );
             fs::write( target, atlas_content ).expect( "" );
             fs::remove_file( &file ).expect( "" );
+            continue;
+        }
+        fs::rename( &file, &target ).expect( "" );
+    }
+}
+
+fn fix_cursed_celia() {
+    let source = "assets\\spine\\character\\Celia\\THe_Curse\\";
+    let spine_files: Vec<PathBuf> = fs::read_dir( source ).unwrap().map(|res| res.unwrap().path() ).collect();
+    for file in spine_files {
+        let file_name = file.file_name().unwrap().to_string_lossy();
+        let file_name_vec: Vec< &str > = file_name.split( "." ).collect();
+
+        let target = file.to_str().unwrap().replace( "101601", "060401" );
+
+        if file_name_vec[ 1 ] == "atlas" {
+            let mut atlas_content = fs::read_to_string( &file ).expect( "" );
+            atlas_content = atlas_content.replace( "101601", "060401" );
+            fs::write( target, atlas_content ).expect( "" );
+            fs::remove_file( &file ).expect( "" );
+            continue;
+        }
+        fs::rename( &file, &target ).expect( "" );
+    }
+
+    fs::rename( "assets\\ui\\costume_face\\illust_inven_char101601.png", "assets\\ui\\costume_face\\illust_inven_char060401.png" ).expect( "" );
+    fs::rename( "assets\\ui\\costume_skill_face\\illust_skill_char101601.png", "assets\\ui\\costume_skill_face\\illust_skill_char060401.png" ).expect( "" );
+}
+
+fn fix_b_rank_idol_helena() {
+    let source = "assets\\spine\\skill_cutscene\\Helena\\B-Rank_Idol\\";
+    let spine_files: Vec<PathBuf> = fs::read_dir( source ).unwrap().map(|res| res.unwrap().path() ).collect();
+    for file in spine_files {
+        let file_name = file.file_name().unwrap().to_string_lossy();
+        let file_name_vec: Vec< &str > = file_name.split( "." ).collect();
+
+        let target = file.to_str().unwrap().replace( "Char", "char" );
+
+        if file_name_vec[ 1 ] == "atlas" {
+            let mut atlas_content = fs::read_to_string( &file ).expect( "" );
+            atlas_content = atlas_content.replace( "Char" , "char" );
+            fs::remove_file( &file ).expect( "" );
+            fs::write( target, atlas_content ).expect( "" );
             continue;
         }
         fs::rename( &file, &target ).expect( "" );

@@ -120,12 +120,8 @@ Those icons are only from playable costumes, skins or temporary companions.
 
 ## Known Issues
 
-Bright Moon Dalvi, Sword Queen Sylvia, Gamer Club Rafina, Kind Liberator Samay are cursed if you open then now -> Reason extracted PNG has diff Size then in the atlas file expected, if you want to open then just resize them to the size writen in the atlas file  
+Sword Queen Sylvia & Kind Liberator Samay are cursed if you open them now -> Reason extracted PNG has diff Size then in the atlas file expected, if you want to open then just resize them to the size writen in the atlas file  
 I will do a check later that fixed those sizing issues
-
-Cursed Celia has a weird ID in the charater spine folder -> her offical id is based of the "new" cutscene 060401 i will fix that later too  
-B-Rank Helene Skill Cutscene used cutscene\_Char instead of cutscene\_char  
-Those error need a fix in name of the file and changing the .atlas file for that costume if you want to make on your own in the meantime
 
 ## Report Issues
 
