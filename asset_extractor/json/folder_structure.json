@@ -1642,6 +1642,9 @@
     "name": "ui",
     "folder_list": [
       {
+        "name": "skill_cutscene_background"
+      },
+      {
         "name": "costume_face"
       },
       {

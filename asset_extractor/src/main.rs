@@ -224,6 +224,7 @@ fn sort_assets_into_repo() {
     let costume_skill_face = Regex::new( r"(?im)^illust_skill_char[\d_]*\.png" ).unwrap();
     let costume_icon = Regex::new( r"(?im)^icon_costume[\d_]*\.png" ).unwrap();
     let buff_icon_atlas = Regex::new( r"(?im)^sactx\S+-BuffIcon\S+\.png" ).unwrap();
+    let skill_cutscene_background = Regex::new( r"(?im)back[\d\. ]+" ).unwrap();
 
     for entry in fs::read_dir( "output" ).expect( "failed to find asset folder" ) {
         let entry = entry.expect( "failed to find folder entry!" );
@@ -283,6 +284,11 @@ fn sort_assets_into_repo() {
             fs::copy( entry.path(), format!( "{}{}", "assets\\ui\\skill_icons\\", file_name ) ).expect("");
             continue;
         }
+
+        if skill_cutscene_background.is_match( &file_name ) {
+            fs::rename( entry.path(), format!( "{}{}", "assets\\ui\\skill_cutscene_background\\", file_name ) ).expect("");
+            continue;
+        }
     }
 }
 
@@ -290,15 +296,15 @@ fn sort_assets_into_repo() {
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn main() {
-    clear_output_folder();
+    // clear_output_folder();
 
-    extract_assets();
-    println!( "\nExtraction completed!!!" );
+    // extract_assets();
+    // println!( "\nExtraction completed!!!" );
 
-    make_repo_structur();
+    // make_repo_structur();
     sort_assets_into_repo();
 
-    fixing_shit();
+    // fixing_shit();
 }
 
 fn fixing_shit() {

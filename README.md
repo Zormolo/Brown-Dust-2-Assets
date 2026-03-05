@@ -107,6 +107,19 @@ Those faces are only from playable costumes, skins, temporary companions or summ
 
 [Go to Costume Skill Faces](assets/ui/costume_skill_face/)
 
+
+### Costume Skill Backgrounds
+
+<img src="readmeImages/ui_skill_cutscene_background_example.png" style="display: block; margin-left: auto; margin-right: auto">  
+
+<br>
+
+All backgrounds of the costumes used in the spine animation of the skill cutscenes.  
+Those background images are only from playable units with skill cutscenes.  
+For now they are just dumped into on folder unsorted.  
+
+[Go to Costume Skill Faces](assets/ui/skill_cutscene_background//)
+
 ### Costume Icons
 
 <img src="readmeImages/ui_costume_icons_example.png" style="display: block; margin-left: auto; margin-right: auto">  
