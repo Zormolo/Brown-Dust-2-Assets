@@ -296,15 +296,15 @@ fn sort_assets_into_repo() {
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn main() {
-    // clear_output_folder();
+    clear_output_folder();
 
-    // extract_assets();
-    // println!( "\nExtraction completed!!!" );
+    extract_assets();
+    println!( "\nExtraction completed!!!" );
 
-    // make_repo_structur();
+    make_repo_structur();
     sort_assets_into_repo();
 
-    // fixing_shit();
+    fixing_shit();
 }
 
 fn fixing_shit() {
@@ -377,6 +377,7 @@ fn fix_cursed_celia() {
 
     fs::rename( "assets\\ui\\costume_face\\illust_inven_char101601.png", "assets\\ui\\costume_face\\illust_inven_char060401.png" ).expect( "" );
     fs::rename( "assets\\ui\\costume_skill_face\\illust_skill_char101601.png", "assets\\ui\\costume_skill_face\\illust_skill_char060401.png" ).expect( "" );
+    fs::rename( "assets\\ui\\costume_icon\\icon_costume101601.png", "assets\\ui\\costume_icon\\icon_costume060401.png" ).expect( "" );
 }
 
 fn fix_b_rank_idol_helena() {

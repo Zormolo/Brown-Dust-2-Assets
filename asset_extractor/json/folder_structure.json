@@ -53,13 +53,28 @@
             ]
           },
           {
-            "name": "Arines"
+            "name": "Arines",
+            "folder_list": [
+              {
+                "name": "Priest_of_Vitality"
+              }
+            ]
           },
           {
-            "name": "Beatrice"
+            "name": "Beatrice",
+            "folder_list": [
+              {
+                "name": "The_Mighty_Warrior_of_the_Tribe"
+              }
+            ]
           },
           {
-            "name": "Bernie"
+            "name": "Bernie",
+            "folder_list": [
+              {
+                "name": "Righteous_Raider_Girl"
+              }
+            ]
           },
           {
             "name": "Blade",
@@ -76,7 +91,12 @@
             ]
           },
           {
-            "name": "Carlson"
+            "name": "Carlson",
+            "folder_list": [
+              {
+                "name": "The_Mercenary_Knight"
+              }
+            ]
           },
           {
             "name": "Celia",
@@ -93,7 +113,12 @@
             ]
           },
           {
-            "name": "Cynthia"
+            "name": "Cynthia",
+            "folder_list": [
+              {
+                "name": "Warmth_within_the_Severe_Cold"
+              }
+            ]
           },
           {
             "name": "Dalvi",
@@ -174,7 +199,12 @@
             ]
           },
           {
-            "name": "Elpis"
+            "name": "Elpis",
+            "folder_list": [
+              {
+                "name": "Hand_of_Salvation"
+              }
+            ]
           },
           {
             "name": "Emma",
@@ -199,7 +229,12 @@
             ]
           },
           {
-            "name": "Fred"
+            "name": "Fred",
+            "folder_list": [
+              {
+                "name": "Lugo_Defense_Force"
+              }
+            ]
           },
           {
             "name": "Glacia",
@@ -213,7 +248,12 @@
             ]
           },
           {
-            "name": "Goblin_Slayer"
+            "name": "Goblin_Slayer",
+            "folder_list": [
+              {
+                "name": "Orcbolg"
+              }
+            ]
           },
           {
             "name": "Granadair",
@@ -258,7 +298,12 @@
             ]
           },
           {
-            "name": "Gynt"
+            "name": "Gynt",
+            "folder_list": [
+              {
+                "name": "Lugo_Hunter"
+              }
+            ]
           },
           {
             "name": "Helena",
@@ -272,13 +317,28 @@
             ]
           },
           {
-            "name": "High_Elf_Archer"
+            "name": "High_Elf_Archer",
+            "folder_list": [
+              {
+                "name": "Daughter_of_Starwind"
+              }
+            ]
           },
           {
-            "name": "Hikage"
+            "name": "Hikage",
+            "folder_list": [
+              {
+                "name": "Kind_Ruthlessness"
+              }
+            ]
           },
           {
-            "name": "Ingrid"
+            "name": "Ingrid",
+            "folder_list": [
+              {
+                "name": "Kardis'_Bullet"
+              }
+            ]
           },
           {
             "name": "Jayden",
@@ -292,7 +352,12 @@
             ]
           },
           {
-            "name": "Julie"
+            "name": "Julie",
+            "folder_list": [
+              {
+                "name": "Healer"
+              }
+            ]
           },
           {
             "name": "Justia",
@@ -352,7 +417,12 @@
             ]
           },
           {
-            "name": "Layla"
+            "name": "Layla",
+            "folder_list": [
+              {
+                "name": "Anvil_of_Creation"
+              }
+            ]
           },
           {
             "name": "Lecliss",
@@ -408,7 +478,12 @@
             ]
           },
           {
-            "name": "Lisianne"
+            "name": "Lisianne",
+            "folder_list": [
+              {
+                "name": "Wandering_Priest"
+              }
+            ]
           },
           {
             "name": "Loen",
@@ -425,7 +500,12 @@
             ]
           },
           {
-            "name": "Lucrezia"
+            "name": "Lucrezia",
+            "folder_list": [
+              {
+                "name": "Seductive_Wings"
+              }
+            ]
           },
           {
             "name": "Luvencia",
@@ -439,10 +519,28 @@
             ]
           },
           {
-            "name": "Lydia"
+            "name": "Lydia",
+            "folder_list": [
+              {
+                "name": "Apprentice_Spearman"
+              }
+            ]
           },
           {
-            "name": "Maria"
+            "name": "Mamonir",
+            "folder_list": [
+              {
+                "name": "Night_of_Death"
+              }
+            ]
+          },
+          {
+            "name": "Maria",
+            "folder_list": [
+              {
+                "name": "Archmage"
+              }
+            ]
           },
           {
             "name": "Michaela",
@@ -473,7 +571,12 @@
             ]
           },
           {
-            "name": "Nartas"
+            "name": "Nartas",
+            "folder_list": [
+              {
+                "name": "Unknown_Sage"
+              }
+            ]
           },
           {
             "name": "Nebris",
@@ -518,7 +621,20 @@
             ]
           },
           {
-            "name": "Priestess"
+            "name": "Palette",
+            "folder_list": [
+              {
+                "name": "Shattered_Dream"
+              }
+            ]
+          },
+          {
+            "name": "Priestess",
+            "folder_list": [
+              {
+                "name": "Earth_Mother_Believer"
+              }
+            ]
           },
           {
             "name": "Rafina",
@@ -549,10 +665,20 @@
             ]
           },
           {
-            "name": "Remnunt"
+            "name": "Remnunt",
+            "folder_list": [
+              {
+                "name": "Combat_Doctor"
+              }
+            ]
           },
           {
-            "name": "Rigenette"
+            "name": "Rigenette",
+            "folder_list": [
+              {
+                "name": "Little_Hunter"
+              }
+            ]
           },
           {
             "name": "Rou",
@@ -600,7 +726,12 @@
             ]
           },
           {
-            "name": "Sacred_Justia"
+            "name": "Sacred_Justia",
+            "folder_list": [
+              {
+                "name": "Reclaimed_Destiny"
+              }
+            ]
           },
           {
             "name": "Samay",
@@ -656,7 +787,12 @@
             ]
           },
           {
-            "name": "Sword_Maiden"
+            "name": "Sword_Maiden",
+            "folder_list": [
+              {
+                "name": "Supreme_God_Archbishop"
+              }
+            ]
           },
           {
             "name": "Sylvia",
@@ -754,13 +890,28 @@
             ]
           },
           {
-            "name": "Yomi"
+            "name": "Yomi",
+            "folder_list": [
+              {
+                "name": "Gentle_Destroyer"
+              }
+            ]
           },
           {
-            "name": "Yozakura"
+            "name": "Yozakura",
+            "folder_list": [
+              {
+                "name": "Fists_of_Conviction"
+              }
+            ]
           },
           {
-            "name": "Yumi"
+            "name": "Yumi",
+            "folder_list": [
+              {
+                "name": "Dancing_Snowflake"
+              }
+            ]
           },
           {
             "name": "Yuri",
@@ -818,7 +969,12 @@
             ]
           },
           {
-            "name": "Beatrice"
+            "name": "Beatrice",
+            "folder_list": [
+              {
+                "name": "The_Mighty_Warrior_of_the_Tribe"
+              }
+            ]
           },
           {
             "name": "Blade",
@@ -835,7 +991,12 @@
             ]
           },
           {
-            "name": "Carlson"
+            "name": "Carlson",
+            "folder_list": [
+              {
+                "name": "The_Mercenary_Knight"
+              }
+            ]
           },
           {
             "name": "Celia",
@@ -930,7 +1091,12 @@
             ]
           },
           {
-            "name": "Elpis"
+            "name": "Elpis",
+            "folder_list": [
+              {
+                "name": "Hand_of_Salvation"
+              }
+            ]
           },
           {
             "name": "Eris",
@@ -955,7 +1121,12 @@
             ]
           },
           {
-            "name": "Goblin_Slayer"
+            "name": "Goblin_Slayer",
+            "folder_list": [
+              {
+                "name": "Orcbolg"
+              }
+            ]
           },
           {
             "name": "Granadair",
@@ -983,7 +1154,12 @@
             ]
           },
           {
-            "name": "Gray"
+            "name": "Gray",
+            "folder_list": [
+              {
+                "name": "The_Sharpshooter_of_the_Mist"
+              }
+            ]
           },
           {
             "name": "Helena",
@@ -997,10 +1173,20 @@
             ]
           },
           {
-            "name": "High_Elf_Archer"
+            "name": "High_Elf_Archer",
+            "folder_list": [
+              {
+                "name": "Daughter_of_Starwind"
+              }
+            ]
           },
           {
-            "name": "Hikage"
+            "name": "Hikage",
+            "folder_list": [
+              {
+                "name": "Kind_Ruthlessness"
+              }
+            ]
           },
           {
             "name": "Justia",
@@ -1115,7 +1301,20 @@
             ]
           },
           {
-            "name": "Lydia"
+            "name": "Lydia",
+            "folder_list": [
+              {
+                "name": "Apprentice_Spearman"
+              }
+            ]
+          },
+          {
+            "name": "Mamonir",
+            "folder_list": [
+              {
+                "name": "Night_of_Death"
+              }
+            ]
           },
           {
             "name": "Michaela",
@@ -1146,7 +1345,12 @@
             ]
           },
           {
-            "name": "Nartas"
+            "name": "Nartas",
+            "folder_list": [
+              {
+                "name": "Unknown_Sage"
+              }
+            ]
           },
           {
             "name": "Nebris",
@@ -1180,10 +1384,28 @@
             ]
           },
           {
-            "name": "Olstein"
+            "name": "Olstein",
+            "folder_list": [
+              {
+                "name": "Sage_of_Blue_Clouds"
+              }
+            ]
           },
           {
-            "name": "Priestess"
+            "name": "Palette",
+            "folder_list": [
+              {
+                "name": "Shattered_Dream"
+              }
+            ]
+          },
+          {
+            "name": "Priestess",
+            "folder_list": [
+              {
+                "name": "Earth_Mother_Believer"
+              }
+            ]
           },
           {
             "name": "Rafina",
@@ -1214,7 +1436,12 @@
             ]
           },
           {
-            "name": "Rigenette"
+            "name": "Rigenette",
+            "folder_list": [
+              {
+                "name": "Little_Hunter"
+              }
+            ]
           },
           {
             "name": "Rou",
@@ -1262,7 +1489,12 @@
             ]
           },
           {
-            "name": "Sacred_Justia"
+            "name": "Sacred_Justia",
+            "folder_list": [
+              {
+                "name": "Reclaimed_Destiny"
+              }
+            ]
           },
           {
             "name": "Scheherazade",
@@ -1307,7 +1539,12 @@
             ]
           },
           {
-            "name": "Sword_Maiden"
+            "name": "Sword_Maiden",
+            "folder_list": [
+              {
+                "name": "Supreme_God_Archbishop"
+              }
+            ]
           },
           {
             "name": "Sylvia",
@@ -1380,7 +1617,12 @@
             ]
           },
           {
-            "name": "Wiggle"
+            "name": "Wiggle",
+            "folder_list": [
+              {
+                "name": "Bomb_Fanatic"
+              }
+            ]
           },
           {
             "name": "Wilhelmina",
@@ -1397,13 +1639,28 @@
             ]
           },
           {
-            "name": "Yomi"
+            "name": "Yomi",
+            "folder_list": [
+              {
+                "name": "Gentle_Destroyer"
+              }
+            ]
           },
           {
-            "name": "Yozakura"
+            "name": "Yozakura",
+            "folder_list": [
+              {
+                "name": "Fists_of_Conviction"
+              }
+            ]
           },
           {
-            "name": "Yumi"
+            "name": "Yumi",
+            "folder_list": [
+              {
+                "name": "Dancing_Snowflake"
+              }
+            ]
           },
           {
             "name": "Yuri",
@@ -1436,13 +1693,28 @@
         "name": "interaction",
         "folder_list": [
           {
-            "name": "Nebris"
+            "name": "Nebris",
+            "folder_list": [
+              {
+                "name": "New_Hire"
+              }
+            ]
           },
           {
-            "name": "Loen"
+            "name": "Loen",
+            "folder_list": [
+              {
+                "name": "Celebrity_Bunny"
+              }
+            ]
           },
           {
-            "name": "Morphea"
+            "name": "Morphea",
+            "folder_list": [
+              {
+                "name": "Daydream_Bunny"
+              }
+            ]
           },
           {
             "name": "Teresse",
@@ -1456,34 +1728,92 @@
             ]
           },
           {
-            "name": "Elise"
+            "name": "Elise",
+            "folder_list": [
+              {
+                "name": "Code_Name_O"
+              }
+            ]
           },
           {
-            "name": "Wilhelmina"
+            "name": "Wilhelmina",
+            "folder_list": [
+              {
+                "name": "Water_Park_Queen"
+              }
+            ]
           },
           {
-            "name": "Justia"
+            "name": "Justia",
+            "folder_list": [
+              {
+                "name": "Hot_Summer_Dream_Prestige"
+              }
+            ]
           },
           {
-            "name": "Sylvia"
+            "name": "Sylvia",
+            "folder_list": [
+              {
+                "name": "Bikini_Agent"
+              }
+            ]
           },
           {
-            "name": "Angelica"
+            "name": "Angelica",
+            "folder_list": [
+              {
+                "name": "Neon_Saviour"
+              }
+            ]
           },
           {
-            "name": "Eclipse"
+            "name": "Eclipse",
+            "folder_list": [
+              {
+                "name": "Nightmare_Bunny"
+              }
+            ]
           },
           {
-            "name": "Zenith"
+            "name": "Zenith",
+            "folder_list": [
+              {
+                "name": "Stranger_Bunny_Prestige"
+              }
+            ]
           },
           {
-            "name": "Tyr"
+            "name": "Tyr",
+            "folder_list": [
+              {
+                "name": "Innocent_Bunny"
+              }
+            ]
           },
           {
-            "name": "Liberta"
+            "name": "Liberta",
+            "folder_list": [
+              {
+                "name": "Hedonist_Prestige"
+              }
+            ]
           },
           {
-            "name": "Ventana"
+            "name": "Ventana",
+            "folder_list": [
+              {
+                "name": "Onsen_Practitioner"
+              }
+            ]
+          },
+          {
+            "name": "Olivier",
+            "folder_list": [
+              {
+                "name": "Retired_Legend"
+              }
+            ]
           }
         ]
       },
@@ -1607,6 +1937,9 @@
           },
           {
             "name": "Nebris"
+          },
+          {
+            "name": "Nekyndalia"
           },
           {
             "name": "Night_World_Lathel"
