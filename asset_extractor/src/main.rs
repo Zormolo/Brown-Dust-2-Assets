@@ -203,6 +203,10 @@ fn move_file( file_path: &PathBuf, file_name: String, base_path: &str, map: Hash
             copy_path = base_path.to_string();
        }
     }
+    if file_path.to_str().expect( "" ).contains( "archive\\" ) {
+        fs::copy( file_path, format!("{}{}", &copy_path, &file_name ) ).expect( err_msg );
+        return;
+    }
     fs::rename( file_path, format!("{}{}", &copy_path, &file_name ) ).expect( err_msg );
 }
 
@@ -226,7 +230,11 @@ fn sort_assets_into_repo() {
     let buff_icon_atlas = Regex::new( r"(?im)^sactx\S+-BuffIcon\S+\.png" ).unwrap();
     let skill_cutscene_background = Regex::new( r"(?im)back[\d\. ]+" ).unwrap();
 
-    for entry in fs::read_dir( "output" ).expect( "failed to find asset folder" ) {
+    let output_folder_files_path = fs::read_dir( "output" ).expect( "failed to find asset folder" );
+    let archive_folder_files_path = fs::read_dir( "archive" ).expect( "failed to find archive folder" );
+    let file_paths: Vec<_ > = output_folder_files_path.chain( archive_folder_files_path ).collect();
+
+    for entry in file_paths {
         let entry = entry.expect( "failed to find folder entry!" );
         let file_name = entry.file_name().into_string().unwrap();
 
@@ -296,15 +304,15 @@ fn sort_assets_into_repo() {
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn main() {
-    clear_output_folder();
+    // clear_output_folder();
 
-    extract_assets();
-    println!( "\nExtraction completed!!!" );
+    // extract_assets();
+    // println!( "\nExtraction completed!!!" );
 
-    make_repo_structur();
+    // make_repo_structur();
     sort_assets_into_repo();
 
-    fixing_shit();
+    // fixing_shit();
 }
 
 fn fixing_shit() {
