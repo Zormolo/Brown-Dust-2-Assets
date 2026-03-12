@@ -230,6 +230,8 @@ fn sort_assets_into_repo() {
     let buff_icon_atlas = Regex::new( r"(?im)^sactx\S+-BuffIcon\S+\.png" ).unwrap();
     let skill_cutscene_background = Regex::new( r"(?im)back[\d\. ]+" ).unwrap();
 
+    let wallpapers = Regex::new( r"(?im)^bg_idcard_bg[\d_a-z]*\.png" ).unwrap();
+
     let output_folder_files_path = fs::read_dir( "output" ).expect( "failed to find asset folder" );
     let archive_folder_files_path = fs::read_dir( "archive" ).expect( "failed to find archive folder" );
     let file_paths: Vec<_ > = output_folder_files_path.chain( archive_folder_files_path ).collect();
@@ -297,6 +299,17 @@ fn sort_assets_into_repo() {
             fs::rename( entry.path(), format!( "{}{}", "assets\\ui\\skill_cutscene_background\\", file_name ) ).expect("");
             continue;
         }
+
+        if wallpapers.is_match( &file_name ) {
+            let path = entry.path();
+            let path_str = path.to_str().expect("");
+            if path_str.contains( "archive\\" ) {
+                fs::copy( path_str, format!( "{}{}", "assets\\ui\\wallpapers\\", file_name ) ).expect("");
+                continue;
+            }
+            fs::rename( path_str, format!( "{}{}", "assets\\ui\\wallpapers\\", file_name ) ).expect("");
+            continue;
+        }
     }
 }
 
@@ -312,15 +325,16 @@ fn main() {
     // make_repo_structur();
     sort_assets_into_repo();
 
-    // fixing_shit();
+    fixing_shit();
 }
 
 fn fixing_shit() {
-    fix_last_hope_loen();
-    fix_manager_gray();
-    fix_cursed_celia();
-    fix_b_rank_idol_helena();
-    fix_costume_icon_ids();
+    // fix_last_hope_loen();
+    // fix_manager_gray();
+    // fix_cursed_celia();
+    // fix_b_rank_idol_helena();
+    // fix_costume_icon_ids();
+    fix_eff_wallpapers();
     // extract_skill_icons();
 }
 
@@ -416,6 +430,18 @@ fn fix_costume_icon_ids() {
         let from = format!( "{}{}.png", base_path, id );
         let to = format!( "{}{}.png", base_path, new_id );
         fs::rename( from, to ).expect( "Costume Icon Id Fix Error" );
+    }
+}
+
+fn fix_eff_wallpapers() {
+    let remove_files = vec![
+        "bg_idcard_bg_eff_1.png",
+        "bg_idcard_bg_eff_2.png",
+        "bg_idcard_bg_eff_3.png"
+    ];
+    for file in remove_files {
+        let path = format!( "{}{}", "assets\\ui\\wallpapers\\", file );
+        let _ = fs::remove_file( path );
     }
 }
 

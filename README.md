@@ -17,6 +17,9 @@ This Repo archives the Assets from the Game: Brown Dust 2. More focused on the S
 - [UI](#ui)
   - [Costume Faces](#costume-faces)
   - [Costume Icons](#costume-icons)
+  - [Costume Skill Faces](#costume-skill-faces)
+  - [Costume Skill Backgrounds](#costume-skill-backgrounds)
+  - [Wallpapers](#wallpapers)
 - [Known Issues](#known-stuff-i-need-to-fix)
 - [Report Issues](#report-issues)
 - [3rd Party](#3rd-party-dependencies)
@@ -130,6 +133,16 @@ All icons of the costumes used in the Bag Menu under Costume or in the Collectio
 Those icons are only from playable costumes, skins or temporary companions.
 
 [Go to Costume Icons](assets/ui/costume_icon/)
+
+### Wallpapers
+
+<img src="readmeImages/ui_wallpaper_example.png" style="display: block; margin-left: auto; margin-right: auto">  
+
+<br>
+
+All the Wallpapers from Story Packs, Character Packs, Content Packs, Event Packs, Skill Cutscenes and Special Cutscenes from Story or Events.
+
+[Go to Wallpapers](//assets/ui/wallpapers/)
 
 ## Known Issues
 
