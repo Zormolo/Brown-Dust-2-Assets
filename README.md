@@ -142,7 +142,7 @@ Those icons are only from playable costumes, skins or temporary companions.
 
 All the Wallpapers from Story Packs, Character Packs, Content Packs, Event Packs, Skill Cutscenes and Special Cutscenes from Story or Events.
 
-[Go to Wallpapers](//assets/ui/wallpapers/)
+[Go to Wallpapers](assets/ui/wallpapers/)
 
 ## Known Issues
 
