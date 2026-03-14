@@ -317,23 +317,23 @@ fn sort_assets_into_repo() {
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn main() {
-    // clear_output_folder();
+    clear_output_folder();
 
-    // extract_assets();
-    // println!( "\nExtraction completed!!!" );
+    extract_assets();
+    println!( "\nExtraction completed!!!" );
 
-    // make_repo_structur();
+    make_repo_structur();
     sort_assets_into_repo();
 
     fixing_shit();
 }
 
 fn fixing_shit() {
-    // fix_last_hope_loen();
-    // fix_manager_gray();
-    // fix_cursed_celia();
-    // fix_b_rank_idol_helena();
-    // fix_costume_icon_ids();
+    fix_last_hope_loen();
+    fix_manager_gray();
+    fix_cursed_celia();
+    fix_b_rank_idol_helena();
+    fix_costume_icon_ids();
     fix_eff_wallpapers();
     // extract_skill_icons();
 }
