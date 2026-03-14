@@ -146,8 +146,9 @@ All the Wallpapers from Story Packs, Character Packs, Content Packs, Event Packs
 
 ## Known Issues
 
-Sword Queen Sylvia & Kind Liberator Samay are cursed if you open them now -> Reason extracted PNG has diff Size then in the atlas file expected, if you want to open then just resize them to the size writen in the atlas file  
-I will do a check later that fixed those sizing issues
+On Extraction some Spine models dont have the right png sizes. With that the animations look cursed.  
+I fixed them manuel atm  
+Need to include a proper check so that can be automatically be corrected.  
 
 ## Report Issues
 
