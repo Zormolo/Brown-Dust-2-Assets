@@ -218,8 +218,8 @@ fn sort_assets_into_repo() {
     let reader = BufReader::new( file );
     let mapping: Mapping = serde_json::from_reader( reader ).expect("rrrrrr");
 
-    let char_spine = Regex::new( r"(?im)^char[0-6][\d_]*\.(?:png|atlas|skel)" ).unwrap();
-    let skill_cutscene_spine = Regex::new( r"(?im)^cutscene_char[\d_]*\.(?:png|atlas|skel)" ).unwrap();
+    let char_spine = Regex::new( r"(?im)^char[0-6][\d_c]*\.(?:png|atlas|skel)" ).unwrap();
+    let skill_cutscene_spine = Regex::new( r"(?im)^cutscene_char[\d_a]*\.(?:png|atlas|skel)" ).unwrap();
     let interaction_spine = Regex::new( r"(?im)^illust_dating[\d_]*\.(?:png|atlas|skel)" ).unwrap();
     let npc_spine = Regex::new( r"^npc[_ellin|\d]*\.(?:png|atlas|skel)" ).unwrap();
     let light_novel_talk_spine = Regex::new( r"^illust_talk[_\d]*\.(?:png|atlas|skel)" ).unwrap();
@@ -333,6 +333,7 @@ fn fixing_shit() {
     fix_manager_gray();
     fix_cursed_celia();
     fix_b_rank_idol_helena();
+    fix_rising_star_helena();
     fix_costume_icon_ids();
     fix_eff_wallpapers();
     // extract_skill_icons();
@@ -414,6 +415,26 @@ fn fix_b_rank_idol_helena() {
         if file_name_vec[ 1 ] == "atlas" {
             let mut atlas_content = fs::read_to_string( &file ).expect( "" );
             atlas_content = atlas_content.replace( "Char" , "char" );
+            fs::remove_file( &file ).expect( "" );
+            fs::write( target, atlas_content ).expect( "" );
+            continue;
+        }
+        fs::rename( &file, &target ).expect( "" );
+    }
+}
+
+fn fix_rising_star_helena() {
+    let source = "assets\\spine\\skill_cutscene\\Helena\\Rising_Star\\";
+    let spine_files: Vec<PathBuf> = fs::read_dir( source ).unwrap().map(|res| res.unwrap().path() ).collect();
+    for file in spine_files {
+        let file_name = file.file_name().unwrap().to_string_lossy();
+        let file_name_vec: Vec< &str > = file_name.split( "." ).collect();
+
+        let target = file.to_str().unwrap().replace( "_A", "" );
+
+        if file_name_vec[ 1 ] == "atlas" {
+            let mut atlas_content = fs::read_to_string( &file ).expect( "" );
+            atlas_content = atlas_content.replace( "char061092_A" , "char061092" );
             fs::remove_file( &file ).expect( "" );
             fs::write( target, atlas_content ).expect( "" );
             continue;
