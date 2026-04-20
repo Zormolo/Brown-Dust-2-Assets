@@ -336,6 +336,14 @@
             ]
           },
           {
+            "name": "Ikaruga",
+            "folder_list": [
+              {
+                "name": "Noble_Flame"
+              }
+            ]
+          },
+          {
             "name": "Ingrid",
             "folder_list": [
               {
@@ -904,7 +912,7 @@
             "name": "Yozakura",
             "folder_list": [
               {
-                "name": "Fists_of_Conviction"
+                "name": "Fist_of_Conviction"
               }
             ]
           },
@@ -1191,6 +1199,14 @@
             "folder_list": [
               {
                 "name": "Kind_Ruthlessness"
+              }
+            ]
+          },
+          {
+            "name": "Ikaruga",
+            "folder_list": [
+              {
+                "name": "Noble_Flame"
               }
             ]
           },
@@ -1656,7 +1672,7 @@
             "name": "Yozakura",
             "folder_list": [
               {
-                "name": "Fists_of_Conviction"
+                "name": "Fist_of_Conviction"
               }
             ]
           },
