@@ -281,8 +281,13 @@ fn sort_assets_into_repo() {
         }
 
         if costume_face.is_match( &file_name ) {
-            let file_name_stem_vec: Vec< &str > = file_name.split( "_" ).collect();
-            let new_file_name = format!( "{}_{}_{}", file_name_stem_vec[ 0 ], file_name_stem_vec[ 1 ], file_name_stem_vec[ 2 ] );
+            let new_file_name: String;
+            if file_name.contains( "_c." ) {
+                new_file_name = file_name.replace( ".png", "" );
+            } else {
+                let file_name_stem_vec: Vec< &str > = file_name.split( "_" ).collect();
+                new_file_name = format!( "{}_{}_{}", file_name_stem_vec[ 0 ], file_name_stem_vec[ 1 ], file_name_stem_vec[ 2 ] );
+            }
             fs::rename( path, format!( "{}{}.png", "assets\\ui\\costume_face\\", new_file_name ) ).expect("");
             continue;
         }
@@ -349,17 +354,17 @@ fn prefix() {
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn main() {
-    // clear_output_folder();
+    clear_output_folder();
 
-    // extract_assets();
-    // println!( "\nExtraction completed!!!" );
+    extract_assets();
+    println!( "\nExtraction completed!!!" );
 
-    // prefix();
+    prefix();
 
-    // make_repo_structur();
+    make_repo_structur();
     sort_assets_into_repo();
 
-    // fixing_shit();
+    fixing_shit();
 }
 
 fn fixing_shit() {
