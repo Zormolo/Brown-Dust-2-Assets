@@ -1854,6 +1854,14 @@
                 "name": "Retired_Legend"
               }
             ]
+          },
+          {
+            "name": "Palette",
+            "folder_list": [
+              {
+                "name": "Miracle_Violet"
+              }
+            ]
           }
         ]
       },
