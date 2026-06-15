@@ -30,7 +30,7 @@ struct Mapping {
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 fn extract_assets() {
-    let path = Path::new( "F:/Neowiz/Browndust2/Browndust2_10000001/BrownDust II_Data/Addressable" );
+    let path = Path::new( "F:\\Gamfs_BrownDust II" );
 
     let pool = ThreadPoolBuilder::new().num_threads( 30 ).build().unwrap();
     let paths: Vec<PathBuf> = fs::read_dir( path ).unwrap().map(|res| res.unwrap().path() ).collect();

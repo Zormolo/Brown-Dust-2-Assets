@@ -128,6 +128,9 @@
               },
               {
                 "name": "Summer_Vacation"
+              },
+              {
+                "name": "Tricky_Lover"
               }
             ]
           },
@@ -139,6 +142,9 @@
               },
               {
                 "name": "Bittersweet_Bunny"
+              },
+              {
+                "name": "Herald_of_Enlightenment"
               }
             ]
           },
@@ -195,6 +201,9 @@
               },
               {
                 "name": "Code_Name_O"
+              },
+              {
+                "name": "Naive_Lady"
               }
             ]
           },
@@ -277,6 +286,9 @@
               },
               {
                 "name": "Boo_Ghost"
+              },
+              {
+                "name": "Combat_Medic"
               }
             ]
           },
@@ -389,7 +401,7 @@
                 "name": "Pool_Party"
               },
               {
-                "name": "Hot_Summer_Dream_Prestige"
+                "name": "Hot_Summer_Dream"
               }
             ]
           },
@@ -484,7 +496,7 @@
                 "name": "Onsen_Manager"
               },
               {
-                "name": "Hedonist_Prestige"
+                "name": "Hedonist"
               },
               {
                 "name": "Miracle_Rose"
@@ -529,6 +541,9 @@
               },
               {
                 "name": "Wild_Dog"
+              },
+              {
+                "name": "Ocean_Vanguard"
               }
             ]
           },
@@ -570,6 +585,9 @@
               },
               {
                 "name": "Acting_Archbishop"
+              },
+              {
+                "name": "True_Liberation"
               }
             ]
           },
@@ -606,6 +624,17 @@
               },
               {
                 "name": "New_Hire"
+              },
+              {
+                "name": "Lucky_Bikini"
+              }
+            ]
+          },
+          {
+            "name": "Nekyndalia",
+            "folder_list": [
+              {
+                "name": "Deadeye"
               }
             ]
           },
@@ -778,6 +807,9 @@
               },
               {
                 "name": "Pool_Party"
+              },
+              {
+                "name": "Deliberate_Ace"
               }
             ]
           },
@@ -844,7 +876,7 @@
                 "name": "Beachside_Angel"
               },
               {
-                "name": "Milky_Bikini_Prestige"
+                "name": "Milky_Bikini"
               }
             ]
           },
@@ -954,7 +986,7 @@
                 "name": "Poolside_Guardian"
               },
               {
-                "name": "Stranger_Bunny_Prestige"
+                "name": "Stranger_Bunny"
               }
             ]
           }
@@ -1040,6 +1072,9 @@
               },
               {
                 "name": "Summer_Vacation"
+              },
+              {
+                "name": "Tricky_Lover"
               }
             ]
           },
@@ -1051,6 +1086,9 @@
               },
               {
                 "name": "Bittersweet_Bunny"
+              },
+              {
+                "name": "Herald_of_Enlightenment"
               }
             ]
           },
@@ -1107,6 +1145,9 @@
               },
               {
                 "name": "Code_Name_O"
+              },
+              {
+                "name": "Naive_Lady"
               }
             ]
           },
@@ -1170,6 +1211,9 @@
               },
               {
                 "name": "Boo_Ghost"
+              },
+              {
+                "name": "Combat_Medic"
               }
             ]
           },
@@ -1238,7 +1282,7 @@
                 "name": "Pool_Party"
               },
               {
-                "name": "Hot_Summer_Dream_Prestige"
+                "name": "Hot_Summer_Dream"
               }
             ]
           },
@@ -1302,7 +1346,7 @@
                 "name": "Onsen_Manager"
               },
               {
-                "name": "Hedonist_Prestige"
+                "name": "Hedonist"
               },
               {
                 "name": "Miracle_Rose"
@@ -1331,6 +1375,9 @@
               },
               {
                 "name": "Wild_Dog"
+              },
+              {
+                "name": "Ocean_Vanguard"
               }
             ]
           },
@@ -1364,6 +1411,9 @@
               },
               {
                 "name": "Acting_Archbishop"
+              },
+              {
+                "name": "True_Liberation"
               }
             ]
           },
@@ -1400,6 +1450,17 @@
               },
               {
                 "name": "New_Hire"
+              },
+              {
+                "name": "Lucky_Bikini"
+              }
+            ]
+          },
+          {
+            "name": "Nekyndalia",
+            "folder_list": [
+              {
+                "name": "Deadeye"
               }
             ]
           },
@@ -1550,6 +1611,9 @@
               },
               {
                 "name": "Pool_Party"
+              },
+              {
+                "name": "Deliberate_Ace"
               }
             ]
           },
@@ -1616,7 +1680,7 @@
                 "name": "Beachside_Angel"
               },
               {
-                "name": "Milky_Bikini_Prestige"
+                "name": "Milky_Bikini"
               }
             ]
           },
@@ -1723,7 +1787,7 @@
                 "name": "Poolside_Guardian"
               },
               {
-                "name": "Stranger_Bunny_Prestige"
+                "name": "Stranger_Bunny"
               }
             ]
           }
@@ -1763,7 +1827,7 @@
                 "name": "Medical_Club"
               },
               {
-                "name": "Milky_Bikini_Prestige"
+                "name": "Milky_Bikini"
               }
             ]
           },
@@ -1787,7 +1851,7 @@
             "name": "Justia",
             "folder_list": [
               {
-                "name": "Hot_Summer_Dream_Prestige"
+                "name": "Hot_Summer_Dream"
               }
             ]
           },
@@ -1819,7 +1883,7 @@
             "name": "Zenith",
             "folder_list": [
               {
-                "name": "Stranger_Bunny_Prestige"
+                "name": "Stranger_Bunny"
               }
             ]
           },
@@ -1835,7 +1899,7 @@
             "name": "Liberta",
             "folder_list": [
               {
-                "name": "Hedonist_Prestige"
+                "name": "Hedonist"
               }
             ]
           },
@@ -1860,6 +1924,22 @@
             "folder_list": [
               {
                 "name": "Miracle_Violet"
+              }
+            ]
+          },
+          {
+            "name": "Scheherazade",
+            "folder_list": [
+              {
+                "name": "Deliberate_Ace"
+              }
+            ]
+          },
+          {
+            "name": "Granhildr",
+            "folder_list": [
+              {
+                "name": "Combat_Medic"
               }
             ]
           }
@@ -1991,6 +2071,9 @@
           },
           {
             "name": "Night_World_Lathel"
+          },
+          {
+            "name": "Rudina"
           },
           {
             "name": "Storage_Keeper_Roche"
