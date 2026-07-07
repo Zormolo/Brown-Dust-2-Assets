@@ -227,7 +227,7 @@ fn sort_assets_into_repo() {
     let costume_face = Regex::new( r"(?im)^illust_inven_char[\d_c]*\.png" ).unwrap();
     let costume_skill_face = Regex::new( r"(?im)^illust_skill_char[\d_]*\.png" ).unwrap();
     let costume_icon = Regex::new( r"(?im)^icon_costume[\d_]*\.png" ).unwrap();
-    let buff_icon_atlas = Regex::new( r"(?im)^sactx\S+-BuffIcon\S+\.png" ).unwrap();
+    let skill_icon = Regex::new( r"(?im)^skillicon_[\d]*\.png" ).unwrap();
     let skill_cutscene_background = Regex::new( r"(?im)back[\d\. ]+" ).unwrap();
 
     let wallpapers = Regex::new( r"(?im)^bg_idcard_bg[\d_a-z]*\.png" ).unwrap();
@@ -306,7 +306,7 @@ fn sort_assets_into_repo() {
             continue;
         }
 
-        if buff_icon_atlas.is_match( &file_name ) {
+        if skill_icon.is_match( &file_name ) {
             fs::copy( path, format!( "{}{}", "assets\\ui\\skill_icons\\", file_name ) ).expect("");
             continue;
         }

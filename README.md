@@ -17,6 +17,7 @@ This Repo archives the Assets from the Game: Brown Dust 2. More focused on the S
 - [UI](#ui)
   - [Costume Faces](#costume-faces)
   - [Costume Icons](#costume-icons)
+  - [Skill Icons](#skill-icons)
   - [Costume Skill Faces](#costume-skill-faces)
   - [Costume Skill Backgrounds](#costume-skill-backgrounds)
   - [Wallpapers](#wallpapers)
@@ -99,6 +100,32 @@ Those faces are only from playable costumes, skins, temporary companions or summ
 
 [Go to Costume Faces](assets/ui/costume_face/)
 
+### Costume Icons
+
+<img src="readmeImages/ui_costume_icons_example.png" style="display: block; margin-left: auto; margin-right: auto">  
+
+<br>
+
+All icons of the costumes used in the Bag Menu under Costume or in the Collection under Costumes.  
+Those icons are only from playable costumes, skins or temporary companions.
+
+[Go to Costume Icons](assets/ui/costume_icon/)
+
+
+### Skill Icons
+
+<img src="readmeImages/ui_skill_icons_example.png" style="display: block; margin-left: auto; margin-right: auto">  
+
+<br>
+
+All Skill Icons from costumes and bosses.  
+Icon 000 to 999 are for costume icons.  
+Icon >1000 bosses from different game modes.  
+The icons are numbered in asending order of the costume release date [Maybe I will map them later to the costume names].
+
+[Go to Skill Icons](assets/ui/skill_icons/)
+
+
 ### Costume Skill Faces
 
 <img src="readmeImages/ui_costume_skill_faces_example.png" style="display: block; margin-left: auto; margin-right: auto">  
@@ -123,16 +150,6 @@ For now they are just dumped into on folder unsorted.
 
 [Go to Costume Skill Faces](assets/ui/skill_cutscene_background//)
 
-### Costume Icons
-
-<img src="readmeImages/ui_costume_icons_example.png" style="display: block; margin-left: auto; margin-right: auto">  
-
-<br>
-
-All icons of the costumes used in the Bag Menu under Costume or in the Collection under Costumes.  
-Those icons are only from playable costumes, skins or temporary companions.
-
-[Go to Costume Icons](assets/ui/costume_icon/)
 
 ### Wallpapers
 
