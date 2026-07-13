@@ -1,5 +1,5 @@
 {
-  "charactere": {
+  "character": {
     "char060301": "Alec\\The_Destruction",
     "char060302": "Alec\\Sword_Breaker",
     "char060501": "Anastasia\\Gentle_Maid",
@@ -16,7 +16,7 @@
     "char003702": "Blade\\Onsen_Swordfighter",
     "char003703": "Blade\\Young_Lady",
     "char103201": "Carlson\\The_Mercenary_Knight",
-    "char101601": "Celia\\The_Curse",
+    "char060401": "Celia\\The_Curse",
     "char060402": "Celia\\Descendant_of_the_Great_Witch",
     "char060403": "Celia\\Masquerade_Bunny",
     "char063301": "Cynthia\\Warmth_within_the_Severe_Cold",
@@ -374,8 +374,11 @@
   "npc": {
     "npc000004": "Ailee",
     "npc300104": "Asmode",
+    "npc400098": "Casino_Rudina",
+    "npc400064": "Casual_Valze",
     "npc400017": "Child_Hansen",
     "npc400001": "Child_Liberta",
+    "npc400135": "Child_Justia",
     "npc000011": "Darian",
     "npc200551": "Determined_Researcher",
     "npc000005": "Eleanor",
@@ -391,11 +394,11 @@
     "npc0033":   "Nebris",
     "npc400070": "Nekyndalia",
     "npc400042": "Night_World_Lathel",
-    "npc400098": "Rudina",
+    "npc400100": "Rudina",
     "npc000001": "Storage_Keeper_Roche",
     "npc400011": "Sonya",
     "npc400050": "Spatti",
-    "npc400064": "Valze",
+    "npc400123": "Valze",
     "npc300701": "Veila"
   },
   "light_novel_talk": {

@@ -1,6 +1,5 @@
 /output
-/target
-text*
-/*.png
+/asset_extractor/third_party/Fmod_Bank_Tools_CLI
+/asset_extractor/src/convertedAudioFiles.py
 /archive
 /output2
