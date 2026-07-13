@@ -10,17 +10,21 @@ This Repo archives the Assets from the Game: Brown Dust 2. More focused on the S
 
 - [Spine Models](#spine-models)
   - [Character Models](#character-models)
-  - [Skill Cutscene Models](#skill-cutscenes)
   - [Interaction Models](#interaction-models)
-  - [NPC Models](#npc-models)
   - [Light Novel Talk Models](#light-novel-talk-models)
+  - [Miscellaneous](#miscellaneous-models)
+  - [NPC Models](#npc-models)
+  - [Skill Cutscene Models](#skill-cutscenes)
+  - [Special Animation Models](#special-animation-models)
 - [UI](#ui)
   - [Costume Faces](#costume-faces)
   - [Costume Icons](#costume-icons)
-  - [Skill Icons](#skill-icons)
   - [Costume Skill Faces](#costume-skill-faces)
-  - [Costume Skill Backgrounds](#costume-skill-backgrounds)
+  - [Skill Cutscene Backgrounds](#skill-cutscene-backgrounds)
+  - [Skill Icons](#skill-icons)
+  - [Speech Bubble Faces](#speech-bubble-faces)
   - [Wallpapers](#wallpapers)
+- [Chibis](#chibis)
 - [Known Issues](#known-stuff-i-need-to-fix)
 - [Report Issues](#report-issues)
 - [3rd Party](#3rd-party-dependencies)
@@ -39,6 +43,51 @@ Prestige Skin Character Models are included in the Character Folder.
 
 [Go to Character Models](assets/spine/character/)
 
+### Interaction Models
+
+<img src="readmeImages/spine_interaction_example.png" style="display: block; margin-left: auto; margin-right: auto">  
+
+<br>
+
+The interaction models are soreted by Character and Costume.  
+Those models have the background backed in. So there will be no extra folder for the backgrounds.  
+Prestige Skin Interactions are included in the Character folder.
+
+[Go to Interaction Models](assets/spine/interaction/)
+
+### Light Novel Talk Models
+
+<img src="readmeImages/spine_light_novel_talk_example_a.png" style="display: block; margin-left: auto; margin-right: auto">  
+<br>
+<img src="readmeImages/spine_light_novel_talk_example_b.png" style="display: block; margin-left: auto; margin-right: auto">  
+
+<br>
+
+The Light Novel Talk Models are mostly used in the Story Pack 1 to 10 after that its rare that characters get such a model.  
+In the example with Eclipse the pose of those models are less dynamic and most of them get a back view.  
+
+[Go to Light Novel Talk Models](assets/spine/light_novel_talk/)
+
+### Miscellaneous Models
+
+<img src="readmeImages/spine_miscellaneous_example.gif" style="display: block; margin-left: auto; margin-right: auto">  
+
+<br>
+
+Spines models for skip animations in PvP and other random porposes.  
+
+[Go to Miscellaneous Models](assets/spine/miscellaneous/)
+
+### NPC Models
+
+<img src="readmeImages/spine_npc_example.png" style="display: block; margin-left: auto; margin-right: auto">  
+
+<br>
+
+The NPC's from all shops, modes or events that have a spine model are sorted by character name.  
+
+[Go to NPC Models](assets/spine/npc/)
+
 ### Skill Cutscenes
 
 <img src="readmeImages/spine_skill_cutscene_example_a.png" style="display: block; margin-left: auto; margin-right: auto">  
@@ -53,40 +102,15 @@ Prestige Skin Skill Cutscene Models are included in the Character Folder.
 
 [Go to Skill Cutscene Models](assets/spine/skill_cutscene/)
 
-### Interaction Models
+### Special Animation Models
 
-<img src="readmeImages/spine_interaction_example.png" style="display: block; margin-left: auto; margin-right: auto">  
-
-<br>
-
-The interaction models are soreted by Character and Costume.  
-Those models have the background backed in. So there will be no extra folder for the backgrounds.  
-Prestige Skin Interactions are included in the Character folder.
-
-[Go to Interaction Models](assets/spine/interaction/)
-
-### NPC Models
-
-<img src="readmeImages/spine_npc_example.png" style="display: block; margin-left: auto; margin-right: auto">  
+<img src="readmeImages/spine_special_animation_example.png" style="display: block; margin-left: auto; margin-right: auto">  
 
 <br>
 
-The NPC's from all shops, modes or events that have a spine model are sorted by character name.  
+Speical animation models and images used in story / character / content / event packs.  
 
-[Go to NPC Models](assets/spine/npc/)
-
-### Light Novel Talk Models
-
-<img src="readmeImages/spine_light_novel_talk_example_a.png" style="display: block; margin-left: auto; margin-right: auto">  
-<br>
-<img src="readmeImages/spine_light_novel_talk_example_b.png" style="display: block; margin-left: auto; margin-right: auto">  
-
-<br>
-
-The Light Novel Talk Models are mostly used in the Story Pack 1 to 10 after that its rare that characters get such a model.  
-In the example with Eclipse the pose of those models are less dynamic and most of them get a back view.  
-
-[Go to Light Novel Talk Models](assets/spine/light_novel_talk/)
+[Go to Special Animations](assets/spine//special_animation/)
 
 ## UI
 ### Costume Faces
@@ -111,21 +135,6 @@ Those icons are only from playable costumes, skins or temporary companions.
 
 [Go to Costume Icons](assets/ui/costume_icon/)
 
-
-### Skill Icons
-
-<img src="readmeImages/ui_skill_icons_example.png" style="display: block; margin-left: auto; margin-right: auto">  
-
-<br>
-
-All Skill Icons from costumes and bosses.  
-Icon 000 to 999 are for costume icons.  
-Icon >1000 bosses from different game modes.  
-The icons are numbered in asending order of the costume release date [Maybe I will map them later to the costume names].
-
-[Go to Skill Icons](assets/ui/skill_icons/)
-
-
 ### Costume Skill Faces
 
 <img src="readmeImages/ui_costume_skill_faces_example.png" style="display: block; margin-left: auto; margin-right: auto">  
@@ -137,8 +146,7 @@ Those faces are only from playable costumes, skins, temporary companions or summ
 
 [Go to Costume Skill Faces](assets/ui/costume_skill_face/)
 
-
-### Costume Skill Backgrounds
+### Skill Cutscene Backgrounds
 
 <img src="readmeImages/ui_skill_cutscene_background_example.png" style="display: block; margin-left: auto; margin-right: auto">  
 
@@ -146,10 +154,33 @@ Those faces are only from playable costumes, skins, temporary companions or summ
 
 All backgrounds of the costumes used in the spine animation of the skill cutscenes.  
 Those background images are only from playable units with skill cutscenes.  
-For now they are just dumped into on folder unsorted.  
 
-[Go to Costume Skill Faces](assets/ui/skill_cutscene_background//)
+[Go to Costume Skill Faces](assets/ui/skill_cutscene_background/)
 
+### Skill Icons
+
+<img src="readmeImages/ui_skill_icons_example.png" style="display: block; margin-left: auto; margin-right: auto">  
+
+<br>
+
+All Skill Icons from costumes and bosses.  
+Icon 000 to 999 are for costume icons.  
+Icon >1000 bosses from different game modes.  
+The icons are numbered in asending order of the costume release date.
+
+[Go to Skill Icons](assets/ui/skill_icons/)
+
+### Speech Bubble Faces
+
+<img src="readmeImages/ui_speech_bubble_faces_example.png" style="display: block; margin-left: auto; margin-right: auto">  
+
+<br>
+
+All faces used in story / character / content / event packs for speech bubbles.  
+Only from playble characters and some random others.  
+NPC will follow later.
+
+[Go to Speech Bubble Faces](assets/ui/speech_bubble_faces/)
 
 ### Wallpapers
 
@@ -160,6 +191,18 @@ For now they are just dumped into on folder unsorted.
 All the Wallpapers from Story Packs, Character Packs, Content Packs, Event Packs, Skill Cutscenes and Special Cutscenes from Story or Events.
 
 [Go to Wallpapers](assets/ui/wallpapers/)
+
+## Chibis
+
+<img src="readmeImages/chibi_running_example.gif" style="display: block; margin-left: auto; margin-right: auto">  
+<img src="readmeImages/chibi_talent_example.gif" style="display: block; margin-left: auto; margin-right: auto">  
+
+<br>
+
+All the chibi sprites used to make the animations for the playable characters.  
+Sorted by character name and costume.
+
+[Go to Chibis](assets/chibis/)
 
 ## Known Issues
 
@@ -183,3 +226,6 @@ I will also add the audio files when i have a good CLI client to extract them fr
 
 The extractor is made by Aelurum. Version 1.2.3 of the CLI is used.  
 Link to Repo --> https://github.com/aelurum/AssetStudio
+
+### Catalog Decoder Script from Myssal
+Link to Profil --> https://github.com/myssal
