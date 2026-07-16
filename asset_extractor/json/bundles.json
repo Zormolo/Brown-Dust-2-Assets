@@ -9653,5 +9653,4740 @@
     "content": "shared-unitydefault-shader_assets_all",
     "type": "texture",
     "lastExtracted": ""
+  },
+  "3b6e0ba78b6a922d35eafb6b83a3b136": {
+    "content": "common-skeleton-data-group-shared_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c83f302b6a5e6bd25cf01513286f4534": {
+    "content": "7b3151263eedf1a905516ba565244d00_monoscripts",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c5be2d1d39fb043e95db7008ac6fee87": {
+    "content": "common-avatar-char-group0_assets_charavatar",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e627ae8adf1a9a892e633d1fc180364b": {
+    "content": "common-avatar-char-group0_scenes_charavatar",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5f963fcf70d193c663086e30dce23926": {
+    "content": "common-bundlecommon_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "827a7153ccfe0ffc597bcacfe160016a": {
+    "content": "common-bundlecommon_scenes_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "47920f9a48d4b905cb95aaf378ed6fca": {
+    "content": "common-bundlecommon-effect-animator_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "770990bcc494e0235444becdbd99fc0a": {
+    "content": "common-bundlecommon-effect-mesh_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "612bc549395bc27f21940eaafa002782": {
+    "content": "common-bundlecommon-effect-meterial_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "45b39d32130337eb3d06b40f312914e1": {
+    "content": "common-bundlecommon-effect-prefab_assets_effect/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d67919b92b83ceba1a12ca66cf9ac632": {
+    "content": "common-bundlecommon-effect-prefab-group1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "eab18fd46079c12a763a58584adbb0ac": {
+    "content": "common-bundlecommon-effect-prefab-group10_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "cbb21eb478c40a8572c82cc862d30317": {
+    "content": "common-bundlecommon-effect-prefab-group11_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "38add6daff788c8fc5319be51db5bec3": {
+    "content": "common-bundlecommon-effect-prefab-group12_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c1ebc633bf218ca260d2b93b9a17ffdc": {
+    "content": "common-bundlecommon-effect-prefab-group13_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e3942440647874158f93e09555dfa15a": {
+    "content": "common-bundlecommon-effect-prefab-group14_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f880000191f61ace1769451694964f57": {
+    "content": "common-bundlecommon-effect-prefab-group2_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4fcf6d60e54e0504d5bf994678675466": {
+    "content": "common-bundlecommon-effect-prefab-group3_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "221c6685fb6174c62b68072435aa2085": {
+    "content": "common-bundlecommon-effect-prefab-group4_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6cf813bbc829e23615ca7a5a4382c7da": {
+    "content": "common-bundlecommon-effect-prefab-group5_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e5df79f74c1ef275c66e85a9efdbe945": {
+    "content": "common-bundlecommon-effect-prefab-group6_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bb83295bb3e2014c2ce8a241c9cbd4c7": {
+    "content": "common-bundlecommon-effect-prefab-group7_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b9d525fa3685a12d52ed340a37a05f08": {
+    "content": "common-bundlecommon-effect-prefab-group8_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "99093aff9cd7f0ec6ef81ec3637db5b8": {
+    "content": "common-bundlecommon-effect-prefab-group9_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "066f53a997ad5ad703b7b6dfe6d3e960": {
+    "content": "common-bundlecommon-effect-texture_assets_effect/texture",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "150759bb743e5e0c9fa2a33315009c93": {
+    "content": "common-bundlecommon-illustsimple_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c66433ccd610fc057ba683ee480cc377": {
+    "content": "common-bundlecommon-map_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2091d3217ea7aa43020165e785e1174d": {
+    "content": "common-bundlecommon-map_scenes_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "44c5341e173168df5936f1a06c5f2f53": {
+    "content": "common-bundlecommon-minigame_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f3a9b31dfc52331c9dee204e3bc19591": {
+    "content": "common-bundlecommon-minigame-group1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "76b119336ab4dcec800c9a9e22594663": {
+    "content": "common-bundlecommon-minigame-group1_scenes_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bfcada531ba09229270380456d91c425": {
+    "content": "common-bundlecommon-minigame-group10_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8b559e6caa6870f90d82cb08246ca41c": {
+    "content": "common-bundlecommon-minigame-group11_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0d3c131af1dc864a9e23dcdb422390c7": {
+    "content": "common-bundlecommon-minigame-group12_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "53bed01c0be5e7af8cef8263e082ae95": {
+    "content": "common-bundlecommon-minigame-group12_scenes_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "fe0ef5fe1fcf215a7061c01e0f19346c": {
+    "content": "common-bundlecommon-minigame-group13_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "fc0f68d529dee178b6491f228e898e47": {
+    "content": "common-bundlecommon-minigame-group14_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4b1158a7acc7c032051197df4e0268c8": {
+    "content": "common-bundlecommon-minigame-group14_scenes_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1e350b017cc917caefcc5cdf59a3b3eb": {
+    "content": "common-bundlecommon-minigame-group2_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c9b57caf17d5b3f7f1f80e3f1496a2d8": {
+    "content": "common-bundlecommon-minigame-group2_scenes_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "829cbbe201b865fd43e4fe6fdffb7730": {
+    "content": "common-bundlecommon-minigame-group3_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "299ee8a0e914b0ff7c13fb7e5d58af61": {
+    "content": "common-bundlecommon-minigame-group3_scenes_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "325c15a4551c6dabb2eb680f288627c8": {
+    "content": "common-bundlecommon-minigame-group4_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2267f9c51a169670dc77e1481e884626": {
+    "content": "common-bundlecommon-minigame-group4_scenes_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4cf9695b98c00b7543e31fafcd68b0e5": {
+    "content": "common-bundlecommon-minigame-group5_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3cad661a5ec9755c3781666a07ff6ac4": {
+    "content": "common-bundlecommon-minigame-group6_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a67d18ebdf5865001f3cf780b1fb013c": {
+    "content": "common-bundlecommon-minigame-group6_scenes_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c51248ecc7a244f0065d026e6c88cb73": {
+    "content": "common-bundlecommon-minigame-group7_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4e41ea6f8211cee93e87ca168bf5b840": {
+    "content": "common-bundlecommon-minigame-group7_scenes_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4768176c1c5433c08460c806be2d461b": {
+    "content": "common-bundlecommon-minigame-group8_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "57a6bdf2eae70a6fcbe850d39ce64a01": {
+    "content": "common-bundlecommon-minigame-group9_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0c11aed89a32f87263227f8b0661bead": {
+    "content": "common-bundlecommon-minigame-group9_scenes_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "43ce05fdb588733cee4ef30b01e00f08": {
+    "content": "common-bundlecommon-myroom_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6923aec1137e3d12b758a566a20d8046": {
+    "content": "common-bundlemanagerprefabs_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e064fc9b1b783c05fe06f85402f94867": {
+    "content": "common-bundleui-prefabs_assets_uiprefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9556f62b3d359040e1c7859cd045de1c": {
+    "content": "common-bundleui-prefabs-group1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0b4782192b0d811b70e03384be903267": {
+    "content": "common-bundleui-prefabs-group2_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "52d67939f081a83f8db683316d2581da": {
+    "content": "common-bundleui-prefabs-group3_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9429507e015bcf28be4f7ace5b536879": {
+    "content": "common-bundleui-prefabs-group4_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2486e746b8552c4b3a74ac0afdfab954": {
+    "content": "common-bundleui-prefabs-group5_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f3ef8afa722cf11c8094e0fb7b4e3889": {
+    "content": "common-bundleui-prefabs-group6_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8a1d31a2355af57a5f5d628f2ceee278": {
+    "content": "common-bundleui-prefabs-group7_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7a1b4800223a06ab3503a2278d7b8dc2": {
+    "content": "common-bundleui-prefabs-group8_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a149be1ec58ef12a16bb636aebec0b6c": {
+    "content": "common-bundleui-uiprefabparts_assets_uiprefabsparts",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e7b309604b867f656fe19e6b92a5cf38": {
+    "content": "common-bundleui-uiprefabparts-group1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8c1d3dde3e0717294a928bd32d6f7335": {
+    "content": "common-bundleui-uiprefabparts-group2_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "937df081448326e28b1438f7044e8812": {
+    "content": "common-bundleui-uiprefabparts-group3_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0bcc806af349e1acc55bba5aba29db1f": {
+    "content": "common-bundleui-uiprefabparts-group4_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8243d8f83f7b3b1f4e266ec6640c9d2d": {
+    "content": "common-censorship_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "260cd5a93467d1e86c6805610030ffaf": {
+    "content": "common-char-animation_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "92748aa1b2726fb633cbcb04b798045b": {
+    "content": "common-char-animation-group1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c2e52eb44f15a6e7dc6199159d9586cb": {
+    "content": "common-char-animation-group2_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3f5696ae097cf592e7c9a99e96173fd9": {
+    "content": "common-char-animation-group3_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9c6858ec6fe5c8dbae064eadd04e66d9": {
+    "content": "common-char-animator_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3907efe3253ea6ebd78bd6409fb53483": {
+    "content": "common-char-atlas_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3482e12fb11a3b5b8ee2cfbf7f583fd8": {
+    "content": "common-char-atlas-group1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bcabba31b5c7af2a10b9528ade4ecee5": {
+    "content": "common-char-atlas-group2_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "68eecfbb0ac058dcc9a62bf005aa9ec2": {
+    "content": "common-char-cutsceneillust_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7b5de273e8cad929e3f7f2684fa6b270": {
+    "content": "common-char-cutsceneillust-group1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d809e3ef618b55342db44aa83cacde16": {
+    "content": "common-char-cutsceneillust-group2_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6bfe0302ccb8006b90d6c663ac74435e": {
+    "content": "common-char-cutsceneillust-group3_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "349889ab29b848d88f020e4b9fb4ee3f": {
+    "content": "common-char-cutsceneillust-group4_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5a6e5bd38ca9b9966a7c5549084add9a": {
+    "content": "common-char-cutsceneillust-group5_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0b544d1507b036ce380772aaff39b88a": {
+    "content": "common-char-cutsceneillust-group6_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "879bd0f5c92c4419983531e95d23f4f0": {
+    "content": "common-char-cutsceneillust-group7_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c06d5de545053bf38763438a1de1fbc2": {
+    "content": "common-char-datingillust_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5aac913d3c976097f62d04a419da46bc": {
+    "content": "common-charicon_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "23d3e34db30971017b57b9ef7122a119": {
+    "content": "common-char-prefabs_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5632e818c6a2ac2183a08b7c63570ab2": {
+    "content": "common-char-projectile_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e134fcc9b2ddfa48ada2895c232f13b4": {
+    "content": "common-char-projectile-group1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3c3ce6fd5d4f42e03ad3b4efa25e4a8a": {
+    "content": "common-char-projectile-group2_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "48b993178855b0bf9198d39a86012ee8": {
+    "content": "common-char-projectile-group3_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f3125e073715707ce7e69b658f12d147": {
+    "content": "common-char-projectile-group4_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4e5e76bfab2b91ebe1bb8fea69ef5123": {
+    "content": "common-char-projectile-group5_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "96f0a37bc6b7a22bdd29ff6efb3d75e7": {
+    "content": "common-costumeicon_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c48694cec8b992168ccea43e77b752cc": {
+    "content": "common-costumeicon_l_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "02d75ade2540cc57c2722dea99d228c8": {
+    "content": "common-currencyicon_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "38131c6d1fdbebf7e3f25ff2ab26f0d0": {
+    "content": "common-daliystorytoonthum_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0895603cba68935f688a0818df9fed63": {
+    "content": "common-equipmenticon_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ef755e55a0961a30acdb33af24e4de51": {
+    "content": "common-equipmenticon_l_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2d63c1e4604932d6a428983da5542796": {
+    "content": "common-faceillust_1_assets_faceillust_1",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "850699816a73084a227ab4e2da34c63e": {
+    "content": "common-fishing_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "272ff38024111ebb801c1752bca3dbb6": {
+    "content": "common-fishing_scenes_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5a838fc691928eadc357ca0570aa6114": {
+    "content": "common-idcardbgcutscene_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8796346708769af3adc8ce4802e96cf7": {
+    "content": "common-idcardbgpackevent_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1bf99fcd129c1ffa06436ec97ebcfe20": {
+    "content": "common-idcardbgspecialillust_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "548294f866a4902aa7827bb149cf8eb6": {
+    "content": "common-idcardicon_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "58824e517b60733e9a4ad47f87592afd": {
+    "content": "common-idcardsticker_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "29c634374b3735c7b5ab551cbbb76fae": {
+    "content": "common-illustinventory_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a6836c14169b1cc49d4314846d17847f": {
+    "content": "common-illustskillcard_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d885924d7791c173643885f7aef2b0e3": {
+    "content": "common-imgpiece-eventbackground_assets_eventbackground",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "201733b91fc0d53256c7e9ff1a8e90b6": {
+    "content": "common-imgpiece-eventbackground2_assets_eventbackground2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a50d3c52515756537ef53c034e408d44": {
+    "content": "common-imgpiece-eventbackground-group1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c8d6402f77382989ce9ca78372b407f5": {
+    "content": "common-imgpiece-eventbackground-group6_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8d803c1efacc88555464e827cf0c88a8": {
+    "content": "common-imgpiece-gachapickupgui_assets_gachapickupgui",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1c6b644a6585932ce1ea74d1fae41f1e": {
+    "content": "common-imgpiece-gachapickupgui-group1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f159004e594866723c07625452d3e747": {
+    "content": "common-imgpiece-gachapickupgui-group2_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0dc6daec45ab3ef0387c701d416f6b41": {
+    "content": "common-imgpiece-gachapickupgui-group3_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c09bd47186f8e17e82f76dbc34a7c2fd": {
+    "content": "common-lobbysettingthumb_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1cb047d308ec0f4e6bb7545c69303a77": {
+    "content": "common-myroomicon_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "638e21313505cabc339f616578bfe3c0": {
+    "content": "common-myroomicon_l_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7c241bc4af877a4179b1a07f17c6f035": {
+    "content": "common-package_1_assets_package_1",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "67df46098f23d80f55de2a627567c4e2": {
+    "content": "common-resourceicon_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ee2312b66f81b7ef01c67cdccd5f52d0": {
+    "content": "common-resourceicon_l_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "656424e4e0a293e8e917c980945feec3": {
+    "content": "common-scriptableobject_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1ee2cb12f452e305ce7f1d1770384ac3": {
+    "content": "common-sound_assets_sound/bgm_event_common.bytes",
+    "type": "audio",
+    "lastExtracted": ""
+  },
+  "0cdd032c2630bcee03f7519805cbab6f": {
+    "content": "common-sound_assets_sound/character_skills.bytes",
+    "type": "audio",
+    "lastExtracted": ""
+  },
+  "3270d7c6f5753c7b540679c0321aa8c4": {
+    "content": "common-sound_assets_sound/character_skills_group01.bytes",
+    "type": "audio",
+    "lastExtracted": ""
+  },
+  "70b498004354cd8f4ffed91aaad71fb3": {
+    "content": "common-sound_assets_sound/cinematic_advice.bytes",
+    "type": "audio",
+    "lastExtracted": ""
+  },
+  "863b4e48533444b529cf26a714a949e7": {
+    "content": "common-sound_assets_sound/cinematic_common_group00.bytes",
+    "type": "audio",
+    "lastExtracted": ""
+  },
+  "900c867489da181229e15a8163223c16": {
+    "content": "common-sound_assets_sound/monster_skills_group01.bytes",
+    "type": "audio",
+    "lastExtracted": ""
+  },
+  "a01f86fa9a0d8c07eade3ab00341519b": {
+    "content": "common-sound_assets_sound/visual_novel_sfx.bytes",
+    "type": "audio",
+    "lastExtracted": ""
+  },
+  "d76549dd9429242ab9195006a9856e23": {
+    "content": "common-sound_assets_sound/voice_common.bytes",
+    "type": "audio",
+    "lastExtracted": ""
+  },
+  "20b79f388873d2b108fe3f161817ded5": {
+    "content": "common-specialillust_1_assets_specialillust_1",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "98695b8f449a1a183ced3fcb9c383177": {
+    "content": "common-spritetexture_assets_common",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1af0f953ecdea4c139cc11e4815dccfb": {
+    "content": "common-spritetexture-battle_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6b60dd5103352bb96efe2fda7f6dc86b": {
+    "content": "common-spritetexture-group1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1d57fb0011f09e8272b7eb22fa20aa97": {
+    "content": "common-spritetexture-group2_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1368d45679762eff125966e20abbfc03": {
+    "content": "common-spritetexture-group3_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "efc801ec6468fd66d61509621ffe0429": {
+    "content": "common-spritetexture-group4_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "37a68385cce81e4a33e09fddfdee4d4a": {
+    "content": "common-spritetexture-group5_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a113581d4e38f18e9b2d73a75ea773cf": {
+    "content": "common-spritetexture-group6_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d9be0da34a7456848e124e64ba190cd8": {
+    "content": "common-spritetexture-group7_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7c137db36b6f5f99660a7d26fceaa0f0": {
+    "content": "common-spritetexture-myroom_assets_common/char061306/myroom",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "87d5285236a007219721110763e5d944": {
+    "content": "common-timelinetool_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6302ed7e225d3d371af171b63a5672d7": {
+    "content": "common-ui-animation_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "748415b6adf63cea65a1ce6941c58360": {
+    "content": "common-ui-animation_char_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "fa39078550f3cb6b5a34876d3307589e": {
+    "content": "common-ui-animator_char_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "55a8fe2b20fb87c880c82f5c3f95e30c": {
+    "content": "common-ui-atlas_assets_ui/atlas/actionnumbergui.spriteatlasv2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e487005c9eaf566373c832ce8b17fbff": {
+    "content": "common-ui-atlas_assets_ui/atlas/bufficongui1.spriteatlasv2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b6a878efd4c8af31556c847539e109c9": {
+    "content": "common-ui-atlas_assets_ui/atlas/costumeicon.spriteatlasv2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "88f6965a1a544258a6ff81b6534ce4a3": {
+    "content": "common-ui-atlas_assets_ui/atlas/currencygui.spriteatlasv2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "cd66139d8cf601406c0bd3577f95e233": {
+    "content": "common-ui-atlas_assets_ui/atlas/equipmenticon.spriteatlasv2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6bbb84b36c5cd3cd5f8a16b55cef5a39": {
+    "content": "common-ui-atlas_assets_ui/atlas/eventgui.spriteatlasv2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d6249edc8eabb5949d6b72048472e341": {
+    "content": "common-ui-atlas_assets_ui/atlas/gui1.spriteatlasv2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9e0474fd76656c6871730e55bd047c34": {
+    "content": "common-ui-atlas_assets_ui/atlas/hopscotchgallery.spriteatlasv2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2213b039fc039bf0dd674b243e313d6a": {
+    "content": "common-ui-atlas_assets_ui/atlas/packgui.spriteatlasv2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c6f3ab574ef17e7a5d35f8efb199fe7e": {
+    "content": "common-ui-atlas_assets_ui/atlas/resourceicon.spriteatlasv2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5688e7be36c3f67459b9bc61ba3a18b0": {
+    "content": "common-ui-effect_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "78a85480546c03a4a893b924f635ff20": {
+    "content": "common-ui-prefabs_assets_ui/prefabs/loading",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "dd1f6160197776399f55013689467451": {
+    "content": "common-ui-prefabs_assets_ui/prefabs/packcover",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "374ad9fb3c038cea59bf5183c9937291": {
+    "content": "common-ui-prefabs_assets_ui/prefabs/spine/illustspecial",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c5d0c79b31c836be2004623c7ed2ef1c": {
+    "content": "common-ui-prefabs_assets_ui/prefabs/spine/illustspine",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c07663df17c3d7a796fe80dd1895f67b": {
+    "content": "common-ui-prefabs-group1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "96f678930654c9016df7a233502a03ac": {
+    "content": "common-ui-prefabs-group10_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "07da89f63aff1933b2c96f1cbfaca49e": {
+    "content": "common-ui-prefabs-group2_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0fb5bb6d9e478fab7e3aeef167055869": {
+    "content": "common-ui-prefabs-group3_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2b134b7726fef299307303978794fdd7": {
+    "content": "common-ui-prefabs-group4_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bfd29a7c7475a0f5cd931e09db1decee": {
+    "content": "common-ui-prefabs-group5_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6e6dc1178a397d0307f3523cab9e2dd9": {
+    "content": "common-ui-prefabs-group6_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "95d9e1f935815b0642cc1e127941649c": {
+    "content": "common-ui-prefabs-group7_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "df53ea4b989925e82782cadee24d3350": {
+    "content": "common-ui-prefabs-group8_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "cdec80dac76ce9ac4525a1ae8f7ef650": {
+    "content": "common-ui-prefabs-group9_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "43ab9a9e7d9fe7a5acea528d419b1c6f": {
+    "content": "common-ui-texture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "aa461dbbfba1a97631e871c41904c7be": {
+    "content": "common-ui-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8085a4d8e89830c58816febf8bb66d50": {
+    "content": "common-updatebg_1_assets_updatebg_1",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "892e239ef8b658babc1744105f78f0ec": {
+    "content": "common-video_assets_video",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "98e17f496f8ec829a1120d978599b462": {
+    "content": "common-visualnovelbackground_1_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d72ab415cd4f2b879a28fe8cf27d58a9": {
+    "content": "isolated-cutscene000101-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "93ba3a6ae7e0d49e98acf2eb6e76615e": {
+    "content": "isolated-cutscene000103-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "aabe3c3835a3ed79420d75708fd9ff94": {
+    "content": "isolated-cutscene000201-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "993caaf377c7e773d31d8e38526961ea": {
+    "content": "isolated-cutscene000202-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d39d9b82fba0b3ddd3d828172591c882": {
+    "content": "isolated-cutscene000203-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c94e66b94d555188e6aab5d5f0e8dfcf": {
+    "content": "isolated-cutscene000204-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "feab49302fa173031a4610ab939be39c": {
+    "content": "isolated-cutscene000206-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "cd6088d5a76fabfec0967796010a1dea": {
+    "content": "isolated-cutscene000296-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "18f5685579c580d056b5809176ed2421": {
+    "content": "isolated-cutscene000301-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b979ab20e7345b34130ad07cee9f3120": {
+    "content": "isolated-cutscene000303-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "df4322415cbb1c469a8e517171bb6457": {
+    "content": "isolated-cutscene000304-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "77cdfdcfa46963badefc06a131f280cf": {
+    "content": "isolated-cutscene000306-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e8dd86b21c8af4dd51c7f508c0a45da0": {
+    "content": "isolated-cutscene000396-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a64b7c9e059bdd2bbcf211aa51be4eac": {
+    "content": "isolated-cutscene000401-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d98e52fc065815fe4655ae6d3efbc4c5": {
+    "content": "isolated-cutscene000501-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "24bf26e5ff2c369ad9efde5e73c9094c": {
+    "content": "isolated-cutscene000502-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5d08b886fe94cd103756ffa37a9f6b37": {
+    "content": "isolated-cutscene000504-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "32fc5e06dbb9e347424cd13d945e3205": {
+    "content": "isolated-cutscene000506-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c1bda9b498d1e051bce8fb141f58f04a": {
+    "content": "isolated-cutscene000604-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2afd1854a8aeb3398f20e08bc7df96f7": {
+    "content": "isolated-cutscene000701-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "556a8daafbb74a893cad334d8b3d657b": {
+    "content": "isolated-cutscene000706-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4d8b0781e9bbde77faee6b9cc6f35771": {
+    "content": "isolated-cutscene000707-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "485be644093b5a8e5baebceff71ff0d3": {
+    "content": "isolated-cutscene000708-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "26974d250fc3ffc5c95e1fafdbdb9192": {
+    "content": "isolated-cutscene000801-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "091402e9be6e8103c15caf23d1857d89": {
+    "content": "isolated-cutscene000804-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6f59cb88c9c7715bc2962459360dfa10": {
+    "content": "isolated-cutscene000806-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9795dac31ee9935198a86f2f0491f6d5": {
+    "content": "isolated-cutscene000807-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c64157a9c6c8a3673a9826fbfb9ac25f": {
+    "content": "isolated-cutscene001001-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3c4bdbcc00dd27af86778548b517048f": {
+    "content": "isolated-cutscene001002-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "730e0331600b500fb74ba4e8b1b2c1eb": {
+    "content": "isolated-cutscene001004-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "572a27ab395c7f31fd850019b66ee02f": {
+    "content": "isolated-cutscene001006-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "258d8ac6e37b8d08b32d50f2b15b25b8": {
+    "content": "isolated-cutscene001101-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5eb73739e58506bdb4a057aeb9fe52db": {
+    "content": "isolated-cutscene001106-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5bda61783725ba192379825e13bb1522": {
+    "content": "isolated-cutscene001107-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a18b89fa2937cf6f3e035236e187006a": {
+    "content": "isolated-cutscene001197-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3c09f67caed1a2f89d0241539f33aa7f": {
+    "content": "isolated-cutscene001201-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "478da2aa30d5117800e80b8c6b6ce8ea": {
+    "content": "isolated-cutscene001206-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "dd5dfa4c02e6db33a5a06181a4ca8ffc": {
+    "content": "isolated-cutscene001207-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "21f0f034dccd076c15c3b901aa79d677": {
+    "content": "isolated-cutscene002401-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "05123b7b8c34fa3b7468228a8adc7f1e": {
+    "content": "isolated-cutscene002403-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f982bb2d04c5803dd5c22f02cc64f4c3": {
+    "content": "isolated-cutscene002406-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b0472f19d214c6d180a01dd60cb50358": {
+    "content": "isolated-cutscene003101-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "af3ac4bd0c605bacbafa73ca85b29e4b": {
+    "content": "isolated-cutscene003201-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4b4bee63093bd0c74e16f942b9700833": {
+    "content": "isolated-cutscene003202-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1cd45cdba0e481eeb02e08e17b9250f2": {
+    "content": "isolated-cutscene003203-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5b894d8cb61cd1f9b201366854f98b9f": {
+    "content": "isolated-cutscene003301-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e496ebcc0768f3a917f36218674788b8": {
+    "content": "isolated-cutscene003302-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "20910376cb928a90f458733b4094ddd8": {
+    "content": "isolated-cutscene003303-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c44e7c57835b4a7ce3a3948382309245": {
+    "content": "isolated-cutscene003392-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "899b7ffcd86ca8c232b20e0bcd6391e8": {
+    "content": "isolated-cutscene003401-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8db1e9cc9957364601135a10405428f4": {
+    "content": "isolated-cutscene003402-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5f02478ac734063e28eb9f463822ac0b": {
+    "content": "isolated-cutscene003403-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a08ba368e43b70aac4ccd432fa4fee57": {
+    "content": "isolated-cutscene003501-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "31a53da15883f6ec1ca1d932b499e5cc": {
+    "content": "isolated-cutscene003601-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a279135c4bd5afbf6c4c845344017e93": {
+    "content": "isolated-cutscene003602-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "549d7408e5e992e906f2ad8da3246d55": {
+    "content": "isolated-cutscene003603-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "96ae8b8eea27b20a5d3af768e4169c5a": {
+    "content": "isolated-cutscene003604-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "fd860f14865d100a73c730a0b36c4fdb": {
+    "content": "isolated-cutscene003701-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7be3b07490a50c70c770d59c72c1d701": {
+    "content": "isolated-cutscene003702-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bfba8aa2e83bd73b092868a4262638b8": {
+    "content": "isolated-cutscene003703-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "44c61eae415c49f125e7da2fa6f86a09": {
+    "content": "isolated-cutscene003801-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3dc015e2f206b86056e844d00b093fc4": {
+    "content": "isolated-cutscene003802-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d28a931efbd474290ff5a7ec3b18889e": {
+    "content": "isolated-cutscene003803-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "151218f1d41e087a25e2e6b01c76f4ca": {
+    "content": "isolated-cutscene003892-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "19fd259a6ec725cd670f8f536c8eb1ad": {
+    "content": "isolated-cutscene003901-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6a1321d960f6f1325c53ca03084554ae": {
+    "content": "isolated-cutscene003902-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5d9addcf57190ee441cb8ea10dfb44b8": {
+    "content": "isolated-cutscene004001-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a345e131437d940d569e2099c131a9f4": {
+    "content": "isolated-cutscene004002-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e7c07487776e772506968447fc1e668d": {
+    "content": "isolated-cutscene004091-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7e09d3228dbf12b8599dbb61bb519e2b": {
+    "content": "isolated-cutscene004101-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5c30e51c35a42ca277394f3204528e24": {
+    "content": "isolated-cutscene004102-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "cad792578ae99974b163cdd840e820df": {
+    "content": "isolated-cutscene004201-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "87689aef2d1f4fbbdf0dd1fa6d2cce82": {
+    "content": "isolated-cutscene004202-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bda0fa3e9b383752b6bdd094c9e199b7": {
+    "content": "isolated-cutscene004301-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "54cd80839a15e1924669690031ea6a17": {
+    "content": "isolated-cutscene020001-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "88800448d774b6caaa2e803041caf3b0": {
+    "content": "isolated-cutscene020002-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "abcfe56d4652a7fd2f3b560da7fba34e": {
+    "content": "isolated-cutscene020101-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "277cf68cd5605be611b09b2803c2a8e3": {
+    "content": "isolated-cutscene020102-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "fe05a462efef8316ce04d59b2305de3b": {
+    "content": "isolated-cutscene020201-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3bcddd255dca6ea67f6f8101ca9b4c23": {
+    "content": "isolated-cutscene020301-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "40c219f67e222485ce0daa9e7e1366d8": {
+    "content": "isolated-cutscene020401-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "64420f0512d6e32b61fa839adab689bb": {
+    "content": "isolated-cutscene020501-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5b717310c2cc050096efefcf7a515a85": {
+    "content": "isolated-cutscene020601-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "803b94e1c833cc06ed367e389eb863fd": {
+    "content": "isolated-cutscene020701-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d4df536fbf02ad7cb3922d4bf86950ac": {
+    "content": "isolated-cutscene020801-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8cc3973ed8ee1bc6bd83e70bcabd96d5": {
+    "content": "isolated-cutscene020901-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d47d5e525d848098bad3539f520548b2": {
+    "content": "isolated-cutscene021001-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e7d91e77b9d61e12b15b0c8bb290c72e": {
+    "content": "isolated-cutscene033202-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ea15a68ea644876f33657d701bbf8286": {
+    "content": "isolated-cutscene060401-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "38ffd356d5be0a17e50ab2ad800fad76": {
+    "content": "isolated-cutscene060402-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9afa9381f36eaa5b56877b7018b6c1ee": {
+    "content": "isolated-cutscene060403-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "882ab1ddf5382b714f098c0c335ab03f": {
+    "content": "isolated-cutscene060501-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "220714b8587a2c330d322471bfd2714b": {
+    "content": "isolated-cutscene060502-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "961143cd6e035d869e8263df9ad4a18f": {
+    "content": "isolated-cutscene060601-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7d3e92e1ad4430db7c8a2e79350c9eff": {
+    "content": "isolated-cutscene060602-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0e38bcf1ef620f192fdf12883e38796a": {
+    "content": "isolated-cutscene060701-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "114aa5ca6d0cad6769de6cf1ba20f295": {
+    "content": "isolated-cutscene060702-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c1b506bdf93c53fa23bfe888d295d551": {
+    "content": "isolated-cutscene060706-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "199af69e7a9921ad9e60b90ba3cd4fdf": {
+    "content": "isolated-cutscene060801-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5d9cc8a5fdeb71af30bd2cd3b5e018ba": {
+    "content": "isolated-cutscene060802-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c59099af79a1b2c73d21dda8142a2e08": {
+    "content": "isolated-cutscene060804-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "434b0c25378a13e58125c312839776cd": {
+    "content": "isolated-cutscene061001-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1470939edcb0780e4055fb285e37c343": {
+    "content": "isolated-cutscene061002-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "34e77dbb9318a992e7cf218ce46ca39d": {
+    "content": "isolated-cutscene061092-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1f213f01388d6af42917b643c20123ac": {
+    "content": "isolated-cutscene061101-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "756101e07bcc3de508d7e3b5e1549aa2": {
+    "content": "isolated-cutscene061102-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "955729e918bd296ca33a9474a0fef295": {
+    "content": "isolated-cutscene061103-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b7b90385b45778c5e5555bdd28179bd4": {
+    "content": "isolated-cutscene061302-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9aa4b51f640150d98028d86eb9316c8c": {
+    "content": "isolated-cutscene061305-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "255c67f1cde2b776b2305c085d9316b6": {
+    "content": "isolated-cutscene061306-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c553d490c6dde911bb0d7234faea00fe": {
+    "content": "isolated-cutscene061402-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "18a0677add313ceabaefdf986ea26871": {
+    "content": "isolated-cutscene061404-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "47bfc521f389bf345192647e16f20980": {
+    "content": "isolated-cutscene061492-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "001c35618f303cf89d20c86484447786": {
+    "content": "isolated-cutscene065102-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "72bbb3c922ec33d966e8cef71cbeb08e": {
+    "content": "isolated-cutscene065103-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8faea7ed3f84e8def2c2a620d544d563": {
+    "content": "isolated-cutscene065802-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "023243449c974b89a436ec7c1fe58ea3": {
+    "content": "isolated-cutscene066401-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "645ba62c351fe6974402e7dd6fde97be": {
+    "content": "isolated-cutscene066402-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b51a7352ac29d96a720ed8c75beec3a7": {
+    "content": "isolated-cutscene066403-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1c71cdc0c5a39d160f700cd92481dba5": {
+    "content": "isolated-cutscene066801-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ae83f1f01fb70da26e65d9a4b6771e59": {
+    "content": "isolated-cutscene066802-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "46a4c9c07d00f6cbd91ec5315865d575": {
+    "content": "isolated-cutscene066803-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "fc04b543132b17711bb5cb05b3914e3f": {
+    "content": "isolated-cutscene066902-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "94c3d97ca6858278a6059f69c771b82c": {
+    "content": "isolated-cutscene066906-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a201d93cef3c5763f3ebc9ca41146d49": {
+    "content": "isolated-cutscene067002-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "59bfb2ad6f0765a6cc0139ce4f47835c": {
+    "content": "isolated-cutscene067003-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2399eed622ad72bdb871b43c820c4c81": {
+    "content": "isolated-cutscene067004-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8441b0cf6a0c1fb38a555644305853dc": {
+    "content": "isolated-cutscene067101-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1b2dfa2f6894bef597c5216bf79e0d78": {
+    "content": "isolated-cutscene067102-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e3b08daaf6eda3d602e16bda2e25e562": {
+    "content": "isolated-cutscene067103-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2181be2650d3023ba46132be9a0112a5": {
+    "content": "isolated-cutscene067104-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2b60b494712021286a6f0cf3852e4c3d": {
+    "content": "isolated-cutscene067201-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "26460490f82e764a0613defd9409d71e": {
+    "content": "isolated-cutscene067202-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2d8f02c6dfd84687b5eac67bce736755": {
+    "content": "isolated-cutscene067301-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0c0da33578d0bff81754721eeac9c907": {
+    "content": "isolated-cutscene067302-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "83899f7c8ed833bc53980034d23d98ec": {
+    "content": "isolated-cutscene067303-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "50cf34fd1b1f6dbb88c513025925ca10": {
+    "content": "isolated-cutscene067401-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f7bfc3193ec0ee55bcb0ecb30a525241": {
+    "content": "isolated-cutscene067402-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "fdca969c9d0b2171febf3b2cf6e07803": {
+    "content": "isolated-cutscene067403-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a10cd5690960e5185753ea6ad665403f": {
+    "content": "isolated-cutscene067491-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "502116904780c1c4bcb16c836ffc8516": {
+    "content": "isolated-cutscene067502-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b97ef6ab744cc7dbf24c6e092f1cd939": {
+    "content": "isolated-cutscene067503-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c40d21bb0672dd6540b6017fee91929e": {
+    "content": "isolated-cutscene067504-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "834f8a57a17672800fcbccaf2a294b70": {
+    "content": "isolated-cutscene067601-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8037194bad7a268b568e945308417fcc": {
+    "content": "isolated-cutscene067603-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2884d7f6312b608304d5e90ea00fc87c": {
+    "content": "isolated-cutscene067604-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "85a4778084b523f1faf43344320ab869": {
+    "content": "isolated-cutscene067701-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "453a737965187221c50ed7b1c7f42e2a": {
+    "content": "isolated-cutscene067702-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "49a12b3265c07ca6dd355d9758cc8fa0": {
+    "content": "isolated-cutscene067801-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "86fe4c9f63803e0e1c615990ad0f894e": {
+    "content": "isolated-cutscene067803-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4908089f184cd7ed69e17ae1984dceb3": {
+    "content": "isolated-cutscene100501-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "93f8f721a0d2734363f6d1245a50c428": {
+    "content": "isolated-cutscene101101-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f87d4abedc36a7f914f8d9e8bb2ba4a0": {
+    "content": "isolated-cutscene101102-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f1705c981d2a8a22a9096770a4c3cad1": {
+    "content": "isolated-cutscene101103-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "498f7a015dec614a850177bb92a3e632": {
+    "content": "isolated-cutscene103201-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "44db76e4a0938bc10d00f0bacc06ec6b": {
+    "content": "isolated-cutscene103301-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "df42258660cdf3252772d500f1389ba4": {
+    "content": "isolated-cutscene103401-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "711f75bacfde8eca829c212a6acb5ba3": {
+    "content": "isolated-cutscene103501-group_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5e03df18e7157fcb717a4e03e5f9fb1a": {
+    "content": "localize-localizeatlas-localetc_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "95bcca9463e7c64748468f65e61a6514": {
+    "content": "localize-localizeatlas-localetc_cn_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8f87df75567636f54d8d35a1b5267bf4": {
+    "content": "localize-localizeatlas-localetc_en_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "692fb7b3ac7c03fec8d22df70ad29548": {
+    "content": "localize-localizeatlas-localetc_jp_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "586c4cb86f061f2f494086f81583fe0e": {
+    "content": "localize-localizeatlas-localetc_tw_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c7fc0dc070c9c2a3f08736fa7aaea852": {
+    "content": "localize-localizesound-localvoice_assets_localvoice/local_common_061301.bytes",
+    "type": "audio",
+    "lastExtracted": ""
+  },
+  "9f4f664a858b13f3fb897bda0b89858f": {
+    "content": "localize-localizesound-localvoice_jp_assets_localvoice_jp/local_common_061301_jp.bytes",
+    "type": "audio",
+    "lastExtracted": ""
+  },
+  "35c62d93e7a6350537721f7a67d6241e": {
+    "content": "pack10001-bundlepack10001_assets_p10001_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7a228cd8c60de57b02a843894c504ecf": {
+    "content": "pack10001-bundlepack10001_assets_p10001_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6db0c8c0e7cf2fd26c7918789222d03d": {
+    "content": "pack10001-bundlepack10001_assets_p10001_char/bossmonster_921001",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "80aa004671001662e0ef9b2db2776f0d": {
+    "content": "pack10001-bundlepack10001_assets_p10001_char/bossmonster_922101",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5f879182f7c8b9db20ce3d4695c24ffc": {
+    "content": "pack10001-bundlepack10001_assets_p10001_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e81690428f67c8f4a4ce4d7670720faa": {
+    "content": "pack10001-bundlepack10001_assets_p10001_char/projectile",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c8ae52e0f25ae7c3f0bbd1f3dc092891": {
+    "content": "pack10001-bundlepack10001_assets_p10001_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8c7e5b6961b5bf13128151f35b7a9de0": {
+    "content": "pack10001-bundlepack10001_assets_p10001_cinematimeline/windycat",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f15d1d9abf28f23a190e92712cfbd39e": {
+    "content": "pack10001-bundlepack10001_assets_p10001_ui/windycat",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "940e2b09472cf5ab92de42f4eead928d": {
+    "content": "pack10001-bundlepack10001_scenes_p10001_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ec1b82dd55fa7359cbba6e7b98478d3e": {
+    "content": "pack10001-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "df91e1551562534f90d3586c7662295a": {
+    "content": "pack10004-bundlepack10004_assets_p10004_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2a2f5189474dd0577bb52f537cfa506f": {
+    "content": "pack10004-bundlepack10004_assets_p10004_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "339c098c32cf1453638b99dc5a948c1a": {
+    "content": "pack10004-bundlepack10004_assets_p10004_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "502a1f77abbfdd2e74f21c791b91a215": {
+    "content": "pack10004-bundlepack10004_assets_p10004_char/projectile",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ab3a69bbf854ecb12425a7b1ecb26608": {
+    "content": "pack10004-bundlepack10004_assets_p10004_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "54991b162b1b0fe56af37ada6acb8f71": {
+    "content": "pack10004-bundlepack10004_assets_p10004_ui/berserk",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "461b2657268080ae4b59156e57840a96": {
+    "content": "pack10004-bundlepack10004_assets_p10004_ui/mushokutensei",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "13736aa008bcd8eaa0cae20f11152abf": {
+    "content": "pack10004-bundlepack10004_assets_p10004_ui/scarletsword",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f085a71ef77f42781a6d7eba21d8974b": {
+    "content": "pack10004-bundlepack10004_scenes_p10004_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "157f870f8cb21cebc1c386eb68d17686": {
+    "content": "pack10004-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c892d42f9e93e6caf35cda978a039366": {
+    "content": "pack10006-bundlepack10006_assets_p10006_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c9e7765800bccc0c22ee023f90de7741": {
+    "content": "pack10006-bundlepack10006_assets_p10006_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "96bf5665b9c72cf853fa70b6d7833237": {
+    "content": "pack10006-bundlepack10006_assets_p10006_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "28c1ad877152d90f6a0bf321d7802f11": {
+    "content": "pack10006-bundlepack10006_assets_p10006_char/projectile",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a6e18c03561a6c5e53c17a37135ac494": {
+    "content": "pack10006-bundlepack10006_assets_p10006_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "347cdceceb9638bd9ed1709867e3ec4b": {
+    "content": "pack10006-bundlepack10006_assets_p10006_cinematimeline/ultimatemagic",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "73ae9d2e80603d109d1742d846262dc0": {
+    "content": "pack10006-bundlepack10006_assets_p10006_ui/ultimatemagic",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d5eb1c98d37f6abdfce9b866e71b6622": {
+    "content": "pack10006-bundlepack10006_scenes_p10006_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "63b25317f9308fc6dfd062b7bf1fd915": {
+    "content": "pack1001-bundlepack1001_assets_p1001_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "de1c8c84753156e6cd764eb5cb7352c5": {
+    "content": "pack1001-bundlepack1001_assets_p1001_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6c373b3bc3a06fb13478bbce6e4cbcb7": {
+    "content": "pack1001-bundlepack1001_assets_p1001_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7e64ab5722b1d78c2d770e5e551d1648": {
+    "content": "pack1001-bundlepack1001_assets_p1001_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "715ff912062ddbe744cf5f5e8e9af25e": {
+    "content": "pack1001-bundlepack1001_scenes_p1001_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d1d35885daf7bc1df418b76fee267a72": {
+    "content": "pack1001-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8599769e2b70a4d04daafc6c876f66d2": {
+    "content": "pack1001-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "96cf7d537338172626c38ac79667fdea": {
+    "content": "pack1002-bundlepack1002_assets_p1002_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d7e599b7dde5d47326c128f784b55dc8": {
+    "content": "pack1002-bundlepack1002_assets_p1002_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ac7a9808a61685ed684f895cc98d2ff9": {
+    "content": "pack1002-bundlepack1002_assets_p1002_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "40e39c75bee379bddd31900fa489f434": {
+    "content": "pack1002-bundlepack1002_assets_p1002_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a314e55c1b7489350cc99ff3445ca05e": {
+    "content": "pack1002-bundlepack1002_scenes_p1002_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "de95e85247ab24738b1ae08284069224": {
+    "content": "pack1002-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "be8a4d2c56f6130b2b92870498378319": {
+    "content": "pack1002-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "de8ace74804908f8e21beac6a362eda7": {
+    "content": "pack1003-bundlepack1003_assets_p1003_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0e0fe4bfb5934446ec9419a0ad84bd30": {
+    "content": "pack1003-bundlepack1003_assets_p1003_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d74c0860ce832ad12eedf02c56738321": {
+    "content": "pack1003-bundlepack1003_assets_p1003_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "dc0f39868e719a6d5d5b6bb68d5b478c": {
+    "content": "pack1003-bundlepack1003_assets_p1003_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "52c760c73c3c34640cf7001fddf29403": {
+    "content": "pack1003-bundlepack1003_scenes_p1003_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ee9d952fbaad823dfa1bf1ff9b75f6e5": {
+    "content": "pack1003-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "18c29c35bc46573a39e6c8af219d9fbf": {
+    "content": "pack1003-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b19b878952194abe9e37e0aab415bad1": {
+    "content": "pack1004-bundlepack1004_assets_p1004_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5a97c8b6ccd1467bddae3d6240fc4233": {
+    "content": "pack1004-bundlepack1004_assets_p1004_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "752c0d88a7cfe205221a03dd519ac4ec": {
+    "content": "pack1004-bundlepack1004_assets_p1004_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9c0eedf636207e54ba9ba91be6cb4fdb": {
+    "content": "pack1004-bundlepack1004_assets_p1004_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5670bd1111a5868a3d69efbc79dc8fb5": {
+    "content": "pack1004-bundlepack1004_scenes_p1004_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b95381e1fd403a2ef0de3b7626da810f": {
+    "content": "pack1004-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a94a21e1bbc570287c5621fdbc3af847": {
+    "content": "pack1004-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1df7bc508b20906dd82593b4c96159c1": {
+    "content": "pack1005-bundlepack1005_assets_p1005_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f8b636a124b868308e7904dcce159796": {
+    "content": "pack1005-bundlepack1005_assets_p1005_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "aa0ffda7b88e856475c696d78040f91b": {
+    "content": "pack1005-bundlepack1005_assets_p1005_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f93b9348309db2fc65e47fd7f5af6a45": {
+    "content": "pack1005-bundlepack1005_assets_p1005_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d7c8342d96844a0f07cd2cedd27c8bc2": {
+    "content": "pack1005-bundlepack1005_scenes_p1005_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8b9769555643f2c8466a349eee99b986": {
+    "content": "pack1005-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9ccecba72ec79530fb8a2c9395d2bf05": {
+    "content": "pack1005-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f5eb5f85165eeb607ee311c144fffd2b": {
+    "content": "pack1006-bundlepack1006_assets_p1006_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d04fecf8979901a514be5a998e6fe21d": {
+    "content": "pack1006-bundlepack1006_assets_p1006_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5799262eb319ceb94e928f1f289f62d3": {
+    "content": "pack1006-bundlepack1006_assets_p1006_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a1f13d3a6c8935b301acc9c552a58f80": {
+    "content": "pack1006-bundlepack1006_assets_p1006_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b8a14f00b2735edc864c8ce405650953": {
+    "content": "pack1006-bundlepack1006_scenes_p1006_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b326816fddcd43bec5aee3627ebe0841": {
+    "content": "pack1006-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9f96d769d8d197a1e71dc10c85d28caa": {
+    "content": "pack1006-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7dab2f7afb72af4d35dcde0bbe7ec7f3": {
+    "content": "pack1007-bundlepack1007_assets_p1007_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ffcb0ccb4100a7b13926b35489f75029": {
+    "content": "pack1007-bundlepack1007_assets_p1007_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1dc4b0ea7e553ddca541a4814c026fba": {
+    "content": "pack1007-bundlepack1007_assets_p1007_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c69dd46228f5ec0fbb07692f84d5d14d": {
+    "content": "pack1007-bundlepack1007_assets_p1007_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f455e6591cd046a84c2a1ba75469ab71": {
+    "content": "pack1007-bundlepack1007_scenes_p1007_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3c082fbd7d3af77d73a2fbd7fc57ec0a": {
+    "content": "pack1007-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d1a64398e63230cad178b6ed823d5ec6": {
+    "content": "pack1007-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6b26c01474a14e6e5094d6ef487c5855": {
+    "content": "pack1008-bundlepack1008_assets_p1008_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "dcfccee9783dfd980ef5625608094c7f": {
+    "content": "pack1008-bundlepack1008_assets_p1008_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "faf85fd473f08ef0011478852d84bcd8": {
+    "content": "pack1008-bundlepack1008_assets_p1008_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b12e04e307be14414b0a394766bab22c": {
+    "content": "pack1008-bundlepack1008_assets_p1008_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "526a19c2144d39f05b5197cd7b22accd": {
+    "content": "pack1008-bundlepack1008_scenes_p1008_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a0bcee63ce7f6819d7033c3d5dd2917a": {
+    "content": "pack1008-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9171da93d9f6a877c0e859db8b41d7f2": {
+    "content": "pack1008-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "79643c4bd69c0d8bd1c1c227897276ab": {
+    "content": "pack1009-bundlepack1009_assets_p1009_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2ed9c651fd87290ea50dc5349d9b4eea": {
+    "content": "pack1009-bundlepack1009_assets_p1009_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "88ba998572dea5b629d2020718c6bf28": {
+    "content": "pack1009-bundlepack1009_assets_p1009_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7043ce28f95661662ea64e38831f1770": {
+    "content": "pack1009-bundlepack1009_assets_p1009_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "734159ecea49547deedfed8952579b00": {
+    "content": "pack1009-bundlepack1009_scenes_p1009_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0e4055d62616c1de7bd81784b9f1d418": {
+    "content": "pack1009-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0bf2b8e4534849b7ee94d69a4bcb9925": {
+    "content": "pack1009-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a50292b2629a2db2763c56dca01da5b8": {
+    "content": "pack10-bundlepack10_assets_p10_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "202443855936382e668a537e37878b1e": {
+    "content": "pack10-bundlepack10_assets_p10_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f2ff33813d6639f17a9ed53eac262e99": {
+    "content": "pack10-bundlepack10_assets_p10_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "450a7ca3b384f0dc99494a7eba68c195": {
+    "content": "pack10-bundlepack10_assets_p10_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "944b31b639ee1f7983d5eca726807273": {
+    "content": "pack10-bundlepack10_scenes_p10_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d30691561651c2b9375c1531d09f4231": {
+    "content": "pack10-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4501f43c70a8a57c283e1753937281cb": {
+    "content": "pack10-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "309adac738eb699dc969fd329d8ef1be": {
+    "content": "pack11001-bundlepack11001_assets_p11001_char/animation",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8ae74a011c1c84ed912e74501c2ce3fd": {
+    "content": "pack11001-bundlepack11001_assets_p11001_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "35cb63afb8e5c26afa0b89dc04c78279": {
+    "content": "pack11001-bundlepack11001_assets_p11001_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "938cb44f753829d2cfb3e67d111ed10d": {
+    "content": "pack11001-bundlepack11001_assets_p11001_char/bossmonster_920901",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2b10a1a26660eeb844808a652034a1ff": {
+    "content": "pack11001-bundlepack11001_assets_p11001_char/bossmonster_921701",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "abd92cd475c3d5e9558698055e29a938": {
+    "content": "pack11001-bundlepack11001_assets_p11001_char/bossmonster_921801",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "73d43a50dbc969308c66a8c9f772a652": {
+    "content": "pack11001-bundlepack11001_assets_p11001_char/bossmonster_923001",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4d82d9ce72569b8c49c62ea813cca55b": {
+    "content": "pack11001-bundlepack11001_assets_p11001_char/bossmonster_923101",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3cd8173559f3e45be5f0062d4a2f20b1": {
+    "content": "pack11001-bundlepack11001_assets_p11001_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ae130a21962e4fd6714a43f1c5cd6145": {
+    "content": "pack11001-bundlepack11001_assets_p11001_char/projectile",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bff01c24a6b2dead4e86ff554496d3f7": {
+    "content": "pack11001-bundlepack11001_assets_p11001_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "792756416aed25381449fbc68f4da8d9": {
+    "content": "pack11001-bundlepack11001_assets_p11001_cinematimeline/dietrush",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2a110dde97545e42f12fd9a299f93227": {
+    "content": "pack11001-bundlepack11001_assets_p11001_cinematimeline/operationmoe",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2996106291ade3658cc194f58547e07b": {
+    "content": "pack11001-bundlepack11001_assets_p11001_cinematimeline/schoolcrisis",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2c6f2ba22fc015de913db7ebbe1aa103": {
+    "content": "pack11001-bundlepack11001_assets_p11001_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "061c485f74a7b88f5a9d7b391425deea": {
+    "content": "pack11001-bundlepack11001_assets_p11001_ui/onsentraining_1",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "16c1d00f966379b74080580dce0d113b": {
+    "content": "pack11001-bundlepack11001_assets_p11001_ui/onsentraining_2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "08606f854d16986c25ebf90f91212e76": {
+    "content": "pack11001-bundlepack11001_assets_p11001_ui/schoolcrisis",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a8ea3cad102ba1c63f862130a6e948a2": {
+    "content": "pack11001-bundlepack11001_assets_p11001_ui/valentinecrackdown",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "eff7f02ee26fe17b4bbca046898339a6": {
+    "content": "pack11001-bundlepack11001_assets_p11001_visualnovel/prefabs/onsentraining_1",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "479da131c119466ffb509dd8c8373aba": {
+    "content": "pack11001-bundlepack11001_assets_p11001_visualnovel/prefabs/onsentraining_2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2b4247848051d6cf6da0b565d467a527": {
+    "content": "pack11001-bundlepack11001_scenes_p11001_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4999cff76a34607f71aad290ec6154f0": {
+    "content": "pack11002-bundlepack11002_assets_p11002_char/animation",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e87ad76b5d473f637bb4a5414711521b": {
+    "content": "pack11002-bundlepack11002_assets_p11002_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "70943163726431b9c164a04f6f560778": {
+    "content": "pack11002-bundlepack11002_assets_p11002_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "61f23cde7703e35f24b76c549ad4d782": {
+    "content": "pack11002-bundlepack11002_assets_p11002_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "65214e6f4858b0ff308be44e949abbba": {
+    "content": "pack11002-bundlepack11002_assets_p11002_char/projectile",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "436c1ec28280d80af4752c3e896f9543": {
+    "content": "pack11002-bundlepack11002_assets_p11002_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9292771a9ab8363eaa3dbf6cceff775c": {
+    "content": "pack11002-bundlepack11002_assets_p11002_cinematimeline/androidsoul",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "016bb150e838f4fa843ea65ca4e47ac2": {
+    "content": "pack11002-bundlepack11002_assets_p11002_ui/androidsoul",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "41c53a17e51fe5755e7cc41a4b90b3f8": {
+    "content": "pack11002-bundlepack11002_scenes_p11002_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b7c30a9762ce5c3999c88fd63fef0ff3": {
+    "content": "pack11003-bundlepack11003_assets_p11003_char/animation",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8fe63e6710fa2efa4e2eca904d6a19ec": {
+    "content": "pack11003-bundlepack11003_assets_p11003_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a1bcda487201aa41e19dafbf76c808c0": {
+    "content": "pack11003-bundlepack11003_assets_p11003_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c98150b3bf1c1edcc8d49ae3ea31d377": {
+    "content": "pack11003-bundlepack11003_assets_p11003_char/bossmonster_921601",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0a4a9c399b9acdd161ed660d44776f61": {
+    "content": "pack11003-bundlepack11003_assets_p11003_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8b15821a391f2ebc6ba029d00e9f916f": {
+    "content": "pack11003-bundlepack11003_assets_p11003_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5a99e4adaa700781cb89dc432d0ebce8": {
+    "content": "pack11003-bundlepack11003_assets_p11003_cinematimeline/maidimpossible",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5dc10690bb250e35c505755802e7e33e": {
+    "content": "pack11003-bundlepack11003_assets_p11003_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "022e13f9473c94c74339f10841e78110": {
+    "content": "pack11003-bundlepack11003_assets_p11003_ui/maidimpossible",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "925c874e8ef75b44c0a95e531743d9e3": {
+    "content": "pack11003-bundlepack11003_scenes_p11003_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a7e5244128aa4a625903a0011c091fab": {
+    "content": "pack11003-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "717e5921d04c9e745252e07bff59df66": {
+    "content": "pack11004-bundlepack11004_assets_p11004_char/animation",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a0a50d07e37761d520fea6d630750fa3": {
+    "content": "pack11004-bundlepack11004_assets_p11004_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "17643049b0cc1a0c1a360b7d07c27f6a": {
+    "content": "pack11004-bundlepack11004_assets_p11004_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ff370b7c8b70eb95aa4be44e3199da60": {
+    "content": "pack11004-bundlepack11004_assets_p11004_char/bossmonster_921201",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8ae88f78125b03e6ab5a7f1b56d5c827": {
+    "content": "pack11004-bundlepack11004_assets_p11004_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "820523ea13ffc5f3399c2a23479bd7e9": {
+    "content": "pack11004-bundlepack11004_assets_p11004_char/projectile",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c04ee29bf70de8be90c4f0264c83c5e8": {
+    "content": "pack11004-bundlepack11004_assets_p11004_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f383397f55bc27556301eb6a317c03f0": {
+    "content": "pack11004-bundlepack11004_assets_p11004_cinematimeline/idolfantasm",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7499c096864dbda9c489fb148fe9e3a6": {
+    "content": "pack11004-bundlepack11004_assets_p11004_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3e3093b4f54c19e6edc527af05dbb576": {
+    "content": "pack11004-bundlepack11004_assets_p11004_ui/idolfantasm",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "809fcdd4edc87b936afbeced3cd64dda": {
+    "content": "pack11004-bundlepack11004_scenes_p11004_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a31255a69274493ba2e8e3d93ab697d6": {
+    "content": "pack11005-bundlepack11005_assets_p11005_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "27409dd3735d6a61fb2d3da0d7d21d3d": {
+    "content": "pack11005-bundlepack11005_assets_p11005_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "26be2a5ed6d97ef0eb79f7a83934dd51": {
+    "content": "pack11005-bundlepack11005_assets_p11005_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "55f5872b56636deb2c6998e164cb3e15": {
+    "content": "pack11005-bundlepack11005_assets_p11005_char/projectile",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c8e8cea05a1fffde63b40aab230820c3": {
+    "content": "pack11005-bundlepack11005_assets_p11005_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f3576da7e06f3ef9bb5c852fbf00e284": {
+    "content": "pack11005-bundlepack11005_assets_p11005_cinematimeline/marryme",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6f0dbbdd4fdaf87e6e3970a365df257d": {
+    "content": "pack11005-bundlepack11005_assets_p11005_ui/halloweennight",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "148b96b54226e1bcc0d68cc262bc8d99": {
+    "content": "pack11005-bundlepack11005_assets_p11005_ui/marryme",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d7d7631b939aa5341a1b24090015f322": {
+    "content": "pack11005-bundlepack11005_assets_p11005_visualnovel/prefabs/halloweennight",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2a96ff44d36699ceabb81b95d01a3d47": {
+    "content": "pack11005-bundlepack11005_assets_p11005_visualnovel/prefabs/magicforwishes",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "44afe19ddaadf44327ace540fbbc581a": {
+    "content": "pack11005-bundlepack11005_scenes_p11005_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4c3bf765027dd54be98b0194bf0a6b26": {
+    "content": "pack11005-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7fadd7966e1d5019df9e12fcdb747d51": {
+    "content": "pack11006-bundlepack11006_assets_p11006_char/animation",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c0f755b3abf6142ad25b9920d5dc0235": {
+    "content": "pack11006-bundlepack11006_assets_p11006_char/animation/char923201",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "85aec8429f2c03818b1dcf5b0ddc2c28": {
+    "content": "pack11006-bundlepack11006_assets_p11006_char/animation/char923301",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "49efec4a14b38da0aab7d85fef3c21b7": {
+    "content": "pack11006-bundlepack11006_assets_p11006_char/animation/char923401",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bee2bf82297be219fc9015475eaf410a": {
+    "content": "pack11006-bundlepack11006_assets_p11006_char/animation/char923501",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "24fb01a41aef359e58761818bd240699": {
+    "content": "pack11006-bundlepack11006_assets_p11006_char/animation/char923601",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "29f4f99cc06c89f6312bba7661fe4534": {
+    "content": "pack11006-bundlepack11006_assets_p11006_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6ebe61e5833d34f83221f92e0f7ec8c4": {
+    "content": "pack11006-bundlepack11006_assets_p11006_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "227c7ba6b14672bbe5e98415a26d7d5b": {
+    "content": "pack11006-bundlepack11006_assets_p11006_char/bossmonster_923201",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a708bfb93afb98e604b081268fa81dcf": {
+    "content": "pack11006-bundlepack11006_assets_p11006_char/bossmonster_923301",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "037b0b22e2352b4b407b43485c30ac75": {
+    "content": "pack11006-bundlepack11006_assets_p11006_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c4d1a79a04b605533bcc32b57ac7d09d": {
+    "content": "pack11006-bundlepack11006_assets_p11006_char/projectile",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "250163f68a74001cec33480e25b44e4e": {
+    "content": "pack11006-bundlepack11006_assets_p11006_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3bb8f435c759156b92ba76f469740453": {
+    "content": "pack11006-bundlepack11006_assets_p11006_ui/blacknewmoon",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "93d35fe0f747fc41b3c29413c8d7e567": {
+    "content": "pack11006-bundlepack11006_assets_p11006_ui/crimsondestiny_1",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4963e155c379f7b74ff84d7391e8ab43": {
+    "content": "pack11006-bundlepack11006_assets_p11006_ui/crossroads",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e7246c03781b06f8941fd1e3b44347aa": {
+    "content": "pack11006-bundlepack11006_assets_p11006_ui/delight_2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "174842b2d87cd698d23e1fd45236b770": {
+    "content": "pack11006-bundlepack11006_assets_p11006_ui/innocentfullmoon",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c55b1210f5f97c351bd629f644f1dadc": {
+    "content": "pack11006-bundlepack11006_assets_p11006_ui/psycheartist",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8f1497297076c11d328c9a5715f877a1": {
+    "content": "pack11006-bundlepack11006_assets_p11006_ui/starlightchild",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "68484716d2deba0db3c7d4cd3975c9f4": {
+    "content": "pack11006-bundlepack11006_assets_p11006_ui/stigmaofdreams",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2d100350ed418f978313c52d67ea846f": {
+    "content": "pack11006-bundlepack11006_assets_p11006_ui/theerosion",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7faceff220bbecf8a837ee894d4cd3e3": {
+    "content": "pack11006-bundlepack11006_assets_p11006_visualnovel/prefabs/blacknewmoon",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4ffd939808c51a9e37e44f25faa45a8f": {
+    "content": "pack11006-bundlepack11006_assets_p11006_visualnovel/prefabs/crimsondestiny_1",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2aaf5f127dfe85ab3f4f917d53252846": {
+    "content": "pack11006-bundlepack11006_assets_p11006_visualnovel/prefabs/crossroads",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2a530e9e2d4b1ec96eff84c96d291798": {
+    "content": "pack11006-bundlepack11006_assets_p11006_visualnovel/prefabs/delight_1",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5b288597d443100074f58923c3f53aaa": {
+    "content": "pack11006-bundlepack11006_assets_p11006_visualnovel/prefabs/delight_2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a6d19a6ba24b95eb95cce5a576cf2cb5": {
+    "content": "pack11006-bundlepack11006_assets_p11006_visualnovel/prefabs/innocentfullmoon",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d14d0e1f14dd3261f71c2765e915204d": {
+    "content": "pack11006-bundlepack11006_assets_p11006_visualnovel/prefabs/psycheartist",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "92796d882376c3a2193210dad2d4481e": {
+    "content": "pack11006-bundlepack11006_assets_p11006_visualnovel/prefabs/starlightchild",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1e27521bb2ffe8a18de59aae87c0f597": {
+    "content": "pack11006-bundlepack11006_assets_p11006_visualnovel/prefabs/stigmaofdreams",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ae7782103e89ebd11aee0550a0a532f3": {
+    "content": "pack11006-bundlepack11006_assets_p11006_visualnovel/prefabs/theerosion",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a83e3e98b056e17d204093dd0d6a13cd": {
+    "content": "pack11006-bundlepack11006_scenes_p11006_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "39bb573a075cd74abecd10567da4f34b": {
+    "content": "pack11006-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bc22ef1cba29293330ce271f67f88ea5": {
+    "content": "pack11007-bundlepack11007_assets_p11007_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a79dfb0741124fe3ede6ac58574470a0": {
+    "content": "pack11007-bundlepack11007_assets_p11007_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "713883df8b35607a35fe41a78dd03567": {
+    "content": "pack11007-bundlepack11007_assets_p11007_cinematimeline/cartawarz",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "02b708b619e6d50dc3813bc799aa6954": {
+    "content": "pack11007-bundlepack11007_assets_p11007_ui/cartawarz",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0298922efca08bced66ed0f278271c1f": {
+    "content": "pack11007-bundlepack11007_assets_p11007_ui/magicallyrical",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "454893fb53c6f1bd592eb2a19df4c27e": {
+    "content": "pack11007-bundlepack11007_assets_p11007_ui/martwar",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2632455da27dbe82b877e43bb954b5eb": {
+    "content": "pack11007-bundlepack11007_assets_p11007_visualnovel/prefabs/cartawarz",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ab46599e3905dbd166532e7b5ae05ebb": {
+    "content": "pack11007-bundlepack11007_assets_p11007_visualnovel/prefabs/magicallyrical",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f2e1ce5a939586d5d5020b93814b2276": {
+    "content": "pack11007-bundlepack11007_assets_p11007_visualnovel/prefabs/martwar",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "afba664a150b20991a254cb666715046": {
+    "content": "pack11007-bundlepack11007_scenes_p11007_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b8e47f16a61e25b87050702f0454a7ae": {
+    "content": "pack11007-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "77aa6ce1801adfa5ef66ff7b73702d41": {
+    "content": "pack11008-bundlepack11008_assets_p11008_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "220225ce950b9096397fc77193c697b7": {
+    "content": "pack11008-bundlepack11008_assets_p11008_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d03612ef8389b17a8fa76f3ad41f5f23": {
+    "content": "pack11008-bundlepack11008_assets_p11008_ui/chickenortheegg",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "db0d10b272a39991ab6be6ac92fecb15": {
+    "content": "pack11008-bundlepack11008_assets_p11008_ui/goldentamago",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2a70a1bea306ef9d2fe7c00810419682": {
+    "content": "pack11008-bundlepack11008_assets_p11008_visualnovel/prefabs/chickenortheegg",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a2eb55bbb3217132bef90f96f12885ee": {
+    "content": "pack11008-bundlepack11008_assets_p11008_visualnovel/prefabs/goldentamago",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4e4b4196767f266be1a06ca3a2ec1504": {
+    "content": "pack11008-bundlepack11008_scenes_p11008_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "97af448c40b5ec74751f506d501c578b": {
+    "content": "pack11008-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d5e061b19a47348234d35d8a2b71a692": {
+    "content": "pack11009-bundlepack11009_assets_p11009_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f5b961bb1e1255a7dc3e0fb3196c1bde": {
+    "content": "pack11009-bundlepack11009_assets_p11009_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c59867d9970011f83742bafc18e2c6ba": {
+    "content": "pack11009-bundlepack11009_assets_p11009_ui/darkmagica",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9d97c2bce7c6b92a1c39726c975ce293": {
+    "content": "pack11009-bundlepack11009_assets_p11009_ui/strangerequest",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "66db7110645bb3587b882add98d3ac10": {
+    "content": "pack11009-bundlepack11009_assets_p11009_visualnovel/prefabs/darkmagica",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "fd40c46892ad44456a595de3faf14114": {
+    "content": "pack11009-bundlepack11009_assets_p11009_visualnovel/prefabs/strangerequest",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ab394184bbd8e3b3d2d9884b29d7fb8b": {
+    "content": "pack11009-bundlepack11009_scenes_p11009_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bf80150f3053bad06b7f2e8abdecd7e1": {
+    "content": "pack11009-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f8f685b4be4d13856b7e6ad3cda06347": {
+    "content": "pack11-bundlepack11_assets_p11_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c4c26930a09f71cb0920637b208e7c56": {
+    "content": "pack11-bundlepack11_assets_p11_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7800d061bb56fd5b32aa05611fad0359": {
+    "content": "pack11-bundlepack11_assets_p11_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "12f56c50d1173e1a282e5cd55f811796": {
+    "content": "pack11-bundlepack11_assets_p11_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e1774f5243db39162febc353263ea8ed": {
+    "content": "pack11-bundlepack11_scenes_p11_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f4ed8c4ab5d4c7a759a64f1e2b1e944d": {
+    "content": "pack11-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4c8b2a357ff68f2056f803bb2a3d85a7": {
+    "content": "pack11-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "50621edaeb9e613aa39576ab1894e281": {
+    "content": "pack12001-bundlepack12001_assets_p12001_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "79d7425fb11519b7d36b52c15c92e146": {
+    "content": "pack12001-bundlepack12001_assets_p12001_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "217a3c67025728a3e117e5d5108e210b": {
+    "content": "pack12001-bundlepack12001_assets_p12001_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "79c4869ae22a3647f8941fc88d34f0a7": {
+    "content": "pack12001-bundlepack12001_assets_p12001_char/projectile",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "72f763d85585c08f05d50958d364111a": {
+    "content": "pack12001-bundlepack12001_assets_p12001_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4333ac985cd74e387bd12211812bfbc8": {
+    "content": "pack12001-bundlepack12001_assets_p12001_cinematimeline/postsummerknight",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "01f109a553c35a04decfe32ee5a02586": {
+    "content": "pack12001-bundlepack12001_assets_p12001_ui/postsummerknight",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2d16175db2c8596864c10752d850fee3": {
+    "content": "pack12001-bundlepack12001_assets_p12001_ui/postsummerknight2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e64f7a39edef554835644c61e8d2077e": {
+    "content": "pack12001-bundlepack12001_assets_p12001_visualnovel/prefabs/postsummerknight2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e1703b469933acfa5fe71655e9035a7b": {
+    "content": "pack12001-bundlepack12001_scenes_p12001_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6d6758e35a83b12bb2baa861175b216a": {
+    "content": "pack12001-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0f2898a1712f452e938ab161c1587b10": {
+    "content": "pack12002-bundlepack12002_assets_p12002_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b386e89b006f90e0ce82c219853dc6e9": {
+    "content": "pack12002-bundlepack12002_assets_p12002_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "825ee4484ae018e2ac8e29780898cb68": {
+    "content": "pack12002-bundlepack12002_assets_p12002_char/bossmonster_922701",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6cc038aebbec2ea2989dcfd66f73b0cb": {
+    "content": "pack12002-bundlepack12002_assets_p12002_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "84c892e1ffe85c5707da2d748ed635b2": {
+    "content": "pack12002-bundlepack12002_assets_p12002_char/projectile",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f89c604819a959d0778a9ed455ca3893": {
+    "content": "pack12002-bundlepack12002_assets_p12002_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "dc0bbb4d32a4365e7c8924c3a4f74c48": {
+    "content": "pack12002-bundlepack12002_assets_p12002_cinematimeline/fireworksmemories",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ba0096127fd4d3b003907bc0d3995d59": {
+    "content": "pack12002-bundlepack12002_assets_p12002_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "70c157190dbdd4de0f4d0319331632d9": {
+    "content": "pack12002-bundlepack12002_assets_p12002_ui/fireworksmemories",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ad1167bcf70ce08b232bfba18f1030e7": {
+    "content": "pack12002-bundlepack12002_assets_p12002_ui/fireworksmemories_2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "942c47f03426e2f42cea6bd21380a45d": {
+    "content": "pack12002-bundlepack12002_assets_p12002_visualnovel/prefabs/fireworksmemories_2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6a496441b49aa58497378ffb05ab9c53": {
+    "content": "pack12002-bundlepack12002_scenes_p12002_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f8eeca3ccfdda0580b1c23df31f3075d": {
+    "content": "pack12002-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "36168a78ba9cd02e4e44f86a6e19caa1": {
+    "content": "pack12003-bundlepack12003_assets_p12003_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "14017a8e289a8a50f71376075ce6592b": {
+    "content": "pack12003-bundlepack12003_assets_p12003_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c22289671c9de7e0cccf71bc577e05d9": {
+    "content": "pack12003-bundlepack12003_assets_p12003_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1d9c5b585722779e5c4d3dc7d06d6906": {
+    "content": "pack12003-bundlepack12003_assets_p12003_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2a92c6f5d62a036e4ee8afc97b5ad86e": {
+    "content": "pack12003-bundlepack12003_assets_p12003_cinematimeline/clickclicksummer",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e92ae375191f12c3513a6741ff40b7eb": {
+    "content": "pack12003-bundlepack12003_assets_p12003_ui/beautyonduty",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6c60bb9f312ce15226ac2dcc32bb2125": {
+    "content": "pack12003-bundlepack12003_assets_p12003_ui/bikiniimpossible",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e2dfca52241dc6794cdaeb091b8f0b44": {
+    "content": "pack12003-bundlepack12003_assets_p12003_ui/clickclicksummer",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "69c893ecc43aac86a217409bfade8850": {
+    "content": "pack12003-bundlepack12003_assets_p12003_visualnovel/prefabs/beautyonduty",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "70f6cb6ca9f5866a413d2c0afc1faa45": {
+    "content": "pack12003-bundlepack12003_assets_p12003_visualnovel/prefabs/bikiniimpossible",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "337df823f3c82c75b07c28357c909aa6": {
+    "content": "pack12003-bundlepack12003_scenes_p12003_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c726e98a911c1f8c2eae3e2253a8ea44": {
+    "content": "pack12003-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "265933d2c276637d19e99f9c1a3276f8": {
+    "content": "pack12004-bundlepack12004_assets_p12004_char/animation",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bf8284b25f9e5f512c5207efb36527a5": {
+    "content": "pack12004-bundlepack12004_assets_p12004_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7ad3e9f9c7841d2796791758cdc62551": {
+    "content": "pack12004-bundlepack12004_assets_p12004_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5819b1750fc8b438f2ee2e3475d06263": {
+    "content": "pack12004-bundlepack12004_assets_p12004_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8beb33329b68f96f74596e3ac3cdc929": {
+    "content": "pack12004-bundlepack12004_assets_p12004_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3e77c8167db8ecfed3fae4f446eadeaf": {
+    "content": "pack12004-bundlepack12004_assets_p12004_ui/akatsuki",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a5cb8a5a86f7a92eb2f2d7dd76a5ad03": {
+    "content": "pack12004-bundlepack12004_assets_p12004_ui/shinobiroad",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "48832198f39322596a385911d3d0515d": {
+    "content": "pack12004-bundlepack12004_scenes_p12004_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "29560984f4ef4e433c880b4241780aa8": {
+    "content": "pack12004-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1fe4c3e78886d5f66c69e0f41df0b095": {
+    "content": "pack12005-bundlepack12005_assets_p12005_char/animation",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bc669ac94a541214225d039513a5ff06": {
+    "content": "pack12005-bundlepack12005_assets_p12005_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "50117c822f9f3b82964146869861f130": {
+    "content": "pack12005-bundlepack12005_assets_p12005_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "957daff17515f215949f232f6fe1b856": {
+    "content": "pack12005-bundlepack12005_assets_p12005_char/bossmonster_922801",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "249dfe8a86e9e7fe79d99f9c50309222": {
+    "content": "pack12005-bundlepack12005_assets_p12005_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c8d5fc257ea6d0939de73c301a808c90": {
+    "content": "pack12005-bundlepack12005_assets_p12005_char/projectile",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6bb40c16a500c23d0819048eeca29829": {
+    "content": "pack12005-bundlepack12005_assets_p12005_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f56bc2cdb9c94b955e249ebb3b4f0dcc": {
+    "content": "pack12005-bundlepack12005_assets_p12005_ui/goodbyefreedom_2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "18ff6d440aa5bdf194b5cd04f5c3f621": {
+    "content": "pack12005-bundlepack12005_assets_p12005_visualnovel/prefabs/goodbyefreedom_1",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "06bdf58239f7f3798e1dc78510ee3bdd": {
+    "content": "pack12005-bundlepack12005_assets_p12005_visualnovel/prefabs/goodbyefreedom_2",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "32dfee9f5de1a6822056526c0aee335e": {
+    "content": "pack12005-bundlepack12005_scenes_p12005_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f87d5b0ed68923e5e98157bac42626b5": {
+    "content": "pack12005-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1cf00f63e13fa5fc8609b43ba27a6812": {
+    "content": "pack12006-bundlepack12006_assets_p12006_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c3941c0f9fc811e981a87be753631a2d": {
+    "content": "pack12006-bundlepack12006_assets_p12006_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6841b757ef8ec5da4d963b15b4b736de": {
+    "content": "pack12006-bundlepack12006_assets_p12006_ui/goblindoomsday",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "82e6e33013561912a799d7b3b4d4e604": {
+    "content": "pack12006-bundlepack12006_assets_p12006_ui/journeytoanotherworld",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "98558b80d4788f07d56110adb1bdb7c8": {
+    "content": "pack12006-bundlepack12006_scenes_p12006_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "19010e18f97b6fea2f247cc04a526d02": {
+    "content": "pack12007-bundlepack12007_assets_p12007_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b932eb9a36574d57e36ef316cb450e40": {
+    "content": "pack12007-bundlepack12007_assets_p12007_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d19930649f28cd91d8aa4ce0c1a4fc83": {
+    "content": "pack12007-bundlepack12007_assets_p12007_ui/flamingorush",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "57ed09aa774ffbba3db4c9b34bdd2b2c": {
+    "content": "pack12007-bundlepack12007_assets_p12007_ui/midsummerdream",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "625cedff32ce7fbeba9ee1bd99881e63": {
+    "content": "pack12007-bundlepack12007_assets_p12007_visualnovel/prefabs/flamingorush",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2cd00f648c2f4758542aa7964d894ea7": {
+    "content": "pack12007-bundlepack12007_assets_p12007_visualnovel/prefabs/midsummerdream",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b226490d5aa6897e920c760c3313529f": {
+    "content": "pack12007-bundlepack12007_scenes_p12007_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7115933250149ea6979904b1b906d5a4": {
+    "content": "pack12007-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e871c297455f82ba614305d6851a5b01": {
+    "content": "pack12008-bundlepack12008_assets_p12008_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "12e83db9f3e427f57578d03e06d1e0a5": {
+    "content": "pack12008-bundlepack12008_assets_p12008_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f41980461864f0244b8e7a01608cf87b": {
+    "content": "pack12008-bundlepack12008_assets_p12008_ui/ashdash",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2dde746245605219bb1d07145a64408a": {
+    "content": "pack12008-bundlepack12008_assets_p12008_ui/readysethop",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "672eabfd0dc08decd1a18a86c19e84eb": {
+    "content": "pack12008-bundlepack12008_assets_p12008_visualnovel/prefabs/ashdash",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "66d910c251941150256c993ab252180a": {
+    "content": "pack12008-bundlepack12008_assets_p12008_visualnovel/prefabs/readysethop",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2071bead9be8f8eedb278bcac22b65f8": {
+    "content": "pack12008-bundlepack12008_scenes_p12008_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "261eec32935c971c40c0187cf6a791bd": {
+    "content": "pack12008-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6ce20c86e069c5a03ef012254e8094d6": {
+    "content": "pack12009-bundlepack12009_assets_p12009_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b5da8bfdfe26b2b3f4f08e0c8a8a5c80": {
+    "content": "pack12009-bundlepack12009_assets_p12009_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "fcbf89fe2a20a77c70e571bcef4d0a68": {
+    "content": "pack12009-bundlepack12009_assets_p12009_ui/casinoparty",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ec90d9da13a41dbd2ee423c12b26200b": {
+    "content": "pack12009-bundlepack12009_assets_p12009_ui/endofgamble",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c88d0bc518c0ac6217ad62ff5ae36a0e": {
+    "content": "pack12009-bundlepack12009_assets_p12009_ui/foxsgambit",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "cf74a914b3120f5f60ec20bc0423ccff": {
+    "content": "pack12009-bundlepack12009_assets_p12009_ui/serendipityparty",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a238b5b4d0217392cf73098b30207c60": {
+    "content": "pack12009-bundlepack12009_assets_p12009_visualnovel/prefabs/casinoparty",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a1794cb3a9233c4c62022942014477dd": {
+    "content": "pack12009-bundlepack12009_assets_p12009_visualnovel/prefabs/endofgamble",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9a7edb9e171f9b6808bdaf5228b69480": {
+    "content": "pack12009-bundlepack12009_scenes_p12009_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1f8609ae60fe17ba64c7d8aee314bc88": {
+    "content": "pack12009-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a35480b2e46c51d42cf7a72e1f62734e": {
+    "content": "pack12-bundlepack12_assets_p12_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "14d8f4eb5a0dac72d6ea2963e7118843": {
+    "content": "pack12-bundlepack12_assets_p12_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "788c4ed33519e0fe36255a4683b6d89e": {
+    "content": "pack12-bundlepack12_assets_p12_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "beb35153965f3f6ce922e9cb6155a799": {
+    "content": "pack12-bundlepack12_assets_p12_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bd0e840ad813738d1bd1554105a84198": {
+    "content": "pack12-bundlepack12_scenes_p12_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b00675dbded2e8a44c9f82df8f92195a": {
+    "content": "pack12-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a0dc8b7cc8a7074ffa42b0ad97ba5b51": {
+    "content": "pack12-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "cc2b369c6862f802249d0e9b71082aac": {
+    "content": "pack13007-bundlepack13007_assets_p13007_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "191b9751b7e8fac1158d3b0053bc9f7b": {
+    "content": "pack13007-bundlepack13007_assets_p13007_ui/foolsgame",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0877085a25f3e63d25fc37033186c601": {
+    "content": "pack13007-bundlepack13007_scenes_p13007_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d05cb84db1d9df31be942e09d6ba3ad0": {
+    "content": "pack13-bundlepack13_assets_p13_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "aa7c966139810e16724f301aad725270": {
+    "content": "pack13-bundlepack13_assets_p13_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ed9d3c740fbb92eaa2d613d440cf0527": {
+    "content": "pack13-bundlepack13_assets_p13_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "204ee09549726d5f84667e5d120df493": {
+    "content": "pack13-bundlepack13_assets_p13_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3c23d6d3917b334d28ad7a948e701dee": {
+    "content": "pack13-bundlepack13_scenes_p13_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "be802c1a87833c3fd6e7cc3b96e9573a": {
+    "content": "pack13-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f5bf2f1ac0ab13d92ad6861964681797": {
+    "content": "pack13-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9addd6aaae9793d17eb7968b410cc532": {
+    "content": "pack14-bundlepack14_assets_p14_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "87057f7a2717f0e0a22d90afe538a0f4": {
+    "content": "pack14-bundlepack14_assets_p14_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ab56bbe244ea6f75e4c802741ce52115": {
+    "content": "pack14-bundlepack14_assets_p14_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c62afa6bffef992c8f7b62be786726bd": {
+    "content": "pack14-bundlepack14_assets_p14_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "562d0c4973dda0241b92a0608d181146": {
+    "content": "pack14-bundlepack14_scenes_p14_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "35d6c84ac342678becd4c6822ee5de8f": {
+    "content": "pack14-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "960a9377571ee24fd7447d585a52bc84": {
+    "content": "pack14-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2a5f84471e9e58bbab0498489f8451a0": {
+    "content": "pack15-bundlepack15_assets_p15_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "440998e5c7d10b1fe14246e96df2092a": {
+    "content": "pack15-bundlepack15_assets_p15_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "152df86952418cd506925bcaa9878f00": {
+    "content": "pack15-bundlepack15_assets_p15_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9e8470cee36126464b9545f20158f92f": {
+    "content": "pack15-bundlepack15_assets_p15_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a6af255ae1c4c83e38c065072ccc16ab": {
+    "content": "pack15-bundlepack15_scenes_p15_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4e9f88357b2f2bbec2b0d20b0d6b03ba": {
+    "content": "pack15-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "02d581cdbd7ad99c37f82b035edf5383": {
+    "content": "pack15-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9d30345fbf5e0a7d1d66971a40f545aa": {
+    "content": "pack16-bundlepack16_assets_p16_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b1c491018eea6ccbdd857fe59a51c787": {
+    "content": "pack16-bundlepack16_assets_p16_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0e26f1c321dd57ceac52c327e92b7694": {
+    "content": "pack16-bundlepack16_assets_p16_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c2ef60813604e769ecad63cd3635559d": {
+    "content": "pack16-bundlepack16_assets_p16_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "99cbb9e2012ef52e17dad280697d1664": {
+    "content": "pack16-bundlepack16_scenes_p16_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "83639eabbdc9d9f023928fbfb0555458": {
+    "content": "pack16-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d5801e45c96d373ecab0ac09cf3779f2": {
+    "content": "pack16-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "180dafcff15547196f55c38393b8db1a": {
+    "content": "pack17-bundlepack17_assets_p17_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "68cb047b9433503a329dab255be544f0": {
+    "content": "pack17-bundlepack17_assets_p17_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e7e1da0616ba41155f8405d0f1383b0d": {
+    "content": "pack17-bundlepack17_assets_p17_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2d626c1602666394dff798c392c40410": {
+    "content": "pack17-bundlepack17_assets_p17_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0c064d500cac8c2103999302bbb4f549": {
+    "content": "pack17-bundlepack17_scenes_p17_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "78796236774f320d91f9e690cb1c6840": {
+    "content": "pack17-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "edd8e9426fd0310aabe933d38912d1c7": {
+    "content": "pack17-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "90b8b2b2cf5753aee4b953450fd08a3a": {
+    "content": "pack18-bundlepack18_assets_p18_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4e080fe2d8033cf7f44c84486034af3a": {
+    "content": "pack18-bundlepack18_assets_p18_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c3b54422e9474a900286b2d7c1ed1e32": {
+    "content": "pack18-bundlepack18_assets_p18_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "94fb6befc6e9532300c009f84e677853": {
+    "content": "pack18-bundlepack18_assets_p18_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ac5ae9f96c9e3394abdbb451d6bcbafd": {
+    "content": "pack18-bundlepack18_scenes_p18_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e09e1ab9a1cf32549a693b19d3fb7a69": {
+    "content": "pack18-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a10c42dd73fefa494812c1a180852bfa": {
+    "content": "pack18-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "09edf04bb7fa0ac51f446f724f89a528": {
+    "content": "pack19-bundlepack19_assets_p19_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bb15e144634274b5dbdbb27f5fcbb6e5": {
+    "content": "pack19-bundlepack19_assets_p19_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3790aeba3d12e5c61053db657710265a": {
+    "content": "pack19-bundlepack19_assets_p19_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "97e9fb0926f8e583ac8eadf9f1e828f7": {
+    "content": "pack19-bundlepack19_assets_p19_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "96d5673b5283b27965a68462e7dc4b38": {
+    "content": "pack19-bundlepack19_scenes_p19_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8fb0be6cf1461bc072cb0e733f631130": {
+    "content": "pack19-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b0aca60dd232a39f65f8d4ca59fb86fd": {
+    "content": "pack19-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "da5080ba81ad62f2f9d86bd355a4a2cd": {
+    "content": "pack1-bundlepack1_assets_p1_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "15a5ba33f427e945e6f63a813ef0f116": {
+    "content": "pack1-bundlepack1_assets_p1_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "66268bbc0b8edc9458bc69e47885459f": {
+    "content": "pack1-bundlepack1_assets_p1_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a5482f5028444c5dc1eeb7f6c00cb9cf": {
+    "content": "pack1-bundlepack1_assets_p1_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c8a8b2f21263f9da2b3f578d0f66fadc": {
+    "content": "pack1-bundlepack1_scenes_p1_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "806001ed0278f0c7d8308672cba89d50": {
+    "content": "pack1-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a463680b36fe122639009e588a4253a9": {
+    "content": "pack1-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "562f677e82056fd252de197575fce760": {
+    "content": "pack2001-bundlepack2001_assets_p2001_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7fcee10bee823258de39219da2dca71f": {
+    "content": "pack2001-bundlepack2001_assets_p2001_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b1ff1565e8fe178f0431c14e6310c654": {
+    "content": "pack2001-bundlepack2001_assets_p2001_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e273d52e85701bddbb96447134cc5a6d": {
+    "content": "pack2001-bundlepack2001_assets_p2001_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "07e97d7fb0aa5bb62014428594ddf534": {
+    "content": "pack2001-bundlepack2001_scenes_p2001_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c1b1c32b51fff51293fb14fdbc2121f1": {
+    "content": "pack2001-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f787292bf7c163fd11f13c8d8b8fd4f7": {
+    "content": "pack2001-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "41912ab3daef59bf548fde1d90f41346": {
+    "content": "pack2002-bundlepack2002_assets_p2002_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a6b88ef466f7b793c7e8ca5e9d867502": {
+    "content": "pack2002-bundlepack2002_assets_p2002_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "03378881f9c1f0eae27cec3eec44f800": {
+    "content": "pack2002-bundlepack2002_assets_p2002_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "535137df3446ef29864703753dc78a5e": {
+    "content": "pack2002-bundlepack2002_assets_p2002_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5e2fc0fdef39ab5607a6c72f66a8828e": {
+    "content": "pack2002-bundlepack2002_scenes_p2002_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "01e731f29ea56fab423f05c5f00a3320": {
+    "content": "pack2002-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d4cad362592101b63426b3ff2d74ff10": {
+    "content": "pack2002-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "490b9fa74c3b5ef9df7b19773c2142c7": {
+    "content": "pack2003-bundlepack2003_assets_p2003_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6dd6f5897744a39e049bbe74034049e7": {
+    "content": "pack2003-bundlepack2003_assets_p2003_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6fe8e2823ef989726d89cde0f7224ed6": {
+    "content": "pack2003-bundlepack2003_assets_p2003_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "8d42f48221ea10cda6a89cffc6cf7fb2": {
+    "content": "pack2003-bundlepack2003_assets_p2003_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d4be8c10780612b3dc79553d8366de08": {
+    "content": "pack2003-bundlepack2003_scenes_p2003_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "50504b52bfb3c745b5396e90d9de1461": {
+    "content": "pack2003-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "cd2e6acce11109251e464b6000d5eec1": {
+    "content": "pack2003-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7950920ad0ee846686b4d7fc6586a040": {
+    "content": "pack2004-bundlepack2004_assets_p2004_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "51159e8573f61bd4ebaee8bbc9d6c3ac": {
+    "content": "pack2004-bundlepack2004_assets_p2004_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ee6c54f9e9be84e3f814e9ffcb9de1fc": {
+    "content": "pack2004-bundlepack2004_assets_p2004_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2e0ea77d2d5773f3b189ed6faa289d76": {
+    "content": "pack2004-bundlepack2004_assets_p2004_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "347cdaf8058cd535932f250675c6067e": {
+    "content": "pack2004-bundlepack2004_scenes_p2004_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5b7422b428e131fda4c59f606e547df6": {
+    "content": "pack2004-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5d5f7f73b3f02f7111b6c2de3d92c684": {
+    "content": "pack2004-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1acb7499b9366805a7c4bd3d95c3b630": {
+    "content": "pack2005-bundlepack2005_assets_p2005_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ef926a33c0492a946e0f2b2570b84ca7": {
+    "content": "pack2005-bundlepack2005_assets_p2005_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "194490df1dc33f3e09b7bb92bb736706": {
+    "content": "pack2005-bundlepack2005_assets_p2005_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "84c6d88e92f67d4e1c0f9061a3ee5c0d": {
+    "content": "pack2005-bundlepack2005_assets_p2005_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "209bdeea546cb321d6298b472caca617": {
+    "content": "pack2005-bundlepack2005_scenes_p2005_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ac48bf07fba78233c7fc49aa7b264cdc": {
+    "content": "pack2005-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "07e560472dbe5139ff06c41f0ba3205b": {
+    "content": "pack2005-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "07b68fc6cc4f2438bd240ae95e53d7b6": {
+    "content": "pack2006-bundlepack2006_assets_p2006_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "24a493d92942de356df442cccd1db028": {
+    "content": "pack2006-bundlepack2006_assets_p2006_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1121d3587e6b85a7f9e302e942a84309": {
+    "content": "pack2006-bundlepack2006_assets_p2006_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9b077530d48e74252ade7fe47480549e": {
+    "content": "pack2006-bundlepack2006_assets_p2006_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f1373809db4c8ea053ad74baac276fb6": {
+    "content": "pack2006-bundlepack2006_scenes_p2006_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6a2c744443d9445571e27263d5342adc": {
+    "content": "pack2006-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f250d35aac59726a61175f9b182f856d": {
+    "content": "pack2006-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0e74f83beb721cc1e0deb5836db16970": {
+    "content": "pack2007-bundlepack2007_assets_p2007_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2a456523be186679c68a906a384dd2fa": {
+    "content": "pack2007-bundlepack2007_assets_p2007_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4a360809edd3c27a72ba8a41a13c5448": {
+    "content": "pack2007-bundlepack2007_assets_p2007_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6d3177f5e40aeb0b7536c6ba43bcbd7b": {
+    "content": "pack2007-bundlepack2007_assets_p2007_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "87d235ef1992ea93af95437d6bf06e51": {
+    "content": "pack2007-bundlepack2007_scenes_p2007_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a4dda71b49b6c950ee7666340840f5e4": {
+    "content": "pack2007-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "acaff78bfb4d5f71a5fc55be021092f9": {
+    "content": "pack2007-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "21904c11311c382b6babf6ef34758e18": {
+    "content": "pack2008-bundlepack2008_assets_p2008_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0bae1a5db13027baea2bb9221d00a312": {
+    "content": "pack2008-bundlepack2008_assets_p2008_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6965ecb5f249d97ebe08d2e55860a2e6": {
+    "content": "pack2008-bundlepack2008_assets_p2008_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1c60fdcf8b7648ee2da1b809a124a27e": {
+    "content": "pack2008-bundlepack2008_assets_p2008_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b5cc559793fb195e9c932be75d6eedc0": {
+    "content": "pack2008-bundlepack2008_scenes_p2008_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3fedd7b110c5d2e0d50fdd61505ef739": {
+    "content": "pack2008-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e06a12dfe28ed487f1a96d1c4740c761": {
+    "content": "pack2008-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a0c2c3b228e1c7f8263f67f1c309a4b8": {
+    "content": "pack2009-bundlepack2009_assets_p2009_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "15311d81714ecec30fad2670e7f2c596": {
+    "content": "pack2009-bundlepack2009_assets_p2009_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "40b16252f32058cc59acf44c6e00adae": {
+    "content": "pack2009-bundlepack2009_assets_p2009_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2a92182209eee9fca65cbf4e671276df": {
+    "content": "pack2009-bundlepack2009_assets_p2009_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9145bf4d0671750ec026ea4907e3309b": {
+    "content": "pack2009-bundlepack2009_scenes_p2009_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "738151db22a8aa7f95d2ee34a5c8c8bc": {
+    "content": "pack2009-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4c0e02a6e47aac2ef23a76270b30d8de": {
+    "content": "pack2009-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2d291a81f2b33a6d2a49e2d0f3a003ea": {
+    "content": "pack20-bundlepack20_assets_p20_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bd5dcb1c76073f5e279a006ec73fe6d6": {
+    "content": "pack20-bundlepack20_assets_p20_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c285cf6075d8b6c3debea4d2ebc0c7f0": {
+    "content": "pack20-bundlepack20_assets_p20_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0c502af061f025af6aaadca20a0a4fed": {
+    "content": "pack20-bundlepack20_assets_p20_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5a768c8fc87ccf5da9e6e8bebb951fcb": {
+    "content": "pack20-bundlepack20_scenes_p20_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "07a4e724fced78d3a31c3bb235cda870": {
+    "content": "pack20-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "30e068823db3db40669ea8948964c603": {
+    "content": "pack20-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e08d995f435bd04f94838902e98f3f78": {
+    "content": "pack21-bundlepack21_assets_p21_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "01fc1260d6034152a5068d575b805a2c": {
+    "content": "pack21-bundlepack21_assets_p21_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ffa724cdb8e67ecdbb962b35f02fb901": {
+    "content": "pack21-bundlepack21_assets_p21_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0c5865d3211d0a0f350e0466d3fe9934": {
+    "content": "pack21-bundlepack21_assets_p21_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "66fd26e04fe7c49b0b4d6cbe318dfa24": {
+    "content": "pack21-bundlepack21_assets_p21_visualnovel",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d3cd2976c101ec7c62320b32f3172dac": {
+    "content": "pack21-bundlepack21_scenes_p21_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b8f8684f6870775e69ecb13bd2601867": {
+    "content": "pack21-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "65c1ec0e7874bbdbf744858c46400ee6": {
+    "content": "pack21-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d31eabf51d490d74964e38e87a58601b": {
+    "content": "pack2-bundlepack2_assets_p2_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "03843c2fdeba4af5057c196c928e0789": {
+    "content": "pack2-bundlepack2_assets_p2_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "065378b52cc25ed185c8b563d937b8be": {
+    "content": "pack2-bundlepack2_assets_p2_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "efb2dfe7abf9ba78b42c2b7e57c7e054": {
+    "content": "pack2-bundlepack2_assets_p2_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7b9e79cc071eda97598871e30d8cac7f": {
+    "content": "pack2-bundlepack2_scenes_p2_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "219ae540700a21b1885a53d0026bc638": {
+    "content": "pack2-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "23b7c0e60d48549e12e59f03d0a59f78": {
+    "content": "pack2-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "934b6bbdc537aafd4a61ecdf296cfc94": {
+    "content": "pack3001-bundlepack3001_assets_p3001_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4a098ea253d98ed3dea4cd2e2a23e23c": {
+    "content": "pack3001-bundlepack3001_assets_p3001_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2927521c6ff3e9163e11761f5c0ff8ed": {
+    "content": "pack3001-bundlepack3001_assets_p3001_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "be2273d514ab9aa35a87ac7f9d865f6b": {
+    "content": "pack3001-bundlepack3001_scenes_p3001_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "cd22bd321246c4469b1cd0496825335e": {
+    "content": "pack3001-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4e30e81c21041c409d21a10d33f0342f": {
+    "content": "pack3001-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f958fa10c49fd093ba5839036078a413": {
+    "content": "pack3002-bundlepack3002_assets_p3002_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "147ebcbfed3a72dce8b5c2ac22dd6b19": {
+    "content": "pack3002-bundlepack3002_assets_p3002_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2c8d3bb966c71da2cbdabaae360e107b": {
+    "content": "pack3002-bundlepack3002_assets_p3002_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7e93dd2ed4ea2c755bdf5c8cf44b159d": {
+    "content": "pack3002-bundlepack3002_assets_p3002_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "dd6e9a062afe1a50b7e7d6b638449ebd": {
+    "content": "pack3002-bundlepack3002_scenes_p3002_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "80254747dc4affd61dbd77000237b7ff": {
+    "content": "pack3002-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4a88f449f9a2f945893528c6a77e9ea3": {
+    "content": "pack3002-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "573b310a20f2700ef2542a27fe295cd2": {
+    "content": "pack3003-bundlepack3003_assets_p3003_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0c1ee0914ce56060df42c7ee97493fb9": {
+    "content": "pack3003-bundlepack3003_assets_p3003_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2cbe8fb8fbd585ded9c8332f2a27b5c3": {
+    "content": "pack3003-bundlepack3003_assets_p3003_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2dd0a2619916667a980724a56734c137": {
+    "content": "pack3003-bundlepack3003_assets_p3003_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bcc37c505eae87d7aec56ef5c1f4eb1f": {
+    "content": "pack3003-bundlepack3003_scenes_p3003_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5bb11f25fc7ad61514c76d508ce7e207": {
+    "content": "pack3003-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "fd9f0be8d4a913632b8eb4132d823838": {
+    "content": "pack3003-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d885e2eb452e323fa0b73e3522dd757c": {
+    "content": "pack3004-bundlepack3004_assets_p3004_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "423a79783ccbf7b15bb4872cb159c92c": {
+    "content": "pack3004-bundlepack3004_assets_p3004_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0634ff025c7f8b9f51ede58aeb24a2f7": {
+    "content": "pack3004-bundlepack3004_assets_p3004_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ff5ca1843138c7e39b335a2340a0cfbd": {
+    "content": "pack3004-bundlepack3004_assets_p3004_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "58fdbeb8dadd1da97d6d3028b602ee75": {
+    "content": "pack3004-bundlepack3004_scenes_p3004_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "bea4ad7d05add802dd801a56865a859f": {
+    "content": "pack3004-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "55e5f08d0732235c7974fb2098c96d42": {
+    "content": "pack3004-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ec85aff83a24d8cb990efc0eefc9b3ce": {
+    "content": "pack3005-bundlepack3005_assets_p3005_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d27b6294776a6858eeb9e004a24f9a13": {
+    "content": "pack3005-bundlepack3005_assets_p3005_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "462011a8cf1c83ccea5ad6c427d3642f": {
+    "content": "pack3005-bundlepack3005_assets_p3005_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "184818be4cbb515dbfc4063d5e22d09e": {
+    "content": "pack3005-bundlepack3005_assets_p3005_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "35b8465950832bf1a4b2b0b7207423bd": {
+    "content": "pack3005-bundlepack3005_scenes_p3005_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "564a07d7ba2cd159ede7b87f5081a2a9": {
+    "content": "pack3005-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "67ba7415491b93226a1ee4eefeaca906": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "cf865d43fbaf23b7f9bda082fa3377b5": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/animation",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "93ee4c6ecb5f74196647c6a64874afeb": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/animator",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3efad1d1ace059360f95239a7089f374": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/bossmonster",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e94e18ec988496cb2f921158ccf59f43": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/bossmonster_970301",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "01d1078e2f130da949269b2a68cd6080": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/bossmonster_970401",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "61c01a8f7b0bf910a679627f610936ff": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/bossmonster_970701",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c2062385847c83af246a85a26cc00139": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/bossmonster_970901",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "2747dc61ba33e60f055a4757cc13c00c": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/bossmonster_971101",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "50c05c4272237cce5cf9470d175d4c8c": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/bossmonster_971301",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "85e120694e0744b2d351a9246de5cd31": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/bossmonster_971501",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "390ab7b5c54f24c17a3893556506894b": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/bossmonster_971701",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "07fc8f91a103fd5f8d46179e5e2c3867": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/bossmonster_972101",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3d7822a06a97833f407c02cf541ba7a3": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/bossmonster_989001",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "15297706faba94ff6ef24aa4558216d2": {
+    "content": "pack3006-bundlepack3006_assets_p3006_char/prefabs",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1fe1ad6af29b6afe2e71b4a5fabc1da0": {
+    "content": "pack3006-bundlepack3006_assets_p3006_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "393a89d6b7615a1ac6df9877c5fed5ed": {
+    "content": "pack3006-bundlepack3006_assets_p3006_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a3639fa9d23798a09b6ec20c84d33801": {
+    "content": "pack3006-bundlepack3006_scenes_p3006_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "36ccc45845d25a6b361841a5c2032eb3": {
+    "content": "pack3006-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "91d39769c27bc81fff2d5b1147808aac": {
+    "content": "pack3007-bundlepack3007_assets_p3007_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "843952f0009653bb668875cb60fe9f9b": {
+    "content": "pack3007-bundlepack3007_assets_p3007_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "26040a2bd2afe5086039e1157f320964": {
+    "content": "pack3007-bundlepack3007_assets_p3007_visualnovel",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d42a9b94b7c331eb17507fe3ea2a553c": {
+    "content": "pack3007-bundlepack3007_scenes_p3007_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "28bb07291181c618b08b0f13029676bf": {
+    "content": "pack3007-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "01a9c13f65392e1d57050325c5ba9883": {
+    "content": "pack3008-bundlepack3008_assets_p3008_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3d620de00aeb921145a695c05b50aaa3": {
+    "content": "pack3008-bundlepack3008_assets_p3008_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a5ec773fcac4079c9f4ffffb2950bbee": {
+    "content": "pack3008-bundlepack3008_assets_p3008_visualnovel",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a89acc5e51884703ebb206d41c3bca56": {
+    "content": "pack3008-bundlepack3008_scenes_p3008_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4d2f156ca7368f9fd8acf53631d747bf": {
+    "content": "pack3009-bundlepack3009_assets_p3009_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f7a9403cd0111c6d09d9f4efc335f3a9": {
+    "content": "pack3009-bundlepack3009_assets_p3009_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0d77811172695d3043d3ceea30abee59": {
+    "content": "pack3009-bundlepack3009_assets_p3009_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "058c3e1b8ba4d67be10381615902f278": {
+    "content": "pack3009-bundlepack3009_assets_p3009_visualnovel",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4788ca30e78b537a760bacf5219e37e0": {
+    "content": "pack3009-bundlepack3009_scenes_p3009_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "b7c011adb02282f045ccc5a27fb63bc0": {
+    "content": "pack3009-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6aadb08adedc56e0c97af1d3fb805ee9": {
+    "content": "pack3010-bundlepack3010_assets_fishingfloat",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "cff56b4407c90aa1c2bad4ff50f9a263": {
+    "content": "pack3010-bundlepack3010_assets_p3010_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ff84eef473f2ce59de9139578b44f296": {
+    "content": "pack3010-bundlepack3010_assets_p3010_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "4fb41179e641f6a96d1fba661509791b": {
+    "content": "pack3010-bundlepack3010_scenes_p3010_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0f10f79e04f8bbab5cde64a35c9e9bef": {
+    "content": "pack3011-bundlepack3011_assets_p3011_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f6227d96bd71588947a5e9894bb9d136": {
+    "content": "pack3011-bundlepack3011_assets_p3011_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f407b5d233b9013e4b83e437a06f4995": {
+    "content": "pack3011-bundlepack3011_scenes_p3011_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d8e702f4e048d261698e828d1cc5541b": {
+    "content": "pack3012-bundlepack3012_assets_p3012_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a4a79d98d9c34d9b68fc62a3092af140": {
+    "content": "pack3012-bundlepack3012_assets_p3012_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ccfb5bfab560edb62c590be171ef33a2": {
+    "content": "pack3012-bundlepack3012_assets_p3012_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "18a5fdb43170b451b948ab310e1e8a62": {
+    "content": "pack3012-bundlepack3012_assets_p3012_visualnovel",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "251058a94d747c5a0b44773ddc592256": {
+    "content": "pack3012-bundlepack3012_scenes_p3012_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ccdf866fa82da3348d3a13fe5e38eff0": {
+    "content": "pack3012-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "626d40b83f2c07f1e5f918cee7fe18b8": {
+    "content": "pack3-bundlepack3_assets_p3_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "1a3b9bddd6d4935731a94abde75a569d": {
+    "content": "pack3-bundlepack3_assets_p3_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0ee5056b4ed1130ce65519c9a05414ee": {
+    "content": "pack3-bundlepack3_assets_p3_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "883ba15f1569c5b781169d5fb3615e29": {
+    "content": "pack3-bundlepack3_assets_p3_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "65ed52e7bb9bf90e72583256e59d092b": {
+    "content": "pack3-bundlepack3_scenes_p3_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "21e80fff480ac20ce733f4c0aa9e4461": {
+    "content": "pack3-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c57bab03ebf78178a52fc83fd43697ef": {
+    "content": "pack3-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "a586cfdd96621a37f85c188600dbd3d4": {
+    "content": "pack4-bundlepack4_assets_p4_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d7b0c1b4208fdad46c62ff3114abbd8d": {
+    "content": "pack4-bundlepack4_assets_p4_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c6e7f2c95119b24c4eb8bab25084b602": {
+    "content": "pack4-bundlepack4_assets_p4_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7247d779073873f445a72886008b98cb": {
+    "content": "pack4-bundlepack4_assets_p4_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3384a10e541d5d6522b83eab9aef1ec5": {
+    "content": "pack4-bundlepack4_scenes_p4_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ccccfea5c7cdb45f766b2b3aa03b1bfe": {
+    "content": "pack4-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3da7db51339a27c435c9ad8c61b85b35": {
+    "content": "pack4-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "08e196b281cf662af5525a17abdcc270": {
+    "content": "pack5-bundlepack5_assets_p5_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "65ccddd4990e8fb6b5899a6b5bcc3505": {
+    "content": "pack5-bundlepack5_assets_p5_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "915a19fc9efd0fd9b860a4374f565491": {
+    "content": "pack5-bundlepack5_assets_p5_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "9dc8c65831641c876b33a4c945a723f7": {
+    "content": "pack5-bundlepack5_assets_p5_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "635521aa0727a4dda995ee1225cc5d0b": {
+    "content": "pack5-bundlepack5_scenes_p5_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e8833cc5332a9926e6a17827baa872ee": {
+    "content": "pack5-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e850f298a06f805eaab17a47331947ae": {
+    "content": "pack5-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7a528458c3ded0735ac1b695fb0e1335": {
+    "content": "pack6-bundlepack6_assets_p6_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3e85d331bf087ee8965b95aeb4fc24f1": {
+    "content": "pack6-bundlepack6_assets_p6_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0671cda843111a939fd6e654180dbebf": {
+    "content": "pack6-bundlepack6_assets_p6_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "76b8494366c9f1a86e0bad931e6ff63c": {
+    "content": "pack6-bundlepack6_assets_p6_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e721fa12f97af86a7c3e9254bb3c9b40": {
+    "content": "pack6-bundlepack6_scenes_p6_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "f0ac8ffcfcf73ee9d5fca3c751393d65": {
+    "content": "pack6-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "0b977fcf02a1acd71190ed9daad1bdd6": {
+    "content": "pack6-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "d23e65138c64465dd83e7a5ec42ebdd3": {
+    "content": "pack7-bundlepack7_assets_p7_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "6358e4d5fb0fd2f2f59c85bb06122a20": {
+    "content": "pack7-bundlepack7_assets_p7_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ebdd598384c986767e7c38d8022908bc": {
+    "content": "pack7-bundlepack7_assets_p7_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "987a5d72fc05016b33a457754aab69f5": {
+    "content": "pack7-bundlepack7_assets_p7_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "743d1641b82b83aad5bff61be01899dc": {
+    "content": "pack7-bundlepack7_scenes_p7_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "ea2165cb5afc80e9b472933540e10463": {
+    "content": "pack7-localvoice_assets_all",
+    "type": "audio",
+    "lastExtracted": ""
+  },
+  "4123e1d6fe0ef7b771a66798105f53f1": {
+    "content": "pack7-localvoice_jp_assets_all",
+    "type": "audio",
+    "lastExtracted": ""
+  },
+  "3cbd0f5b7c3331f795cb4336b20c4f3e": {
+    "content": "pack7-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3e0cf86460bdf6f79c1d1024a2e52e0d": {
+    "content": "pack7-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "77d88110320c39900d61839ead3abed9": {
+    "content": "pack8-bundlepack8_assets_p8_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "84c098af835475d203f3769f7c466d67": {
+    "content": "pack8-bundlepack8_assets_p8_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "5b56892e9c500b75f645dbdac1e3d8ca": {
+    "content": "pack8-bundlepack8_assets_p8_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "af6aaafe437b008be1375d3a74d73466": {
+    "content": "pack8-bundlepack8_assets_p8_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "c831ef5db558c882f2939b910fd6054f": {
+    "content": "pack8-bundlepack8_scenes_p8_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "98420573aebb0dfddec3dca404b18209": {
+    "content": "pack8-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "e2a357b2f250e2c877855dcd3182bb2c": {
+    "content": "pack8-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "50fcd945f11a93c32a22ab05f57f029c": {
+    "content": "pack9-bundlepack9_assets_p9_char",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "03594acd3cbfcbb564acc43ebbde0c69": {
+    "content": "pack9-bundlepack9_assets_p9_cinematimeline",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "66c861910991d6e8f7085f3565e8cf05": {
+    "content": "pack9-bundlepack9_assets_p9_effect",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "42279cf41f728938dc8b4d3250d64e45": {
+    "content": "pack9-bundlepack9_assets_p9_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "7b4737e34a3c507272350517599a15a6": {
+    "content": "pack9-bundlepack9_scenes_p9_map",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "3bdcbfe0ef18090ee2b78e48c1f5ffde": {
+    "content": "pack9-spritetexture_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "801c586c7629f4fcae00e59ee27d4713": {
+    "content": "pack9-timeline_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
+  },
+  "41b46f3dd1218bf0986a481fab296c84": {
+    "content": "common-soundmaster_assets_all",
+    "type": "audio",
+    "lastExtracted": ""
+  },
+  "a36ad93dddfc030fad83c2d6dfd42bab": {
+    "content": "shared-game-shader_assets_all",
+    "type": "texture",
+    "lastExtracted": ""
   }
 }
