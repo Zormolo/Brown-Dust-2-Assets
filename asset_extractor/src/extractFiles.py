@@ -104,9 +104,13 @@ def getBundlePath( path, bundleSet ):
 
 def searchBundlePaths( bundleData, filterOptions ):
   basePath = r'E:\\Gamfs_BrownDust II'
-  filteredBundles = filterBundle( bundleData, filterOptions )
-  bundleSet = set( filteredBundles )
-  return getBundlePath( basePath, bundleSet )
+  folderPath = []
+  for folder in os.listdir( basePath ):
+    folderPath.append( Path( basePath, folder ) )
+  # filteredBundles = filterBundle( bundleData, filterOptions )
+  # bundleSet = set( filteredBundles )
+  # return getBundlePath( basePath, bundleSet )
+  return folderPath
 
 
 #######################################################################################################################
