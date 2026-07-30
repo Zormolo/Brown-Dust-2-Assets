@@ -13,7 +13,7 @@ EXTRACTION_FOLDER_PATH = Path( '.', 'output' )
 #######################################################################################################################
 
 if __name__ == '__main__':
-  decodedBundleStrings = decode_catalog_key_data_strings( CATALOG_FILE_PATH )
-  bundleJson = makeBundleJson( decodedBundleStrings, True )
-  extracedAssets( bundleJson, EXTRACTION_FOLDER_PATH )
+  # decodedBundleStrings = decode_catalog_key_data_strings( CATALOG_FILE_PATH )
+  # bundleJson = makeBundleJson( decodedBundleStrings, True )
+  # extracedAssets( bundleJson, EXTRACTION_FOLDER_PATH )
   mapFilesToAssetFolder( EXTRACTION_FOLDER_PATH, Path( "assets" ), False )
