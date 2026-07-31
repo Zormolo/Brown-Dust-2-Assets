@@ -81,7 +81,7 @@ offsets:0,0,38,35
 eyeline_L_touch1
 bounds:513,707,36,29
 eyeline_R_hiss
-bounds:2010,858,35,33
+bounds:2010,857,35,33
 eyeline_R_normal
 bounds:1501,900,51,37
 eyeline_R_touch1
@@ -341,8 +341,7 @@ hip_R2_1
 bounds:1856,406,107,110
 rotate:90
 hip_R2_2
-bounds:2004,892,33,45
-offsets:0,0,33,46
+bounds:2004,891,33,46
 leg_L1_sha
 bounds:1514,111,84,196
 rotate:90
