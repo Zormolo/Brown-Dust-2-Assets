@@ -4,112 +4,16 @@ import subprocess
 import shutil
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-BUNDLE_AGES = {
-  1: 'all',
-  2: 'new',
-  3: 'old'
-}
-
-BUNDLE_TYPES = {
-  1: 'all',
-  2: 'texture',
-  3: 'audio'
-}
-
 MAX_THREADS = 20
 
-#######################################################################################################################
-
-def getMode():
-  print( '' )
-
-  print( 'Which Bundles do you want to extracted?' )
-  print( '1 - All' )
-  print( '2 - Only New Bundles' )
-  print( '3 - Only Old Bundles' )
-  bundleAge = int( input( 'Input: ' ).strip() or '3' )
-
-  print( '' )
-
-  print( 'Which Bundle-Type do you want to extraced?' )
-  print( '1 - All' )
-  print( '2 - Only Textures' )
-  print( '3 - Only Audios' )
-  bundleType = int( input( 'Input: ' ).strip() or '1' )
-
-  print( '' )
-
-  return { 
-    'age': BUNDLE_AGES.get( bundleAge ),
-    'type': BUNDLE_TYPES.get( bundleType )
-  }
-
 
 #######################################################################################################################
 
-def filterBundle( bundleData, filterOptions ):
-  keys = bundleData.keys()
-  age = filterOptions[ 'age' ]
-  type = filterOptions[ 'type' ]
-
-  if age == 'all' and type == 'all':
-    return keys
-
-  filteredBundles = []
-
-  for key in keys:
-    bundleInfo = bundleData[ key ]
-    isRightAge = False
-    isRightType = False
-
-    if age == 'all':
-      isRightAge = True
-    elif age == 'new' and not bundleInfo[ 'lastExtracted' ]:
-      isRightAge = True
-    elif age == 'old' and bundleInfo[ 'lastExtracted' ]:
-      isRightAge = True
-
-    if type == 'all':
-      isRightType = True
-    elif type == bundleInfo[ 'type' ]:
-      isRightType = True
-    elif type == bundleInfo[ 'type' ]:
-      isRightType = True
-
-    if isRightAge and isRightType:
-      filteredBundles.append( key )
-
-  return filteredBundles
-
-
-#######################################################################################################################
-
-def getBundlePath( path, bundleSet ):
-  bundlePaths = []
-
-  for folder in os.listdir( path ):
-    bundlePath = Path( path, folder )
-
-    if os.path.isdir( bundlePath ):
-      if folder in bundleSet:
-        bundlePaths.append( bundlePath )
-      else:
-        result = getBundlePath( bundlePath, bundleSet )
-        bundlePaths.extend( result )
-
-  return bundlePaths
-
-
-#######################################################################################################################
-
-def searchBundlePaths( bundleData, filterOptions ):
+def searchBundlePaths():
   basePath = r'E:\\Gamfs_BrownDust II'
   folderPath = []
   for folder in os.listdir( basePath ):
     folderPath.append( Path( basePath, folder ) )
-  # filteredBundles = filterBundle( bundleData, filterOptions )
-  # bundleSet = set( filteredBundles )
-  # return getBundlePath( basePath, bundleSet )
   return folderPath
 
 
@@ -179,10 +83,8 @@ def extract( bundlePaths, extractionFolderPath: Path ):
 
 #######################################################################################################################
 
-def extracedAssets( bundleData, extractionFolderPath: Path ):
-  inputResult = getMode()
-  bundlePaths = searchBundlePaths( bundleData, inputResult )
-  print( len( bundlePaths ) )
+def extracedAssets( extractionFolderPath: Path ):
+  bundlePaths = searchBundlePaths()
   deleteExtractionDir( extractionFolderPath )
   extract( bundlePaths, extractionFolderPath )
   print( '\nExtraction complete...' )
