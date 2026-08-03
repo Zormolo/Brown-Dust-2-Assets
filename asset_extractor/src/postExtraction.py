@@ -56,7 +56,7 @@ assetFolderStructure = {
       'files': []
     },
     "speech_bubble_faces": {
-      'regex': r'^illust_face[\d_]*\.png',
+      'regex': r'^illust_(npc)?face[\d_]*\.png',
       'files': []
     },
     "wallpapers": {
@@ -446,8 +446,48 @@ def mapSpeechBubbleFaces( assetFolderPath: Path ):
   os.mkdir( folderPath )
   notAllowed = set( [
     'illust_face800001_32',
-    'illust_face800401_26',
-    'illust_face800601_23'
+    'illust_face00440101_1260',
+    'illust_face00440106_1261',
+    'illust_face00440107_1262',
+    'illust_npcface00040172_963',
+    'illust_npcface0000070172_850',
+    'illust_npcface0000080172_851',
+    'illust_npcface00080172_1752',
+    'illust_npcface0000130101_906',
+    'illust_npcface0000140101_907',
+    'illust_npcface0000170101_918',
+    'illust_npcface0016090101_1126',
+    'illust_npcface0016090101_1126_1',
+    'illust_npcface81460101_1658',
+    'illust_npcface4000260172_1106',
+    'illust_npcface4000270172_1107',
+    'illust_npcface4000290101_1109',
+    'illust_npcface4000300101_1110',
+    'illust_npcface4000310101_1111',
+    'illust_npcface4000350101_1112',
+    'illust_npcface4000360101_1113',
+    'illust_npcface4000370101_1114',
+    'illust_npcface4000510101_1127',
+    'illust_npcface4000710172_1246',
+    'illust_npcface4000720172_1247',
+    'illust_npcface4000720172_1248',
+    'illust_npcface4000720172_1249',
+    'illust_npcface4000720172_1250',
+    'illust_npcface4000730172_1248',
+    'illust_npcface4000740172_1249',
+    'illust_npcface4000750172_1250',
+    'illust_npcface4000920172_1366',
+    'illust_npcface4001060172_1482',
+    'illust_npcface4001070172_1483',
+    'illust_npcface4001080172_1484',
+    'illust_npcface4001240172_1655',
+    'illust_npcface4001250172_1656',
+    'illust_npcface4001260172_1657',
+    'illust_npcface4001380172_1681',
+    'illust_npcface4001390172_1682',
+    'illust_npcface4001400172_1683',
+    'illust_npcface4001440172_1680',
+    'illust_npcface40004101177_1125'
   ] )
   for filePath in assetFolderStructure[ 'ui' ][ 'speech_bubble_faces' ][ 'files' ]:
     fileName = filePath.stem

@@ -178,8 +178,7 @@ The icons are numbered in asending order of the costume release date.
 <br>
 
 All faces used in story / character / content / event packs for speech bubbles.  
-Only from playble characters and some random others.  
-NPC will follow later.
+From characters and NPCs.  
 
 [Go to Speech Bubble Faces](assets/ui/speech_bubble_faces/)
 
