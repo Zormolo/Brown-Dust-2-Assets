@@ -29,6 +29,7 @@ This Repo archives the Assets from the Game: Brown Dust 2. More focused on the S
 - [Report Issues](#report-issues)
 - [3rd Party](#3rd-party-dependencies)
   - [Unity Assest Extractor](#assets-extractor)
+- [Ko-Fi](#ko-fi)
 
 ## Spine Models
 ### Character Models
@@ -229,3 +230,9 @@ Link to Repo --> https://github.com/aelurum/AssetStudio
 
 ### Catalog Decoder Script from Myssal
 Link to Profil --> https://github.com/myssal
+
+## Ko-Fi
+
+You like my work? Consider a tip on my Ko-Fi-Page...  
+
+Link to my Ko-Fi-Page ---> https://ko-fi.com/zormolo
