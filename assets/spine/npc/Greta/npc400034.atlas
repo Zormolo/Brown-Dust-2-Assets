@@ -68,7 +68,7 @@ bounds:2,478,12,18
 body_acc2
 bounds:2,228,10,21
 body_acc3
-bounds:157,385,17,16
+bounds:2,343,17,16
 body_acc4
 bounds:1928,289,69,40
 rotate:270
@@ -133,9 +133,9 @@ offsets:0,0,44,36
 eye_normal2
 bounds:556,206,34,26
 eyeball_L_rage
-bounds:32,461,10,10
+bounds:78,499,10,10
 eyeball_R_rage
-bounds:77,500,10,9
+bounds:104,376,10,9
 eyeball_disapproval1
 bounds:2,251,17,17
 eyeball_normal1
@@ -159,15 +159,15 @@ offsets:0,1,14,16
 eyebrow_L_rage
 bounds:556,134,26,32
 eyebrow_R_rage
-bounds:2,347,26,13
+bounds:53,466,26,13
 eyebrow_disapproval1
 bounds:1933,481,33,28
 eyebrow_disapproval2
 bounds:156,495,25,14
 eyebrow_normal1
-bounds:321,443,30,26
+bounds:610,9,21,30
 eyebrow_normal2
-bounds:46,463,23,18
+bounds:15,346,26,12
 eyebrow_sneer1
 bounds:2,54,34,24
 eyebrow_sneer2
@@ -376,6 +376,8 @@ offsets:0,2,237,279
 rotate:270
 mouth_disapproval
 bounds:340,182,27,20
+mouth_embarrassment
+bounds:32,459,19,13
 mouth_normal1
 bounds:196,399,24,21
 mouth_normal2
@@ -415,6 +417,8 @@ offsets:0,0,107,53
 shadow2
 bounds:1317,49,247,123
 rotate:270
+sweat_embarrassment
+bounds:13,228,6,19
 upper_body
 bounds:50,94,203,234
 rotate:270
