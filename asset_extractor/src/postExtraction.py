@@ -106,6 +106,16 @@ def addArchiveFiles():
     archiveFilePath = Path( archiveFolderPath, archiveFile )
     extractedFilePaths.append( archiveFilePath )
 
+
+#######################################################################################################################
+
+def addSkillIconFiles():
+  skillIconFolderPath = Path( 'skillIcons' )
+  for skillIconFile in os.listdir( skillIconFolderPath ):
+    skillIconFilePath = Path( skillIconFolderPath, skillIconFile )
+    extractedFilePaths.append( skillIconFilePath )
+
+
 #######################################################################################################################
 
 def filterPaths( writeDebugFile: bool ):
@@ -606,6 +616,7 @@ def mapFilesToAssetFolder( extractionFolderPath: Path, assetFolderPath: Path, wr
   precompailRegex()
   findExtractedFilePaths( extractionFolderPath )
   addArchiveFiles()
+  addSkillIconFiles()
   filterPaths( writeDebugFile )
   mappingJson = loadMapping()
   createAssetFolder( assetFolderPath )
