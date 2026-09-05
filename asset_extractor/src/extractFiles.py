@@ -9,16 +9,6 @@ MAX_THREADS = 20
 
 #######################################################################################################################
 
-def searchBundlePaths():
-  basePath = r'E:\\Gamfs_BrownDust II'
-  folderPath = []
-  for folder in os.listdir( basePath ):
-    folderPath.append( Path( basePath, folder ) )
-  return folderPath
-
-
-#######################################################################################################################
-
 def deleteExtractionDir( folderPath: Path ):
   if os.path.exists( folderPath ):
     print( 'Delete existing Extraction-Folder...' )
@@ -83,8 +73,7 @@ def extract( bundlePaths, extractionFolderPath: Path ):
 
 #######################################################################################################################
 
-def extracedAssets( extractionFolderPath: Path ):
-  bundlePaths = searchBundlePaths()
+def extractAssets( assetFolders, extractionFolderPath: Path ):
   deleteExtractionDir( extractionFolderPath )
-  extract( bundlePaths, extractionFolderPath )
+  extract( assetFolders, extractionFolderPath )
   print( '\nExtraction complete...' )
