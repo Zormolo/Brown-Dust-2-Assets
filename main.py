@@ -30,10 +30,10 @@ def searchBundlePaths( path, targetFolderNames, deeps = 0 ):
 #######################################################################################################################
 
 if __name__ == '__main__':
-  decodedBundleStrings = decode_catalog_key_data_strings( CATALOG_FILE_PATH )
+  # decodedBundleStrings = decode_catalog_key_data_strings( CATALOG_FILE_PATH )
   # makeBundleJson( decodedBundleStrings, True )
-  skillIconFolderNames = filterSkillIconBundles( decodedBundleStrings )
-  searchBundlePaths( r'E:\\Gamfs_BrownDust II', skillIconFolderNames )
-  # extractAssets( EXTRACTION_FOLDER_PATH )
-  # extractSkillIcons( assetFolderPaths, decodedBundleStrings )
-  # mapFilesToAssetFolder( EXTRACTION_FOLDER_PATH, Path( "assets" ), False )
+  # skillIconFolderNames = filterSkillIconBundles( decodedBundleStrings )
+  # searchBundlePaths( r'E:\\Gamfs_BrownDust II', skillIconFolderNames )
+  # extractAssets( assetFolderPaths, EXTRACTION_FOLDER_PATH )
+  # extractSkillIcons( skillIconFolderPaths )
+  mapFilesToAssetFolder( EXTRACTION_FOLDER_PATH, Path( "assets" ), False )
