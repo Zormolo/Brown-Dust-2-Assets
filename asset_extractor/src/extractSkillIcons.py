@@ -11,7 +11,7 @@ skillIconContainerPath = Path( '.', 'skillIcons' )
 def filterSkillIconBundles( decodedBundleStrings ):
   list = []
   for bundleString in decodedBundleStrings:
-    if ( "common-ui-texture" in bundleString ) or ( "bufficongui" in bundleString ) :
+    if ( "common-ui-texture" in bundleString ) or ( "bufficongui" in bundleString ) or ( "rangegui1" in bundleString ) :
       list.append( bundleString.split( '_' )[ -1 ] )
   return list
 
