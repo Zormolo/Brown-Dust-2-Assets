@@ -172,11 +172,17 @@ def getMappingId( fileName: str, separator: str, maxCount: int ):
     return fileName
 
   mappingId = ''
-  for part in fileName.split( separator )[ 0 : -1 ]:
+  countOfSeparator = 0
+  for part in fileName.split( separator ):
     if not mappingId:
       mappingId = part
+      if countOfSeparator >= maxCount:
+        break
       continue
     mappingId += f'{ separator }{ part }'
+    countOfSeparator += 1
+    if countOfSeparator >= maxCount:
+      break
   return mappingId
 
 
