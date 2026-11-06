@@ -1,21 +1,50 @@
-MIT License
+# Custom Restricted Use License
 
-Copyright (c) 2026 Zormolo
+Copyright (c) 2026 [YOUR NAME]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 1. Ownership
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+All original source code, software architecture, scripts, tools, documentation, and other original materials in this repository are the intellectual property of their respective authors.
+
+## 2. Permitted Activities
+
+You are permitted to:
+
+- View and inspect the source code.
+- Report bugs and suggest improvements.
+- Submit pull requests and contributions to this repository.
+- Modify the code for the purpose of contributing improvements to this project.
+
+## 3. Restrictions
+
+Without explicit written permission from the original copyright holder, you may NOT:
+
+- Copy or reuse this project's source code in other projects.
+- Incorporate any portion of the source code into another software product.
+- Redistribute, publish, sublicense, or sell the source code or modified versions outside this project.
+- Use this code as the foundation for a separate or competing project.
+- Claim ownership of the original project or its code.
+
+## 4. Contributions
+
+By submitting a contribution, you confirm that:
+
+- You have the legal right to submit the contribution.
+- Your contribution does not knowingly infringe third-party intellectual property rights.
+- You grant the project maintainer permission to incorporate, modify, maintain, and distribute your contribution as part of this project, subject to an agreed contributor agreement.
+
+## 5. Third-Party Materials
+
+This license does not apply to third-party materials, including artwork, images, characters, audio, music, logos, or other assets belonging to their respective copyright holders.
+
+## 6. No Warranty
+
+This project is provided "AS IS", without warranties or guarantees of any kind.
+
+## 7. All Rights Reserved
+
+Any rights not explicitly granted by this license remain reserved by their respective copyright holders.
+
+Unauthorized use may result in legal action where permitted by applicable law.
