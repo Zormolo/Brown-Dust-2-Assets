@@ -342,7 +342,12 @@ def mapSpecialAnimatioSpines( assetFolderPath: Path ):
 def mapMiscellaneousSpines( assetFolderPath: Path ):
   folderPath = Path( assetFolderPath, 'spine', 'miscellaneous' )
   os.mkdir( folderPath )
-  allowedAvatarBodyAccessory = set( [ 'avatarbodyaccessory_1006', 'avatarbodyaccessory_1007' ] )
+  allowedAvatarBodyAccessory = set( [ 
+    'avatarbodyaccessory_1006',
+    'avatarbodyaccessory_1007',
+    'avatarbodyaccessory_1013',
+    'avatarbodyaccessory_1014',
+  ] )
   for filePath in assetFolderStructure[ 'spine' ][ 'miscellaneous' ][ 'files' ]:
     fileName = filePath.stem
 
