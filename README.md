@@ -30,6 +30,7 @@ This Repo archives the Assets from the Game: Brown Dust 2. More focused on the S
 - [3rd Party](#3rd-party-dependencies)
   - [Unity Assest Extractor](#assets-extractor)
 - [Ko-Fi](#ko-fi)
+- [AI & Automated Data Usage Policy](#ai--automated-data-usage-policy)
 
 ## Spine Models
 ### Character Models
@@ -236,8 +237,7 @@ You like my work? Consider a tip on my Ko-Fi-Page...
 
 Link to my Ko-Fi-Page ---> https://ko-fi.com/zormolo
 
-
-### AI & Automated Data Usage Policy
+## AI & Automated Data Usage Policy
 
 **No AI training or unauthorized indexing.**
 
