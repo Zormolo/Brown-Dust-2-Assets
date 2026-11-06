@@ -48,3 +48,20 @@ This project is provided "AS IS", without warranties or guarantees of any kind.
 Any rights not explicitly granted by this license remain reserved by their respective copyright holders.
 
 Unauthorized use may result in legal action where permitted by applicable law.
+
+## 8. Artificial Intelligence, Machine Learning & Data Mining Restrictions
+
+Unless explicitly authorized in writing by the copyright holder, the following activities are prohibited:
+
+- Using any source code, documentation, files, or other original materials from this repository to train, fine-tune, develop, test, or improve artificial intelligence or machine learning models.
+- Using repository contents as training data, evaluation datasets, benchmarking material, or reference datasets for AI systems.
+- Scraping, crawling, harvesting, or systematically collecting repository contents for AI training, machine learning, or automated data extraction purposes.
+- Reproducing, storing, or indexing repository contents in AI training datasets, vector databases, embeddings databases, or similar AI-related data stores.
+- Using repository contents as context or source material for AI-powered code generation systems, coding assistants, or automated code reproduction tools.
+- Redistributing repository contents to AI providers or third parties for any of the above purposes.
+
+These restrictions apply to both commercial and non-commercial use, including automated systems, bots, crawlers, and third-party services.
+
+Normal human access to the repository for reviewing, understanding, reporting bugs, and contributing to the project remains permitted under this license.
+
+Any exception requires explicit written permission from the copyright holder.

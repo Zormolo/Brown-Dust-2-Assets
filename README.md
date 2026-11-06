@@ -235,3 +235,14 @@ Link to Profil --> https://github.com/myssal
 You like my work? Consider a tip on my Ko-Fi-Page...  
 
 Link to my Ko-Fi-Page ---> https://ko-fi.com/zormolo
+
+
+### AI & Automated Data Usage Policy
+
+**No AI training or unauthorized indexing.**
+
+The contents of this repository may not be used for AI/LLM training, fine-tuning, dataset creation, automated code reproduction, or AI-related data harvesting without explicit written permission.
+
+This restriction applies to all source code, documentation, and original project materials.
+
+Contributions and human code review are welcome. AI companies and automated data collection services are not granted permission to use this repository as training material.
