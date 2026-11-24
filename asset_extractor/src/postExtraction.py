@@ -517,7 +517,19 @@ def mapSpeechBubbleFaces( assetFolderPath: Path ):
     'illust_npcface4001390172_1682',
     'illust_npcface4001400172_1683',
     'illust_npcface4001440172_1680',
-    'illust_npcface40004101177_1125'
+    'illust_npcface40004101177_1125',
+    'illust_npcface9192010101_42.png',
+    'illust_npcface9192010102_44.png',
+    'illust_npcface9192010105_45.png',
+    'illust_npcface9192010107_43.png',
+    'illust_npcface9193010101_33.png',
+    'illust_npcface9193010101_38.png',
+    'illust_npcface9193010102_40.png',
+    'illust_npcface9193010103_41.png',
+    'illust_npcface9193010117_36.png',
+    'illust_npcface9193010118_39.png',
+    'illust_npcface9193010120_35.png',
+    'illust_npcface9193010198_37.png'
   ] )
   for filePath in assetFolderStructure[ 'ui' ][ 'speech_bubble_faces' ][ 'files' ]:
     fileName = filePath.stem
