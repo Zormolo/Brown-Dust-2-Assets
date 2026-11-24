@@ -306,9 +306,8 @@ def mapSkillCutsceneSpines( assetFolderPath: Path, map: dict ):
       shutil.copy( filePath, folderPath )
       continue
 
-    skill_cutscene_layer = filePath.parts[ -2 ]
-    if len( skill_cutscene_layer ) < 32:
-      mappingValue += f'\\{ skill_cutscene_layer }'
+    if fileName[ -2: ] == '_1':
+      mappingValue += f'\\{ fileName }'
 
     mappingFolderPath = Path( folderPath, mappingValue )
     if not os.path.exists( mappingFolderPath ):
