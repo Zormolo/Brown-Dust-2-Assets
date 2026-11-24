@@ -363,17 +363,40 @@ def mapMiscellaneousSpines( assetFolderPath: Path ):
 def mapCostumeFace( assetFolderPath: Path ):
   folderPath = Path( assetFolderPath, 'ui', 'costume_face' )
   os.mkdir( folderPath )
+
+  folderContent = {}
+
+  for filePath in assetFolderStructure[ 'ui' ][ 'costume_face' ][ 'files' ]:
+    folderName = filePath.parts[ -2 ]
+    if folderContent.get( folderName ):
+      folderContent[ folderName ] = folderContent[ folderName ] + 1
+    else:
+      folderContent[ folderName ] = 1
+
+  censoredFolderName = ''
+  maxValue = 0
+  for key, value in folderContent.items():
+    if value > maxValue:
+      censoredFolderName = key
+
   for filePath in assetFolderStructure[ 'ui' ][ 'costume_face' ][ 'files' ]:
     fileName = filePath.stem[ 0 : 23 ]
 
     if fileName == 'illust_inven_char101601':
       fileName = 'illust_inven_char060401'
-    if 'Censorship' in filePath.parts:
-      fileName = f'{ fileName }_c'
+
+    folderName = filePath.parts[ -2 ]
+    if folderContent.get( folderName ):
+      folderContent[ folderName ] = folderContent[ folderName ] + 1
+    else:
+      folderContent[ folderName ] = 1
+
+    if filePath.parts[ -2 ] == censoredFolderName:
+      fileName = f"{ fileName}_c"
+
     fileExtension = filePath.suffix
     newPath = Path( folderPath, f"{ fileName }{ fileExtension }" )
     shutil.copy( filePath, newPath )
-
 
 #######################################################################################################################
 
