@@ -51,6 +51,10 @@ assetFolderStructure = {
       'regex': r'^illust_skill_char[\d_]*\.png',
       'files': []
     },
+    "skill_cutscene_background": {
+      'regex': r'^(char)?[\d _]*back[\d_\-]*(blur)?\.png',
+      'files': []
+    },
     "skill_icons": {
       'regex': r'^skillicon[\d_]*\.png',
       'files': []
@@ -119,16 +123,12 @@ def addSkillIconFiles():
 #######################################################################################################################
 
 def filterPaths( writeDebugFile: bool ):
-    assetFolderStructure[ 'ui' ][ 'skill_cutscene_background' ] = []
     for filePath in extractedFilePaths:
       filePathString = filePath.__str__()
       if "#" in filePathString or not filePathString or "dummy" in filePathString:
         continue
 
       fileName = filePath.parts[ -1 ]
-      if 'Skillbackground_1' in filePath.parts:
-        assetFolderStructure[ 'ui' ][ 'skill_cutscene_background' ].append( filePath )
-        continue
 
       for regex, fileList in compiledRegex:
         if regex.search( fileName ):
@@ -200,8 +200,6 @@ def mapCharacterSpines( assetFolderPath: Path, map: dict ):
     if 'char101601' in fileName:
       fileName = fileName.replace( 'char101601', 'char060401' )
 
-    if '.skel' in fileName:
-      fileName = fileName.replace( '.skel', '' )
     mappingValue = map.get( getMappingId( fileName, '_', 0 ) )
 
     if mappingValue == None:
@@ -309,8 +307,8 @@ def mapSkillCutsceneSpines( assetFolderPath: Path, map: dict ):
       continue
 
     skill_cutscene_layer = filePath.parts[ -2 ]
-    if len( skill_cutscene_layer ) > 20:
-      mappingValue += f'\\{ skill_cutscene_layer }'
+    if len( skill_cutscene_layer ) == 32:
+      continue
 
     mappingFolderPath = Path( folderPath, mappingValue )
     if not os.path.exists( mappingFolderPath ):
@@ -436,14 +434,25 @@ def mapCostumeSkillFace( assetFolderPath: Path ):
 
 #######################################################################################################################
 
-def mapSkillCutsceneBackgrounds( assetFolderPath: Path ):
+def mapSkillCutsceneBackgrounds( assetFolderPath: Path, map: dict ):
   folderPath = Path( assetFolderPath, 'ui', 'skill_cutscene_background' )
   os.mkdir( folderPath )
-  for filePath in assetFolderStructure[ 'ui' ][ 'skill_cutscene_background' ]:
+  for filePath in assetFolderStructure[ 'ui' ][ 'skill_cutscene_background' ][ 'files' ]:
     fileName = filePath.stem
 
-    fileExtension = filePath.suffix
-    newPath = Path( folderPath, f"{ fileName }{ fileExtension }" )
+    mappingValue = map.get( getMappingId( fileName, '_', 0 ) )
+
+    if mappingValue == None:
+      shutil.copy( filePath, folderPath )
+      continue
+
+    mappingFolderPath = Path( folderPath, mappingValue )
+    if not os.path.exists( mappingFolderPath ):
+      os.makedirs( mappingFolderPath )
+    newPath = Path( mappingFolderPath, f'{ fileName }{ filePath.suffix }' )
+
+    if os.path.exists( newPath ):
+      continue
     shutil.copy( filePath, newPath )
 
 
@@ -591,19 +600,9 @@ def fixAtlasFiles( assetFolderPath: Path ):
       'to': 'char060401'
     },
     {
-      'path': Path( folderPath, 'character', 'Gray', 'B-Rank_Manager', 'char000402.atlas' ),
-      'from': '.skel.png',
-      'to': '.png'
-    },
-    {
       'path': Path( folderPath, 'character', 'Loen', 'Last_Hope', 'char003201.atlas' ),
       'from': 'npc300501',
       'to': 'char003201'
-    },
-    {
-      'path': Path( folderPath, 'skill_cutscene', 'Helena', 'B-Rank_Idol', 'cutscene_char061002.atlas' ),
-      'from': 'Char061002',
-      'to': 'char061002'
     },
     {
       'path': Path( folderPath, 'skill_cutscene', 'Helena', 'Rising_Star', 'cutscene_char061092.atlas' ),
@@ -643,7 +642,7 @@ def mapFilesToAssetFolder( extractionFolderPath: Path, assetFolderPath: Path, wr
   mapCostumeFace( assetFolderPath )
   mapCostumeIcon( assetFolderPath )
   mapCostumeSkillFace( assetFolderPath )
-  mapSkillCutsceneBackgrounds( assetFolderPath )
+  mapSkillCutsceneBackgrounds( assetFolderPath, mappingJson[ 'character' ] )
   mapSkillIcons( assetFolderPath )
   mapSpeechBubbleFaces( assetFolderPath )
   mapWallpapers( assetFolderPath )
