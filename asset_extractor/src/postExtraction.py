@@ -307,8 +307,8 @@ def mapSkillCutsceneSpines( assetFolderPath: Path, map: dict ):
       continue
 
     skill_cutscene_layer = filePath.parts[ -2 ]
-    if len( skill_cutscene_layer ) == 32:
-      continue
+    if len( skill_cutscene_layer ) < 32:
+      mappingValue += f'\\{ skill_cutscene_layer }'
 
     mappingFolderPath = Path( folderPath, mappingValue )
     if not os.path.exists( mappingFolderPath ):
